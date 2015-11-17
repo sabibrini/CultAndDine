@@ -1,8 +1,42 @@
-logs
-target
-/.idea
-/.idea_modules
-/.classpath
-/.project
-/.settings
-/RUNNING_PID
+# Ignore Play! working directory #
+/bin/
+/db/
+.eclipse/
+.project/
+.classpath/
+*.properties/
+.cache/
+/lib/
+/logs/
+/modules/
+/project/project/
+/project/target/
+/target/
+/tmp/
+/test-result/
+server.pid
+*.iml
+*.eml
+/dist/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+#other gitignore
+bin/classes/.gitignore
