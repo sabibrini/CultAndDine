@@ -1,0 +1,43 @@
+@import java.util
+@(event: util.List[events])
+
+@main("Cult and Dine") {
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/bootstrap.css")">
+    <div class="container-fluid">
+        <div class="row ">
+            <div class="col-lg-2 col-md-3 col-md-4 col-md-6 col-md-8 col-md-12">
+                <style type="text/css">
+                    body {
+                        padding-top: 30px;
+                        padding-left:20px;
+                        background-color: #eee4e1;
+                    }
+                </style>
+                <h1><strong><center> Welcome to Cult and Dine </center> </strong></h1>
+                <h4><center><i><b> We provide the simplest way to dine and see culture in Vienna</b></i></center><h4> 
+                <br><br><br><br>
+                     <br>
+                    <table class="table"> 
+                            <tr>
+                                    <th>Title</th>
+                                    <th>Link </th> 
+                                    <th>Category </th>  
+                                    <th>Description </th> 
+                            </tr>
+                            <tbody>
+                            @for(event:events <-event){
+                             <tr>
+                                    <td>@event.getTitle</td>
+                                    <td>@event.getLink</td>
+                                    <td>@event.getCategory</td>
+                                    <td>@event.getDescription</td>
+                            </tr>
+                            }
+                            </tbody>
+                    </table>
+                    <br><br><br><br><br>
+            </div>
+        </div>
+    </div>
+}

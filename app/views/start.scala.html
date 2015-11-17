@@ -1,0 +1,34 @@
+
+@main("Cult and Dine") {
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/bootstrap.css")">
+    <div class="container-fluid">
+        <div class="row ">
+            <div class="col-lg-2 col-md-3 col-md-4 col-md-6 col-md-8 col-md-12">
+                <style type="text/css">
+                    body {
+                        padding-top: 30px;
+                        padding-left:20px;
+                        background-color: #eee4e1;
+                    }
+                </style>
+                <h1><strong><center> Welcome to Cult and Dine </center> </strong></h1>
+                <h4><center><i><b> We provide the simplest way to dine and see culture in Vienna</b></i></center><h4> 
+                <br><br><br><br>
+                <h4>Search for the events on your Vienna Trip:</h4>
+                <form method="GET" action=/events>
+                    Startdate: <input type="text" name="dateStart" id=3 action=/events > <br>
+                    Enddate: <input type="text" name="dateEnd" id=4 action=/events > <br>
+                     <button type="events" name="events" action=/events>Search for events</button>
+                </form><br>
+                <h4>Search for the restaurants on your Vienna Trip:</h4>
+                <form method="GET" action=/restaurants>
+                    Startdate: <input type="text" name="dateStart" id=3 action=/restaurants > <br>
+                    Enddate: <input type="text" name="dateEnd" id=4 action=/restaurants > <br>
+                     <button type="restaurants" name="restaurants" action=/restaurants>Search for restaurants</button>
+                </form><br>
+                <br>
+            </div>
+        </div>
+    </div>
+}
