@@ -15,6 +15,6 @@ public class restaurants extends Model {
     public String adress;
     public String phonenumber;
 
-    public static Finder<Long, User> find = new Finder<>(User.class);
+    public static Finder<Long, restaurants> find = new Finder<>(restaurants.class);
 
 }
