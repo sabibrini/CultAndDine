@@ -1,5 +1,5 @@
 @import java.util
-@(restau: util.List[restaurants])
+@(restau: util.List[Restaurants])
 
 @main("Cult and Dine") {
     <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
@@ -28,7 +28,7 @@
                          <th>Phonenumber</th>
                     </tr>
                     <tbody>
-                    @for(restau:restaurants <-restau){
+                    @for(restau:Restaurants <-restau){
                         <tr>
                             <td>@restau.name</td>
                             <td>@restau.category</td>

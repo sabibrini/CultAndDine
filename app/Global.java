@@ -1,6 +1,6 @@
 import java.util.List;
 
-import models.restaurants;             //import your Class
+import models.Restaurants;             //import your Class
 import play.Application;
 import play.GlobalSettings;
 import play.libs.Yaml;
@@ -15,12 +15,12 @@ import play.api.libs.json.Json;
 import com.avaje.ebean.Ebean;
 
 public class Global extends GlobalSettings {
-
+	
     @Override
     public void onStart(Application app) {
         if (Restaurants.find.all().isEmpty()) {  
             List<Restaurants> r=Restaurants.find.all();
-             JsArray a = (JsArray) parser.parse(new FileReader("c:\\kimonoData.json")); 
+             JsArray a = (JsArray) parser.parse(new FileReader("/CultAndDine/public/inputfiles/restaurantAPI.json")); 
             for(Object o: a){
                 JSONObject restaurants = (JSONObject) o;
                 String restId=(String) restaurants.get("id");

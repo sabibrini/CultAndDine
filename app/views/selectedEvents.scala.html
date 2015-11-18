@@ -1,5 +1,5 @@
 @import java.util
-@(event: util.List[events])
+@(event: util.List[Events])
 
 @main("Cult and Dine") {
     <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
@@ -26,7 +26,7 @@
                                     <th>Description </th> 
                             </tr>
                             <tbody>
-                            @for(event:events <-event){
+                            @for(event:Events <-event){
                              <tr>
                                     <td>@event.getTitle</td>
                                     <td>@event.getLink</td>
