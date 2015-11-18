@@ -1,13 +1,13 @@
  package models;
 
 
-public class events{
+public class Events{
     private String Title;
     private String link;
     private String Description;
     private String Category;
     
-    public events(String Title,String link,String Description,String Category){
+    public Events(String Title,String link,String Description,String Category){
         this.Title=Title;
         this.link=link;
         this.Description=Description;

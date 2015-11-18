@@ -18,8 +18,8 @@ public class Global extends GlobalSettings {
 
     @Override
     public void onStart(Application app) {
-        if (restaurants.find.all().isEmpty()) {  
-            List<restaurants> r=restaurants.find.all();
+        if (Restaurants.find.all().isEmpty()) {  
+            List<Restaurants> r=Restaurants.find.all();
              JsArray a = (JsArray) parser.parse(new FileReader("c:\\kimonoData.json")); 
             for(Object o: a){
                 JSONObject restaurants = (JSONObject) o;
@@ -30,7 +30,7 @@ public class Global extends GlobalSettings {
                 String restaurantAdress=(String) restaurants.get("adress");
                 String restaurantPhone=(String) restaurants.get("phoneNr");
             
-                restaurants rest = new restaurants();
+                Restaurants rest = new Restaurants();
                 rest.id=restId;
                 rest.name=restaurantName;
                 rest.category=restaurantCata;

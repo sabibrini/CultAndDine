@@ -8,9 +8,9 @@ import org.w3c.dom.Element;
 import java.io.File;
 import java.util.ArrayList;
 
-public class read_xml {
+public class Read_xml {
     
-    public static ArrayList<events> event=new ArrayList<events>();
+    public static ArrayList<Events> event=new ArrayList<Events>();
 
     public static void read(){
 
