@@ -1,11 +1,16 @@
-import java.io.FileReader;
-import java.util.*;
+import java.util.List;
 
 import models.restaurants;             //import your Class
-import org.json.simple.*;
+import play.Application;
+import play.GlobalSettings;
+import play.libs.Yaml;
+
+import play.db.ebean.Model;
 
 import play.*;
-
+import play.mvc.*;
+import java.util.List;
+import play.api.libs.json.Json;
 
 import com.avaje.ebean.Ebean;
 
@@ -14,8 +19,8 @@ public class Global extends GlobalSettings {
     @Override
     public void onStart(Application app) {
         if (restaurants.find.all().isEmpty()) {  
-            ArrayList<restaurants> r=new ArrayList<restaurants>();
-             JSONArray a = (JSONArray) parser.parse(new FileReader("/home/sara/CultAndDine/restaurantAPI.json"));
+            List<restaurants> r=restaurants.find.all();
+             JsArray a = (JsArray) parser.parse(new FileReader("c:\\kimonoData.json")); 
             for(Object o: a){
                 JSONObject restaurants = (JSONObject) o;
                 String restId=(String) restaurants.get("id");
