@@ -17,4 +17,24 @@ public class Restaurants extends Model {
 
     public static Finder<Long, Restaurants> find = new Finder<>(Restaurants.class);
 
+    public void setId (Lond id) {
+    	this.id = id;
+    }
+    
+    public void setName (String name) {
+    	this.name = name;
+    }
+    
+    public void setCategory (String category) {
+    	this.category = category;
+    }
+    
+    public void setPriceClass (String priceclass) {
+    	this.priceclass = priceclass;
+    }
+    
+    public void setPhoneNumber (String phonenumber) {
+    	this.phonenumber = phonenumber;
+    }
+    
 }
