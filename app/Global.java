@@ -1,3 +1,4 @@
+import java.io.BufferedReader;
 import java.util.List;
 
 import models.Restaurants;             //import your Class
@@ -5,8 +6,7 @@ import play.Application;
 import play.GlobalSettings;
 import play.libs.Yaml;
 
-import java.io.File;
-import java.io.FileOutputStream;
+import java.io.*;
 import java.io.IOException;
 
 import play.db.ebean.Model;
@@ -54,7 +54,7 @@ public class Global extends GlobalSettings {
             
             reader.beginArray();
             while(reader.hasNext()) {
-            	Restaurant rest = new Restaurant();
+            	Restaurants rest = new Restaurants();
             	reader.beginObject();
             	while (reader.hasNext()) {
             		String current = reader.nextName();
@@ -70,10 +70,10 @@ public class Global extends GlobalSettings {
             		else if (current.equals("priceclass") && reader.peek() != JsonToken.NULL) {
             			rest.priceclass(reader.nextString());
             		}
-            		else if (current.equal("adress") && reader.peek() != JsonToken.NULL) {
+            		else if (current.equals("adress") && reader.peek() != JsonToken.NULL) {
             			rest.adress(reader.nextString());
             		}
-            		else if (current.equal("phoneNr") && reader.peek() != JsonToken.NULL) {
+            		else if (current.equals("phoneNr") && reader.peek() != JsonToken.NULL) {
             			rest.phonenumber(reader.nextString());
             		}
             		else {
@@ -81,7 +81,7 @@ public class Global extends GlobalSettings {
             		}
             	}
             	reader.endObject();
-            	r.add(restaurant);
+            	r.add(rest);
             }
             reader.endArray();
             reader.close();
