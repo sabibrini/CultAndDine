@@ -43,7 +43,7 @@ public class Global extends GlobalSettings {
             JsonReader reader = new JsonReader(br);
             reader.setLenient(true);
 
-			try{
+			try {
             reader.beginArray();
             while(reader.hasNext()) {
             	Restaurants rest = new Restaurants();
@@ -51,22 +51,22 @@ public class Global extends GlobalSettings {
             	while (reader.hasNext()) {
             		String current = reader.nextName();
             		if (current.equals("id") && reader.peek() != JsonToken.NULL) {
-            			rest.id(reader.nextLong());
+            			rest.setId(reader.nextLong());
             		}
             		else if (current.equals("restaurantName") && reader.peek() != JsonToken.NULL) {
-            			rest.name(reader.nextString());
+            			rest.setName(reader.nextString());
             		}
             		else if (current.equals("text") && reader.peek() != JsonToken.NULL) {
-            			rest.category(reader.nextString());
+            			rest.setCategory(reader.nextString());
             		}
             		else if (current.equals("priceclass") && reader.peek() != JsonToken.NULL) {
-            			rest.priceclass(reader.nextString());
+            			rest.setPriceClass(reader.nextString());
             		}
             		else if (current.equals("adress") && reader.peek() != JsonToken.NULL) {
-            			rest.adress(reader.nextString());
+            			rest.setAdress(reader.nextString());
             		}
             		else if (current.equals("phoneNr") && reader.peek() != JsonToken.NULL) {
-            			rest.phonenumber(reader.nextString());
+            			rest.setPhoneNumber(reader.nextString());
             		}
             		else {
             			reader.skipValue();
@@ -78,7 +78,10 @@ public class Global extends GlobalSettings {
             }
             reader.endArray();
             reader.close();
-			}catch (Exception e){e.printStackTrace();}
+			}
+			catch (Exception e){
+				e.printStackTrace();
+			}
             
             try {
             	br.close();
