@@ -14,13 +14,15 @@ import play.db.ebean.Model;
 import play.*;
 import play.mvc.*;
 import java.util.List;
-import play.api.libs.json.Json;
+/*import play.api.libs.json.Json;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
 
 import org.eclipse.persistence.jaxb.MarshallerProperties;
-import org.eclipse.persistence.jaxb.UnmarshallerProperties;
+import org.eclipse.persistence.jaxb.UnmarshallerProperties;*/
+
+import com.google.gson.stream.*;
 
 import org.eclipse.persistence.jaxb.JAXBContextFactory;
 
@@ -35,7 +37,64 @@ public class Global extends GlobalSettings {
             List<Restaurants> r=Restaurants.find.all();
 
             String jsonFile ="/CultAndDine/public/inputfiles/restaurantAPI.json";
-            JAXBContext jc = JAXBContext.newInstance(DatabaseInventory.class);
+            
+            BufferedReader br = null;
+            
+            try {
+            	br = new BufferedReader(new InputStreamReader(new FileInputStream(jsonFile), "UTF-8"));
+            } catch (FileNotFoundException fnfe) {
+            	System.out.println("Could nort open input file" + jsonFile + ", quitting.");
+            } catch (UnsupportedEncodingException uee) {
+            	System.out.println("Problems with encoding");
+            	uee.printStackTrace();
+            }
+            
+            JsonReader reader = new JsonReader(br);
+            reader.setLenient(true);
+            
+            reader.beginArray();
+            while(reader.hasNext()) {
+            	Restaurant rest = new Restaurant();
+            	reader.beginObject();
+            	while (reader.hasNext()) {
+            		String current = reader.nextName();
+            		if (current.equals("id") && reader.peek() != JsonToken.NULL) {
+            			rest.id(reader.nextLong());
+            		}
+            		else if (current.equals("restaurantName") && reader.peek() != JsonToken.NULL) {
+            			rest.name(reader.nextString());
+            		}
+            		else if (current.equals("text") && reader.peek() != JsonToken.NULL) {
+            			rest.category(reader.nextString());
+            		}
+            		else if (current.equals("priceclass") && reader.peek() != JsonToken.NULL) {
+            			rest.priceclass(reader.nextString());
+            		}
+            		else if (current.equal("adress") && reader.peek() != JsonToken.NULL) {
+            			rest.adress(reader.nextString());
+            		}
+            		else if (current.equal("phoneNr") && reader.peek() != JsonToken.NULL) {
+            			rest.phonenumber(reader.nextString());
+            		}
+            		else {
+            			reader.skipValue();
+            		}
+            	}
+            	reader.endObject();
+            	r.add(restaurant);
+            }
+            reader.endArray();
+            reader.close();
+            
+            try {
+            	br.close();
+            }
+            catch (IOException ioe) {
+            	ioe.printStackTrace();
+            }
+            
+            
+            /*JAXBContext jc = JAXBContext.newInstance(DatabaseInventory.class);
             Unmarshaller unmarshaller = jc.createUnmarshaller();
             File jsonObj = new File(jsonFile);
 
@@ -47,7 +106,7 @@ public class Global extends GlobalSettings {
             String xmlFile = "json2xml/samples/convertedFile.xml";
             FileOutputStream fos = new FileOutputStream(new File(workspace + xmlFile));
             xmlM.marshal(activity, fos);
-            fos.close();
+            fos.close();*/
 
 
 
