@@ -17,7 +17,7 @@ public class Read_xml {
 
 		try {
 
-			File fXmlFile = new File("CultAndDine2/public/inputfiles/events.xml");
+			File fXmlFile = new File("public/inputfiles/events.xml");
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 			Document doc = dBuilder.parse(fXmlFile);
@@ -51,7 +51,7 @@ public class Read_xml {
 
 		try {
 
-			File fXmlFile = new File("CultAndDine2/public/inputfiles/restaurantsAPI.xml");
+			File fXmlFile = new File("public/inputfiles/restaurantsAPI.xml");
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 			Document doc = dBuilder.parse(fXmlFile);

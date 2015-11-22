@@ -51,7 +51,7 @@ public class Application extends Controller {
         TransformerFactory tfactory = TransformerFactory.newInstance();
         Transformer xform = tfactory.newTransformer();
 
-        File myOutput = new File("CultAndDine/public/inputfiles/events.xml");
+        File myOutput = new File("public/inputfiles/events.xml");
         xform.transform(new DOMSource(doc), new StreamResult(myOutput));
 
         models.Read_xml.readEvents();
