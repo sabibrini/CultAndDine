@@ -38,7 +38,7 @@ public class Read_xml {
 		if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 
 			Element eElement = (Element) nNode;
-                        event.add( new events(eElement.getElementsByTagName("title").item(0).getTextContent(),eElement.getElementsByTagName("link").item(0).getTextContent(),eElement.getElementsByTagName("description").item(0).getTextContent(), eElement.getElementsByTagName("category").item(0).getTextContent()));
+                        event.add( new Events(eElement.getElementsByTagName("title").item(0).getTextContent(),eElement.getElementsByTagName("link").item(0).getTextContent(),eElement.getElementsByTagName("description").item(0).getTextContent(), eElement.getElementsByTagName("category").item(0).getTextContent()));
 		}
 	}
     } catch (Exception e) {

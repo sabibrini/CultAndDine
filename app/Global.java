@@ -1,7 +1,8 @@
 import java.io.BufferedReader;
 import java.util.List;
 
-import com.google.gson.stream.*;
+import play.api.lib.json.*;
+//import com.google.gson.stream.*;
 import models.Restaurants;             //import your Class
 import play.Application;
 import play.GlobalSettings;
@@ -18,7 +19,7 @@ import java.util.List;
 
 
 import com.avaje.ebean.Ebean;
-
+//asdfsdfsd
 public class Global extends GlobalSettings {
 
     @Override
@@ -27,16 +28,14 @@ public class Global extends GlobalSettings {
             List<Restaurants> r=Restaurants.find.all();
 
             String jsonFile ="/CultAndDine/public/inputfiles/restaurantAPI.json";
-            
-            BufferedReader br = null;
-            
-            try {
-            	br = new BufferedReader(new InputStreamReader(new FileInputStream(jsonFile), "UTF-8"));
+
+
+			BufferedReader br = null;
+
+            try{
+				br = new BufferedReader(new InputStreamReader(new FileInputStream(jsonFile)));
             } catch (FileNotFoundException fnfe) {
-            	System.out.println("Could nort open input file" + jsonFile + ", quitting.");
-            } catch (UnsupportedEncodingException uee) {
-            	System.out.println("Problems with encoding");
-            	uee.printStackTrace();
+            	System.out.println("Could not open input file" + jsonFile + ", quitting.");
             }
             
 

@@ -36,5 +36,10 @@ public class Restaurants extends Model {
     public void setPhoneNumber (String phonenumber) {
     	this.phonenumber = phonenumber;
     }
+
+    public void setAdress (String adress) {
+        this.adress = adress;
+    }
+
     
 }

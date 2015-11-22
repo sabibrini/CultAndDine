@@ -17,25 +17,22 @@ import java.net.URL;
 import java.net.URLConnection;
 
 import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.Transformer;
-import javax.xml.transform.TransformerException;
-import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.*;
 import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;
-import models.Read_xml;
 
 import play.*;
 import play.mvc.*;
 
 public class Application extends Controller {
 
-    public Result start() {
+    public play.mvc.Result start() {
         return ok(start.render());
     }
-    public Result events() throws Exception{
+    public play.mvc.Result events() throws Exception{
          DynamicForm requestData = form().bindFromRequest();
          String startdate=requestData.get("dateStart");
          String end= requestData.get("dateEnd");
@@ -55,22 +52,17 @@ public class Application extends Controller {
 
         File myOutput = new File("events.xml");
         xform.transform(new DOMSource(doc), new StreamResult(myOutput));
+
+        models.Read_xml.read();
         
-        read_xml.read();
-        
-        return ok(selectedEvents.render(read_xml.event));
+        return ok(selectedEvents.render(models.Read_xml.event));
     }
     
-    public Result restaurants(){
+    public play.mvc.Result restaurants(){
         DynamicForm requestData = form().bindFromRequest();
          String startdate=requestData.get("dateStart");
          String end= requestData.get("dateEnd");
-         
-         
-         
-         JSONObject json=new JSONObject(str);
-         String xml =XML.toString(json);
-        
+
         return ok(start.render());
     }
         
