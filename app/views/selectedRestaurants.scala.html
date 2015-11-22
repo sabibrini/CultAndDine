@@ -2,45 +2,42 @@
 @(restau: util.List[Restaurants])
 
 @main("Cult and Dine") {
-    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
-    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/bootstrap.css")">
-    <div class="container-fluid">
-        <div class="row ">
-            <div class="col-lg-2 col-md-3 col-md-4 col-md-6 col-md-8 col-md-12">
-                <style type="text/css">
-                    body {
-                        padding-top: 30px;
-                        padding-left:20px;
-                        background-color: #eee4e1;
-                    }
-                </style>
-                <h1><strong><center> Welcome to Cult and Dine </center> </strong></h1>
-                <h4><center><i><b> We provide the simplest way to dine and see culture in Vienna</b></i></center><h4> 
+<link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
+<link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/bootstrap.css")">
+<div class="container-fluid">
+    <div class="row ">
+        <div class="col-lg-2 col-md-3 col-md-4 col-md-6 col-md-8 col-md-12">
+            <style type="text/css">
+                body {
+                padding-top: 30px;
+                padding-left:20px;
+                background-color: #eee4e1;
+                }
+            </style>
+            <h1><strong><center> Welcome to Cult and Dine </center> </strong></h1>
+            <h4><center><i><b> We provide the simplest way to dine and see culture in Vienna</b></i></center></h4>
                 <br><br><br><br>
-                
-                <form>
-                <table class="table"> 
-                    <tr>
-                         <th>Name</th>
-                         <th>Category</th>
-                         <th>Priceclass</th>
-                         <th>Adress</th>
-                         <th>Phonenumber</th>
-                    </tr>
-                    <tbody>
-                    @for(restau:Restaurants <-restau){
+                    <table class="table">
                         <tr>
-                            <td>@restau.id</td>
-                            <td>@restau.name</td>
-                            <td>@restau.category</td>
-                            <td>@restau.priceclass</td>
+                            <th>ID </th>
+                            <th>Name</th>
+                            <th>Category</th>
+                            <th>priceclass</th>
+                        </tr>
+                        <tbody>
+                        @for(resta:Restaurants <-restau){
+                        <tr>
+                            <td>@resta.id</td>
+                            <td>@resta.name</td>
+                            <td>@resta.category</td>
+                            <td>@resta.priceclass</td>
 
                         </tr>
-                    }
-                </table>
-                
-                   <br>
-                <br>
+                        }
+                        </tbody>
+                    </table>
+
+                    <br><br>
             </div>
         </div>
     </div>

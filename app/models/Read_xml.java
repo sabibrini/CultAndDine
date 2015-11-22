@@ -73,6 +73,7 @@ public class Read_xml {
 				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 
 					Element eElement = (Element) nNode;
+
 					res.add(new Restaurants(eElement.getElementsByTagName("index").item(0).getTextContent(), eElement.getElementsByTagName("restaurantName").item(0).getTextContent(), eElement.getElementsByTagName("text").item(0).getTextContent(), eElement.getElementsByTagName("priceclass").item(0).getTextContent()));
 				}
 			}
