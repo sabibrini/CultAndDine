@@ -17,7 +17,7 @@ public class Restaurants extends Model {
 
     public static Finder<Long, Restaurants> find = new Finder<>(Restaurants.class);
 
-    public void setId (Lond id) {
+    public void setId (Long id) {
     	this.id = id;
     }
     

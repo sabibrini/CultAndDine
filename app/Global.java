@@ -39,9 +39,11 @@ public class Global extends GlobalSettings {
             	uee.printStackTrace();
             }
             
+
             JsonReader reader = new JsonReader(br);
             reader.setLenient(true);
-            
+
+			try{
             reader.beginArray();
             while(reader.hasNext()) {
             	Restaurants rest = new Restaurants();
@@ -76,6 +78,7 @@ public class Global extends GlobalSettings {
             }
             reader.endArray();
             reader.close();
+			}catch (Exception e){e.printStackTrace();}
             
             try {
             	br.close();
