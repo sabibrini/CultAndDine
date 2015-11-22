@@ -30,11 +30,11 @@
                     <tbody>
                     @for(restau:Restaurants <-restau){
                         <tr>
+                            <td>@restau.id</td>
                             <td>@restau.name</td>
                             <td>@restau.category</td>
                             <td>@restau.priceclass</td>
-                            <td>@restau.adress</td>
-                            <td>@restau.phonenumber</td>
+
                         </tr>
                     }
                 </table>

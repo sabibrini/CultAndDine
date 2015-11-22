@@ -15,6 +15,13 @@ public class Restaurants extends Model {
     public String adress;
     public String phonenumber;
 
+    public Restaurants(String index,String restaurantName,String text,String priceclass){
+        this.id=Long.parseLong(index);
+        this.name=restaurantName;
+        this.category=text;
+        this.priceclass=priceclass;
+    }
+
     public static Finder<Long, Restaurants> find = new Finder<>(Restaurants.class);
 
     public void setId (Long id) {

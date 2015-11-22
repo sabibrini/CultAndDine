@@ -32,6 +32,7 @@ public class Application extends Controller {
     public play.mvc.Result start() {
         return ok(start.render());
     }
+
     public play.mvc.Result events() throws Exception{
          DynamicForm requestData = form().bindFromRequest();
          String startdate=requestData.get("dateStart");
@@ -50,20 +51,19 @@ public class Application extends Controller {
         TransformerFactory tfactory = TransformerFactory.newInstance();
         Transformer xform = tfactory.newTransformer();
 
-        File myOutput = new File("events.xml");
+        File myOutput = new File("CultAndDine/public/inputfiles/events.xml");
         xform.transform(new DOMSource(doc), new StreamResult(myOutput));
 
-        models.Read_xml.read();
+        models.Read_xml.readEvents();
         
         return ok(selectedEvents.render(models.Read_xml.event));
     }
     
     public play.mvc.Result restaurants(){
-        DynamicForm requestData = form().bindFromRequest();
-         String startdate=requestData.get("dateStart");
-         String end= requestData.get("dateEnd");
 
-        return ok(start.render());
+        models.Read_xml.readRestaurants();
+
+        return ok(selectedRestaurants.render(models.Read_xml.res));
     }
         
 }
