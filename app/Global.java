@@ -1,13 +1,14 @@
 import java.io.BufferedReader;
 import java.util.List;
 
+import com.google.gson.stream.*;
 import models.Restaurants;             //import your Class
 import play.Application;
 import play.GlobalSettings;
 import play.libs.Yaml;
 
 import java.io.*;
-import java.io.IOException;
+
 
 import play.db.ebean.Model;
 
@@ -22,9 +23,9 @@ import javax.xml.bind.Unmarshaller;
 import org.eclipse.persistence.jaxb.MarshallerProperties;
 import org.eclipse.persistence.jaxb.UnmarshallerProperties;*/
 
-import com.google.gson.stream.*;
+//import gson.stream.*;
 
-import org.eclipse.persistence.jaxb.JAXBContextFactory;
+//import org.eclipse.persistence.jaxb.JAXBContextFactory;
 
 
 import com.avaje.ebean.Ebean;
@@ -32,7 +33,7 @@ import com.avaje.ebean.Ebean;
 public class Global extends GlobalSettings {
 
     @Override
-    public void onStart(Application app) throws Exception {
+    public void onStart(Application app) {
         if (Restaurants.find.all().isEmpty()) {  
             List<Restaurants> r=Restaurants.find.all();
 
