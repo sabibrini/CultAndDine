@@ -48,5 +48,31 @@ public class Restaurants extends Model {
         this.adress = adress;
     }
 
-    
+
+    public Long getId () {
+        return id;
+    }
+
+    public String getName () {
+        return name;
+    }
+
+    public String getCategory () {
+        return category;
+    }
+
+    public String getPriceClass () {
+        return priceclass;
+    }
+
+    public String getPhoneNumber () {
+        return phonenumber;
+    }
+
+    public String getAdress () {
+        return adress;
+    }
+
+
+
 }

@@ -11,7 +11,6 @@ import java.util.ArrayList;
 public class Read_xml {
 
 	public static ArrayList<Events> event = new ArrayList<Events>();
-	public static ArrayList<Restaurants> res = new ArrayList<Restaurants>();
 
 	public static void readEvents() {
 
@@ -47,39 +46,5 @@ public class Read_xml {
 		}
 	}
 
-	public static void readRestaurants() {
-
-		try {
-
-			File fXmlFile = new File("public/inputfiles/restaurantsAPI.xml");
-			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
-			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
-			Document doc = dBuilder.parse(fXmlFile);
-
-
-			doc.getDocumentElement().normalize();
-
-
-			NodeList nList = doc.getElementsByTagName("collection1");
-
-			System.out.println("----------------------------");
-
-			for (int temp = 0; temp < nList.getLength(); temp++) {
-
-				Node nNode = nList.item(temp);
-
-				System.out.println("\nCurrent Element :" + nNode.getNodeName());
-
-				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
-
-					Element eElement = (Element) nNode;
-
-					res.add(new Restaurants(eElement.getElementsByTagName("index").item(0).getTextContent(), eElement.getElementsByTagName("restaurantName").item(0).getTextContent(), eElement.getElementsByTagName("text").item(0).getTextContent(), eElement.getElementsByTagName("priceclass").item(0).getTextContent()));
-				}
-			}
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-	}
 }
 

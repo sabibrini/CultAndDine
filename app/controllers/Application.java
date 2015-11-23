@@ -61,9 +61,9 @@ public class Application extends Controller {
     
     public play.mvc.Result restaurants(){
 
-        models.Read_xml.readRestaurants();
+        models.Read_xmlRest.readRestaurants();
 
-        return ok(selectedRestaurants.render(models.Read_xml.res));
+        return ok(selectedRestaurants.render(models.Read_xmlRest.res));
     }
         
 }
