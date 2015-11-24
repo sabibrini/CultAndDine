@@ -16,6 +16,7 @@ import play.db.ebean.Model;
 import play.*;
 import play.mvc.*;
 import java.util.List;
+import models.*;
 
 
 import com.avaje.ebean.Ebean;

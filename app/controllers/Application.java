@@ -59,7 +59,7 @@ public class Application extends Controller {
         return ok(selectedEvents.render(models.Read_xml.event));
     }
     
-    public play.mvc.Result restaurants(){
+    public play.mvc.Result restaurants() throws Exception{
 
         models.Read_xmlRest.readRestaurants();
 

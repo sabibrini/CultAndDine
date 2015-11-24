@@ -15,8 +15,8 @@ public class Restaurants extends Model {
     public String adress;
     public String phonenumber;
 
-    public Restaurants(String index,String restaurantName,String text,String priceclass){
-        this.id=Long.parseLong(index);
+    public Restaurants(Integer index,String restaurantName,String text,String priceclass){
+        this.id=new Long(index);
         this.name=restaurantName;
         this.category=text;
         this.priceclass=priceclass;
