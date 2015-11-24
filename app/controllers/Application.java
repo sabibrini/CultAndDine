@@ -52,11 +52,15 @@ public class Application extends Controller {
         DocumentBuilder builder = factory.newDocumentBuilder();
         Document doc = builder.parse(conn.getInputStream());
 
+        DOMSource domSource = new DOMSource(doc);
         TransformerFactory tfactory = TransformerFactory.newInstance();
-        Transformer xform = tfactory.newTransformer();
+        
 
-        File myOutput = new File("public/inputfiles/events.xml");
-        xform.transform(new DOMSource(doc), new StreamResult(myOutput));
+        FileWriter myOutput = new FileWriter("public/inputfiles/events.xml");
+        Transformer xform = tfactory.newTransformer();
+        xform.setOutputProperty(OutputKeys.INDENT, "yes");
+        xform.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
+        xform.transform(domSource, new StreamResult(myOutput));
 
         models.Read_xml.readEvents();
         
