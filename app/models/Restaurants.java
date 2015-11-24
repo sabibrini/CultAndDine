@@ -4,6 +4,7 @@ import play.db.ebean.Model;
 import javax.persistence.*;
 import play.data.validation.Constraints;
 
+
 @Entity
 public class Restaurants extends Model {
 
@@ -17,14 +18,6 @@ public class Restaurants extends Model {
     public String phonenumber;
     public String quater;
 
-   /* public Restaurants(Integer index,String restaurantName,String text,String priceclass,String quater,String adress){
-        this.id=new Long(index);
-        this.name=restaurantName;
-        this.category=text;
-        this.priceclass=priceclass;
-        this.adress=adress;
-        this.quater=quater;
-    }*/
 
     public static Finder<Long, Restaurants> find = new Finder<>(Restaurants.class);
 
