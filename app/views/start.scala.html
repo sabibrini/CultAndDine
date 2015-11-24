@@ -1,7 +1,7 @@
 
 @main("Cult and Dine") {
     <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
-    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/bootstrap.css")">
+    <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/bootstrap/bootstrap.min.css")">
     <div class="container-fluid">
         <div class="row ">
             <div class="col-lg-2 col-md-3 col-md-4 col-md-6 col-md-8 col-md-12">
@@ -23,8 +23,32 @@
                 </form><br>
                 <h4>Search for the restaurants on your Vienna Trip:</h4>
                 <form method="GET" action=/restaurants>
-                    Startdate: <input type="text" name="dateStart" id=3 action=/restaurants > <br>
-                    Enddate: <input type="text" name="dateEnd" id=4 action=/restaurants > <br>
+                     <select class="form-control">
++                      <option>Mariahilf</option>
++                      <option>Landstraße</option>
++                      <option>Innere Stadt</option>
++                      <option>Josefstadt</option>
++                      <option>Margarten</option>
++                      <option>Ottakring</option>
++                      <option>Neubau</option>
++                      <option>Döbling</option>
++                      <option>Alsergrund</option>
++                      <option>Rudolfsheim-Fünfhaus</option>
++                      <option>Hietzing</option>
++                      <option>Floridsdorf</option>
++                      <option>Donaustadt</option>
++                      <option>Hernals</option>
++                      <option>Brigittenau</option>
++                      <option>Währing</option>
++                      <option>Wieden, Freihausviertel</option>
++                      <option>Wieden</option>
++                      <option>Penzing</option>
++                      <option>Favoriten</option>
++                      <option>Meidling</option>
++                      <option>Leopoldstadt, Wiener Prater</option>
++                      <option>Alsergrund</option>
++                      <option>Liesing</option>
++                    </select>
                      <button type="restaurants" name="restaurants" action=/restaurants>Search for restaurants</button>
                 </form><br>
                 <br>
