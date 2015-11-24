@@ -22,7 +22,9 @@
                             <th>ID </th>
                             <th>Name</th>
                             <th>Category</th>
-                            <th>priceclass</th>
+                            <th>Priceclass</th>
+                            <th>Adress</th>
+                            <th>Quater</th>
                         </tr>
                         <tbody>
                         @for(resta:Restaurants <-restau){
@@ -31,6 +33,8 @@
                             <td>@resta.name</td>
                             <td>@resta.category</td>
                             <td>@resta.priceclass</td>
+                            <td>@resta.adress</td>
+                            <td>@resta.quater</td>
 
                         </tr>
                         }

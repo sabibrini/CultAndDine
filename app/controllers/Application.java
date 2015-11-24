@@ -27,6 +27,10 @@ import org.xml.sax.SAXException;
 import play.*;
 import play.mvc.*;
 
+import java.util.LinkedList;
+import java.util.List;
+import models.*;
+
 public class Application extends Controller {
 
     public play.mvc.Result start() {
@@ -62,8 +66,9 @@ public class Application extends Controller {
     public play.mvc.Result restaurants() throws Exception{
 
         models.Read_xmlRest.readRestaurants();
+        List<Restaurants> rest=Restaurants.find.all();
 
-        return ok(selectedRestaurants.render(models.Read_xmlRest.res));
+        return ok(selectedRestaurants.render(rest));
     }
         
 }

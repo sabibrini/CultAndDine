@@ -8,19 +8,23 @@ import play.data.validation.Constraints;
 public class Restaurants extends Model {
 
     @Id
+    @GeneratedValue     // to fill more data in the database
     public Long id;
     public String name;
     public String category;
     public String priceclass;
     public String adress;
     public String phonenumber;
+    public String quater;
 
-    public Restaurants(Integer index,String restaurantName,String text,String priceclass){
+   /* public Restaurants(Integer index,String restaurantName,String text,String priceclass,String quater,String adress){
         this.id=new Long(index);
         this.name=restaurantName;
         this.category=text;
         this.priceclass=priceclass;
-    }
+        this.adress=adress;
+        this.quater=quater;
+    }*/
 
     public static Finder<Long, Restaurants> find = new Finder<>(Restaurants.class);
 
