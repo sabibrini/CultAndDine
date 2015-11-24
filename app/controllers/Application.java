@@ -74,5 +74,17 @@ public class Application extends Controller {
 
         return ok(selectedRestaurants.render(rest));
     }
+
+    public play.mvc.Result filterCategor(){
+        List<Restaurants> r=FilterRestaurant.filterCategory("Weinbar");
+        return ok(selectedRestaurants.render(r));
+    }
+
+    public play.mvc.Result filterQuatDatabase(){
+        List<Restaurants> r=FilterRestaurant.filterQuarter("Mariahilf");
+        List<Restaurants> output=FilterRestaurant.filterCategoryList(r,"Weinbar");
+        return ok(selectedRestaurants.render(output));
+    }
+
         
 }
