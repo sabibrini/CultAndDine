@@ -11,7 +11,9 @@
                     body {
                         padding-top: 30px;
                         padding-left:20px;
-                        background-color: #eee4e1;
+                        background-color: #F3E1C3;
+						font-family:Calibri;
+						font-size: 14pt;
                     }
                 </style>
                 <h1><strong><center> Welcome to Cult and Dine </center> </strong></h1>
@@ -21,7 +23,6 @@
                     <table class="table"> 
                             <tr>
                                     <th>Title</th>
-                                    <th>Link </th> 
                                     <th>Category </th>  
                                     <th>Description </th> 
                             </tr>
@@ -29,7 +30,6 @@
                             @for(event:Events <-event){
                              <tr>
                                     <td>@event.getTitle</td>
-                                    <td>@event.getLink</td>
                                     <td>@event.getCategory</td>
                                     <td>@event.getDescription</td>
                             </tr>
