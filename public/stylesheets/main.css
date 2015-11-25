@@ -1,7 +1,13 @@
  body {
-                        padding-top: 30px;
-                        padding-left:20px;
-                        background-color: #F3E1C3;
-			font-family:Calibri;
-			font-size: 14pt;
-                    }
+    padding-top: 30px;
+    padding-left:20px;
+    background-color: #F3E1C3;
+	font-family:Calibri;
+	font-size: 14pt;
+}
+
+.btn-xl {
+    padding: 12px 20px;
+    font-size: 16pt;
+    border-radius: 8px;
+}
