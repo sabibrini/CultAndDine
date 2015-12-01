@@ -16,6 +16,9 @@ public class FilterRestaurant{
     public static List<Restaurants> filterCategory(String cat){
         return Restaurants.find.where().ilike("category",cat).findList();
     }
+    public static List<Restaurants> filterName(String name){
+        return Restaurants.find.where().ilike("name",name).findList();
+    }
 
     public static List<Restaurants> filterCategoryList(List<Restaurants> r2,String category){
         List<Restaurants> output=new ArrayList<Restaurants>();
