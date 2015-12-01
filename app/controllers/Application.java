@@ -83,7 +83,7 @@ public class Application extends Controller {
     public play.mvc.Result filterQuatDatabase(){
     	//form request returns null
         DynamicForm requestData = form().bindFromRequest();
-    	String userinput = requestData.get("selection");
+    	String userinput = requestData.field("selection").value();
     	System.out.println(userinput);
         List<Restaurants> r=FilterRestaurant.filterQuarter("Mariahilf");
         return ok(selectedRestaurants.render(r));
