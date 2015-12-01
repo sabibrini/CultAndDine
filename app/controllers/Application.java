@@ -136,5 +136,41 @@ public class Application extends Controller {
 
         return  ok(start.render());
     }
+    public play.mvc.Result matchRestEvent() throws Exception{
+        Geographics g=Read_xmlRest.geo.get(0);
+
+        DynamicForm requestData = form().bindFromRequest();
+        String startdate=requestData.get("dateStart");
+        String end= requestData.get("dateEnd");
+
+        String site= "https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=rss-vadb_neu&Type=R&hmwd=d&vie_range-from="+startdate+"&vie_range-to="+end;
+
+
+        URL url = new URL(site);
+        URLConnection conn = url.openConnection();
+
+        DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+        DocumentBuilder builder = factory.newDocumentBuilder();
+        Document doc = builder.parse(conn.getInputStream());
+
+        DOMSource domSource = new DOMSource(doc);
+        TransformerFactory tfactory = TransformerFactory.newInstance();
+
+
+        FileWriter myOutput = new FileWriter("public/inputfiles/events.xml");
+        Transformer xform = tfactory.newTransformer();
+        xform.setOutputProperty(OutputKeys.INDENT, "yes");
+        xform.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
+        xform.transform(domSource, new StreamResult(myOutput));
+
+        models.Read_xml.readEvents();
+
+        for(Events x: Read_xml.event) {
+            // filter von lat und lnd!!!!!
+
+           // String site = "https://maps.googleapis.com/maps/api/distancematrix/xml?origins=" g.getLat(),g.getLnd()"&destinations="San Francisco"&mode=walking&language=en-EN";
+        }
+        return  ok(start.render());
+    }
         
 }
