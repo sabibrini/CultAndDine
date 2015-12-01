@@ -143,7 +143,7 @@ public class Application extends Controller {
         String startdate=requestData.get("dateStart");
         String end= requestData.get("dateEnd");
 
-        String site= "https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=rss-vadb_neu&Type=R&hmwd=d&vie_range-from="+startdate+"&vie_range-to="+end;
+        String site= "https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=rss-vadb_neu&Type=R&hmwd=d&vie_range-from="+"14.06.2016"+"&vie_range-to="+"16.06.2016";
 
 
         URL url = new URL(site);
@@ -165,10 +165,29 @@ public class Application extends Controller {
 
         models.Read_xml.readEvents();
 
+        String la=Float.toString(g.getLat());
+        String ln=Float.toString(g.getLnd());
+        //System.out.println(la+" ehwriohweoiehoihrgpihreghreähgiperhgüeqhü "+ln);
         for(Events x: Read_xml.event) {
-            // filter von lat und lnd!!!!!
 
-           // String site = "https://maps.googleapis.com/maps/api/distancematrix/xml?origins=" g.getLat(),g.getLnd()"&destinations="San Francisco"&mode=walking&language=en-EN";
+            String site2 = "https://maps.googleapis.com/maps/api/distancematrix/xml?origins="+la+","+ln+"&destinations="+x.getCoordinates()+"&mode=walking&language=en-EN";
+            URL url1 = new URL(site2);
+            URLConnection conn1 = url1.openConnection();
+
+            DocumentBuilderFactory factory1 = DocumentBuilderFactory.newInstance();
+            DocumentBuilder builder1 = factory1.newDocumentBuilder();
+            Document doc1 = builder1.parse(conn1.getInputStream());
+
+            DOMSource domSource1 = new DOMSource(doc1);
+            TransformerFactory tfactory1 = TransformerFactory.newInstance();
+
+
+            FileWriter myOutput1 = new FileWriter("public/inputfiles/distance.xml");
+            Transformer xform1 = tfactory1.newTransformer();
+            xform1.setOutputProperty(OutputKeys.INDENT, "yes");
+            xform1.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
+            xform1.transform(domSource1, new StreamResult(myOutput1));
+
         }
         return  ok(start.render());
     }

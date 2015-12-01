@@ -41,7 +41,8 @@ public class Read_xml {
 					event.add(new Events(eElement.getElementsByTagName("title").item(0).getTextContent(), 
 					eElement.getElementsByTagName("category").item(0).getTextContent(), 
 					//eElement.getElementsByTagName("description").item(0).getTextContent(), 
-					eElement.getElementsByTagName("cal:organizer").item(0).getTextContent()));
+					eElement.getElementsByTagName("cal:organizer").item(0).getTextContent(),
+					eElement.getElementsByTagName("georss:point").item(0).getTextContent()));
 				}
 			}
 		} catch (Exception e) {

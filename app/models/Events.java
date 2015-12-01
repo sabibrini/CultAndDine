@@ -6,12 +6,18 @@ public class Events{
    // private String Description;
     private String Category;
     private String Organizer;
+	private String Coordinates;
     
-    public Events(String Title, String Category,/* String Description,*/ String Organizer){
+    public Events(String Title, String Category,/* String Description,*/ String Organizer,String Coordinates){
         this.Title=Title;
        // this.Description=Description;
         this.Category=Category;
         this.Organizer = Organizer;
+		if(Coordinates.contains(" ")){
+			this.Coordinates=Coordinates.replace(" ",",");
+
+		}
+		//this.Coordinates=Coordinates;
     }
      public String getTitle() {
 		return Title;
@@ -20,7 +26,9 @@ public class Events{
 	public void setTitle(String title) {
 		Title = title;
 	}
-
+	public String getCoordinates(){
+		return Coordinates;
+	}
 
 //	public String getDescription() {
 //		return Description;
