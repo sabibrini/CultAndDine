@@ -5,6 +5,11 @@
 <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1>
 <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
 <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/bootstrap.css")">
+
+    	<!-- add responsive button design -->
+    	<div class="btn-group" role="group" aria-label="...">
+		<a href="/home" > <button type="button" class="btn btn-defaut btn-xl">Home</button></a>
+		</div>
 <div class="container-fluid">
     <div class="row ">
         <div class="col-lg-2 col-md-3 col-md-4 col-md-6 col-md-8 col-md-12">
@@ -13,6 +18,7 @@
                 <br><br><br><br>
                     <table class="table">
                         <tr>
+                        	<th></th>
                             <th>ID </th>
                             <th>Name</th>
                             <th>Category</th>
@@ -23,6 +29,8 @@
                         <tbody>
                         @for(resta:Restaurants <-restau){
                         <tr>
+                        	<!-- add form to got to the website with the selected restaurant - add according new view -->
+                        	<td><input type="radio" value="@resta.id" name="selection" autocomplete="off" aria-label="..."></td>
                             <td>@resta.id</td>
                             <td>@resta.name</td>
                             <td>@resta.category</td>

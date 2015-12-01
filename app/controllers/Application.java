@@ -81,10 +81,16 @@ public class Application extends Controller {
     }
 
     public play.mvc.Result filterQuatDatabase(){
+    	//form request returns null
+        DynamicForm requestData = form().bindFromRequest();
+    	String userinput = requestData.get("selection");
+    	System.out.println(userinput);
         List<Restaurants> r=FilterRestaurant.filterQuarter("Mariahilf");
-        List<Restaurants> output=FilterRestaurant.filterCategoryList(r,"Weinbar");
-        return ok(selectedRestaurants.render(output));
+        return ok(selectedRestaurants.render(r));
     }
-
+    
+    public play.mvc.Result goHome() {
+    	return ok(start.render());
+    }
         
 }
