@@ -92,5 +92,13 @@ public class Application extends Controller {
     public play.mvc.Result goHome() {
     	return ok(start.render());
     }
+    
+    public play.mvc.Result selectedRestaurant() {
+    	return ok(restaurant.render());
+    }
+    
+    public play.mvc.Result selectedEvent() {
+    	return ok(event.render());
+    }
         
 }
