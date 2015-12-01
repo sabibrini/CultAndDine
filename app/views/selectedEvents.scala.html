@@ -21,8 +21,10 @@
                             <tr>
                             		<th><br><hr></th>
                                     <th>Title <br> <hr> </th>
-                                    <th>Category <br> <hr> </th>  
+                                    <th>Category <br> <hr> </th> 
                                     <th>Description <br> <hr> </th> 
+                               
+                                    
                             </tr>
                             <tbody>
                             @for(event:Events <-event){
@@ -31,7 +33,9 @@
                              		<td><input type="radio" name="selection" autocomplete="off" aria-label="..."></td>			
                                     <td>@event.getTitle</td>
                                     <td>@event.getCategory</td>
-                                    <td>@event.getDescription</td>
+                                    <td>@event.getOrganizer</td>
+                                    
+                               
                             </tr>
                             }
                             </tbody>
