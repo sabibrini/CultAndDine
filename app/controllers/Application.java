@@ -37,6 +37,14 @@ public class Application extends Controller {
         return ok(start.render());
     }
 
+    public play.mvc.Result selectedRestaurant() {
+        return ok(restaurant.render());
+    }
+
+    public play.mvc.Result selectedEvent() {
+        return ok(event.render());
+    }
+
     public play.mvc.Result events() throws Exception{
          DynamicForm requestData = form().bindFromRequest();
          String startdate=requestData.get("dateStart");

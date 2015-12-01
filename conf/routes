@@ -6,8 +6,10 @@
 GET     /                           controllers.Application.start()
 GET     /events                     controllers.Application.events()
 GET     /restaurants                controllers.Application.filterQuatDatabase()
+POST    /restaurants                controllers.Application.filterQuatDatabase()
 GET     /filterC                    controllers.Application.filterCategor()
 GET		/home						controllers.Application.goHome()
+GET		/thisone					controllers.Application.selectedRestaurant()
 GET     /try                        controllers.Application.calcLongLad()
 
 # Map static resources from the /public folder to the /assets URL path
