@@ -11,3 +11,10 @@
     font-size: 16pt;
     border-radius: 8px;
 }
+
+#googleMaps {
+	width: 500px;
+	height: 380px;
+	position: absolute;
+	right: 20px;
+}
