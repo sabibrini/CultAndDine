@@ -12,6 +12,16 @@ public class Read_xml {
 
 	public static ArrayList<Events> event = new ArrayList<Events>();
 
+    public static String getStreetLoc(Element eElement){
+        String s=eElement.getElementsByTagName("vcard:street-address").item(0).getTextContent();
+        if(s.equals("")) {
+            s=eElement.getElementsByTagName("vcard:street-address").item(1).getTextContent();
+        }
+        s = s.replaceAll("\\r\\n|\\r|\\n", "");
+
+        return s;
+    }
+
 	public static void readEvents() {
 
 		try {
@@ -38,11 +48,16 @@ public class Read_xml {
 				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 
 					Element eElement = (Element) nNode;
-					event.add(new Events(eElement.getElementsByTagName("title").item(0).getTextContent(), 
-					eElement.getElementsByTagName("category").item(0).getTextContent(), 
-					//eElement.getElementsByTagName("description").item(0).getTextContent(), 
-					eElement.getElementsByTagName("cal:organizer").item(0).getTextContent(),
-					eElement.getElementsByTagName("georss:point").item(0).getTextContent()));
+
+					event.add(new Events(eElement.getElementsByTagName("title").item(0).getTextContent(),
+                            eElement.getElementsByTagName("link").item(0).getTextContent(),
+					eElement.getElementsByTagName("category").item(0).getTextContent(),
+					eElement.getElementsByTagName("description").item(0).getTextContent(),
+					//eElement.getElementsByTagName("cal:organizer").item(0).getTextContent(),
+					eElement.getElementsByTagName("georss:point").item(0).getTextContent(),getStreetLoc(eElement)));
+
+				//event.add(new Events(eElement.getElementsByTagName("title").item(0).getTextContent(), eElement.getElementsByTagName("link").item(0).getTextContent(), eElement.getElementsByTagName("description").item(0).getTextContent(), eElement.getElementsByTagName("category").item(0).getTextContent(),eElement.getElementsByTagName("georss:point").item(0).getTextContent()));
+
 				}
 			}
 		} catch (Exception e) {

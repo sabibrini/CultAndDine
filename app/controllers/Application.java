@@ -167,10 +167,20 @@ public class Application extends Controller {
 
         String la=Float.toString(g.getLat());
         String ln=Float.toString(g.getLnd());
-        //System.out.println(la+" ehwriohweoiehoihrgpihreghreähgiperhgüeqhü "+ln);
-        for(Events x: Read_xml.event) {
 
-            String site2 = "https://maps.googleapis.com/maps/api/distancematrix/xml?origins="+la+","+ln+"&destinations="+x.getCoordinates()+"&mode=walking&language=en-EN";
+        //System.out.println(la+" ehwriohweoiehoihrgpihreghreähgiperhgüeqhü "+ln);
+        for(Events x: models.Read_xml.event) {
+            String st = x.getStreet();
+
+            byte ptext[] = st.getBytes("ISO-8859-1");
+            st = new String(ptext, "UTF-8");
+            if (st.contains(" ")) {
+                st = st.replace(" ", "+");
+            }
+
+            String site2 = "https://maps.googleapis.com/maps/api/distancematrix/xml?origins="+la+","+ln+"&destinations="+st+"&mode=walking&language=en-EN";
+
+            System.out.println(site2);
             URL url1 = new URL(site2);
             URLConnection conn1 = url1.openConnection();
 
@@ -187,6 +197,8 @@ public class Application extends Controller {
             xform1.setOutputProperty(OutputKeys.INDENT, "yes");
             xform1.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
             xform1.transform(domSource1, new StreamResult(myOutput1));
+
+            models.Matching.getDistanceData();
 
         }
         return  ok(start.render());
