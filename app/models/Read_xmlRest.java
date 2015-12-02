@@ -17,7 +17,7 @@ import play.db.ebean.Model;
 import com.avaje.ebean.Ebean;
 import javax.persistence.OptimisticLockException;
 
-
+//nice comment
 public class Read_xmlRest {
     public static ArrayList<Geographics> geo = new ArrayList<Geographics>();
 
