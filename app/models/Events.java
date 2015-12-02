@@ -10,7 +10,7 @@ public class Events{
 	private String Coordinates;
 	private String Street;
 
-    public Events(String Title,String link,String Organizer,String Category,String Coordinates,String Street){
+    public Events(String Title,String link,String Category, String Organizer,String Coordinates,String Street){
 
         this.Title=Title;
         this.link=link;
