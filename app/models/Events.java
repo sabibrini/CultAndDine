@@ -19,6 +19,7 @@ public class Events{
         this.Organizer = Organizer;
 		if(Coordinates.contains(" ")){
 			this.Coordinates=Coordinates.replace(" ",",");
+			
 
 		}
 
