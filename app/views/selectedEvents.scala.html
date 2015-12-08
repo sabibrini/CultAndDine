@@ -19,7 +19,6 @@
                      <br>
                     <table class="table"> 
                             <tr>
-                            		<th><br><hr></th>
                                     <th>Title <br> <hr> </th>
                                     <th>Category <br> <hr> </th>  
                                     <th>Description <br> <hr> </th> 
@@ -28,8 +27,7 @@
                             @for(event:Events <-event){
                              <tr>     
                              		<!-- add form to got to the website with the selected event - add according new view -->
-                             		<td><input type="radio" name="selection" autocomplete="off" aria-label="..."></td>			
-                                    <td>@event.getTitle</td>
+                                   <td><a href ="/thisEvent"> @event.getTitle</a></td>
                                     <td>@event.getCategory</td>
                                     <td>@event.getDescription</td>
                             </tr>
@@ -37,7 +35,6 @@
                             </tbody>
                     </table>
                     <br><br><br><br><br>
-                    <a href="/thisEvent"> <button type="restaurants" name="restaurants" action=/thisEvent>Start</button> </a>
             </div>
         </div>
     </div>
