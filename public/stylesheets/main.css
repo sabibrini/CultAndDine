@@ -18,3 +18,26 @@
 	position: absolute;
 	right: 20px;
 }
+
+ a:link { 
+ 	padding: 3px;
+ 	color: #150f05;
+ 	font-weight: bold;
+ 	text-decoration: none;
+}
+
+a:visited { 
+ 	padding: 3px;
+ 	color: #C3C3C3;
+ 	text-decoration: none;
+}
+
+a:hover {
+	font-style: italic;
+	font-weight: bold;
+ 	text-decoration: none;
+}
+
+td {
+	
+}
