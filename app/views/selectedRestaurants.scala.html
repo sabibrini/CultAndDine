@@ -25,20 +25,22 @@
                             <th>Quater</th>
                         </tr>
                         <tbody>
-                        @for(resta:Restaurants <-restau){
-                        <tr>
-                        	<!-- add form to got to the website with the selected restaurant - add according new view -->
-                            <td><a href="/thisone">@resta.name</a></td>
-                            <td>@resta.category</td>
-                            <td>@resta.priceclass</td>
-                            <td>@resta.adress</td>
-                            <td>@resta.quater</td>
-
-                        </tr>
-                        }
+                        @if(restau != null) {
+	                        @for(resta:Restaurants <-restau){
+	                        <tr>
+	                        	<!-- add form to got to the website with the selected restaurant - add according new view -->
+	                            <td> <a href="@routes.Application.calcLongLad(resta.name)" class="btn">@resta.name</a> </td>
+	                            <td>@resta.category</td>
+	                            <td>@resta.priceclass</td>
+	                            <td>@resta.adress</td>
+	                            <td>@resta.quater</td>
+	
+	                        </tr>
+	                        }
+	                   }
                         </tbody>
                     </table>
-					<a href="/thisone"> <button type="restaurants" name="restaurants" action=/thisone>Start</button></a>
+					
                     <br><br>
                     
             </div>

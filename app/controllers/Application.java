@@ -41,8 +41,8 @@ public class Application extends Controller {
 //        return ok(restaurant.render());
 //    }
 
-    public play.mvc.Result selectedEvent() {
-        return ok(event.render());
+    public play.mvc.Result selectedEvent(String name) {
+        return ok(event.render(name));
     }
 
     public play.mvc.Result events() throws Exception{
@@ -105,9 +105,10 @@ public class Application extends Controller {
     	return ok(start.render(new Options()));
     }
 
-    public play.mvc.Result calcLongLad()throws Exception{
+    public play.mvc.Result calcLongLad(String name)throws Exception{
         // lies das Restaurant das mit dem Button gewählt wurde aus und speicher in String
-        List<Restaurants> r=FilterRestaurant.filterName("Martin");
+    	//name is sent when clicking on the hyperlink, it should be filtered (when its not a nullpointer)
+        List<Restaurants> r=FilterRestaurant.filterName(name);
         Restaurants rest=r.get(0);
         String adress=rest.getAdress();
         if(adress.contains("\n")){

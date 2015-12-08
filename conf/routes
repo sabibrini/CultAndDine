@@ -9,8 +9,8 @@ GET     /restaurants                controllers.Application.filterQuatDatabase()
 POST    /restaurants                controllers.Application.filterQuatDatabase()
 GET     /filterC                    controllers.Application.filterCategor()
 GET		/home						controllers.Application.goHome()
-GET		/thisone					controllers.Application.calcLongLad()
-GET		/thisEvent					controllers.Application.selectedEvent()
+GET		/thisone					controllers.Application.calcLongLad(name:String)
+GET		/thisEvent					controllers.Application.selectedEvent(name:String)
 GET     /test                       controllers.Application.matchRestEvent()
 
 # Map static resources from the /public folder to the /assets URL path
