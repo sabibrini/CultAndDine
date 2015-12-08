@@ -28,7 +28,7 @@
 
 a:visited { 
  	padding: 3px;
- 	color: #C3C3C3;
+ 	color: #150f5;
  	text-decoration: none;
 }
 
@@ -36,8 +36,4 @@ a:hover {
 	font-style: italic;
 	font-weight: bold;
  	text-decoration: none;
-}
-
-td {
-	
 }
