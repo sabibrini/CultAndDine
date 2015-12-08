@@ -3,15 +3,15 @@
 <channel>
 
 
-<title>Veranstaltungen vom 16.06.2016 bis 17.06.2016</title>
+<title>Veranstaltungen vom 15.06.2016 bis 18.06.2016</title>
  
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=S&amp;ganzjaehrig=ja</link> 
 <description>
 
-   Veranstaltungen vom 16.06.2016 bis 17.06.2016
+   Veranstaltungen vom 15.06.2016 bis 18.06.2016
  
 </description>
-<lastBuildDate>Di,08 Dez 2015 13:33:08 GMT</lastBuildDate> 
+<lastBuildDate>Di,08 Dez 2015 14:42:08 GMT</lastBuildDate> 
 <ManagingEditor>event@ma55.wien.gv.at</ManagingEditor>
 <language>de-AT</language>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
@@ -23,12 +23,12 @@
 <description>
 <![CDATA[<p>28.11.2014 bis 30.12.2016<br />
 Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01.,01.05.geschlossen<br />
-Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Wir alle sind mobil. Vom ersten Krabbeln eines Kindes bis zum Flug um die Welt sind wir täglich in Kontakt mit den unterschiedlichsten Formen der Fortbewegung. Die Mitmachausstellung ?In Bewegung? erforscht spielerisch das Phänomen Mobilität. Acht Themenbereiche fordern auf, aktiv zu werden und herauszufinden, was es mit Mobilität so auf sich hat. Die Ausstellung im Technischen Museum Wien richtet sich in erster Linie an Kinder und Jugendliche zwischen 8 und 14 Jahren, hat aber sicher für jeden Experimentierfreudigen etwas zu bieten. Öffnungszeiten Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01.+01.05. geschlossen.</p>
+Technisches Museum<br />http://www.tmw.ac.at/</p>Â­<p>Wir alle sind mobil. Vom ersten Krabbeln eines Kindes bis zum Flug um die Welt sind wir tÃ¤glich in Kontakt mit den unterschiedlichsten Formen der Fortbewegung. Die Mitmachausstellung Â„In BewegungÂ“ erforscht spielerisch das PhÃ¤nomen MobilitÃ¤t. Acht Themenbereiche fordern auf, aktiv zu werden und herauszufinden, was es mit MobilitÃ¤t so auf sich hat. Die Ausstellung im Technischen Museum Wien richtet sich in erster Linie an Kinder und Jugendliche zwischen 8 und 14 Jahren, hat aber sicher fÃ¼r jeden Experimentierfreudigen etwas zu bieten. Ã–ffnungszeiten Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01.+01.05. geschlossen.</p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
 <category>Kinder und Jugendliche allgemein</category>
-<dc:subject>Kinder und Jugendliche allgemein, Ausstellung, Familie, Information und Präsentation, Kinder  und Teenies, Workshop für Kinder und Jugendliche</dc:subject>
+<dc:subject>Kinder und Jugendliche allgemein, Ausstellung, Familie, Information und PrÃ¤sentation, Kinder  und Teenies, Workshop fÃ¼r Kinder und Jugendliche</dc:subject>
 <cal:dtstart>2014-11-28T00:00:00+01:00</cal:dtstart>
 <cal:dtend>2016-12-30T00:00:00+01:00</cal:dtend>
 
@@ -37,7 +37,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Wir alle sind mobil. Vom er
 <cal:byminute/> 
 <cal:location>
      <vcard:fn>Technisches Museum</vcard:fn>
-     <vcard:street-address>Mariahilfer Straße 212</vcard:street-address>	
+     <vcard:street-address>Mariahilfer StraÃŸe 212</vcard:street-address>	
      <vcard:postal-code>1140</vcard:postal-code>
      <vcard:tel>0043-1/899 98-6000</vcard:tel>
      <vcard:fax>0043-1/899 98-3333</vcard:fax>
@@ -46,7 +46,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Wir alle sind mobil. Vom er
 </cal:location>
 <cal:organizer>
      <vcard:fn>Technisches Museum</vcard:fn>
-     <vcard:street-address>Mariahilfer Straße 212</vcard:street-address>	
+     <vcard:street-address>Mariahilfer StraÃŸe 212</vcard:street-address>	
      <vcard:postal-code>1140</vcard:postal-code>
      <vcard:tel>0043-1/899 98-6000</vcard:tel>
      <vcard:fax>0043-1/899 98-3333</vcard:fax>
@@ -56,7 +56,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Wir alle sind mobil. Vom er
 <vcard:email/>
 <georss:point>-1069.75 339113.33</georss:point>
 <dcterms:created>2014-11-25T14:26:00</dcterms:created>
-<dc:title>Technisches Museum | Technisches Museum­http://www.tmw.ac.at/</dc:title>
+<dc:title>Technisches Museum | Technisches MuseumÂ­http://www.tmw.ac.at/</dc:title>
 <dc:date>2014-11-28T00:00:00+00:00</dc:date>
 <dc:relation>2016-12-30T00:00:00 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=392091</dc:description>
@@ -67,18 +67,18 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Wir alle sind mobil. Vom er
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
-<title>Mobilität</title>
+<title>MobilitÃ¤t</title>
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=392092&amp;return=</link>
 <guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=392092&amp;return=</guid>
 <description>
 <![CDATA[<p>28.11.2014 bis 30.12.2016<br />
 Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01.+01.05. geschlossen<br />
-Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Die Ausstellung ?Mobilität? zeigt die Vielfalt rund um die Verkehrsgeschichte. Gleichzeitig bringt ?Mobilität? auch Gegenwarts- und Zukunftsaspekte ins Museum. So zeigen z. B. eine moderne Schubumkehr oder diverse Elektrofahrzeuge technische Innovationen. Öffnungszeiten Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01.+01.05. geschlossen.</p>
+Technisches Museum<br />http://www.tmw.ac.at/</p>Â­<p>Die Ausstellung Â„MobilitÃ¤tÂ“ zeigt die Vielfalt rund um die Verkehrsgeschichte. Gleichzeitig bringt Â„MobilitÃ¤tÂ“ auch Gegenwarts- und Zukunftsaspekte ins Museum. So zeigen z. B. eine moderne Schubumkehr oder diverse Elektrofahrzeuge technische Innovationen. Ã–ffnungszeiten Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01.+01.05. geschlossen.</p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
-<category>Ausstellung, Information und Präsentation</category>
-<dc:subject>Ausstellung, Information und Präsentation</dc:subject>
+<category>Ausstellung, Information und PrÃ¤sentation</category>
+<dc:subject>Ausstellung, Information und PrÃ¤sentation</dc:subject>
 <cal:dtstart>2014-11-28T00:00:00+01:00</cal:dtstart>
 <cal:dtend>2016-12-30T00:00:00+01:00</cal:dtend>
 
@@ -87,7 +87,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Die Ausstellung ?Mobilität?
 <cal:byminute/> 
 <cal:location>
      <vcard:fn>Technisches Museum</vcard:fn>
-     <vcard:street-address>Mariahilfer Straße 212</vcard:street-address>	
+     <vcard:street-address>Mariahilfer StraÃŸe 212</vcard:street-address>	
      <vcard:postal-code>1140</vcard:postal-code>
      <vcard:tel>0043-1/899 98-6000</vcard:tel>
      <vcard:fax>0043-1/899 98-3333</vcard:fax>
@@ -96,7 +96,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Die Ausstellung ?Mobilität?
 </cal:location>
 <cal:organizer>
      <vcard:fn>Technisches Museum</vcard:fn>
-     <vcard:street-address>Mariahilfer Straße 212</vcard:street-address>	
+     <vcard:street-address>Mariahilfer StraÃŸe 212</vcard:street-address>	
      <vcard:postal-code>1140</vcard:postal-code>
      <vcard:tel>0043-1/899 98-6000</vcard:tel>
      <vcard:fax>0043-1/899 98-3333</vcard:fax>
@@ -106,7 +106,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Die Ausstellung ?Mobilität?
 <vcard:email/>
 <georss:point>-1069.75 339113.33</georss:point>
 <dcterms:created>2014-11-25T14:49:00</dcterms:created>
-<dc:title>Technisches Museum | Technisches Museum­http://www.tmw.ac.at/</dc:title>
+<dc:title>Technisches Museum | Technisches MuseumÂ­http://www.tmw.ac.at/</dc:title>
 <dc:date>2014-11-28T00:00:00+00:00</dc:date>
 <dc:relation>2016-12-30T00:00:00 | Mo, Di, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=392092</dc:description>
@@ -117,14 +117,14 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Die Ausstellung ?Mobilität?
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
-<title>Denk an mich! Stammbücher und Poesiealben aus zwei Jahrhunderten</title>
+<title>Denk an mich! StammbÃ¼cher und Poesiealben aus zwei Jahrhunderten</title>
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=416325&amp;return=</link>
 <guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=416325&amp;return=</guid>
 <description>
 <![CDATA[<p>05.05.2015 bis 22.11.2016<br />
 10:00 bis 17:00<br />
-Österreichisches Museum für Volkskunde<br />http://www.volkskundemuseum.at/</p>­<p>Blumen, Verse, Schönschrift ? persönliche Widmungen und Sprüche in Büchern und Loseblattkassetten sind lang gehütete Erinnerungen an Freundschaften und Beziehungen. Sie spiegeln eine wechselhafte Gefühls- und Tugendwelt, die viele Generationen unterschiedlich prägte.</p>
-<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
+Ã–sterreichisches Museum fÃ¼r Volkskunde<br />http://www.volkskundemuseum.at/</p>Â­<p>Blumen, Verse, SchÃ¶nschrift Â– persÃ¶nliche Widmungen und SprÃ¼che in BÃ¼chern und Loseblattkassetten sind lang gehÃ¼tete Erinnerungen an Freundschaften und Beziehungen. Sie spiegeln eine wechselhafte GefÃ¼hls- und Tugendwelt, die viele Generationen unterschiedlich prÃ¤gte.</p>
+<p>Die verschiedenen Preiskategorien und ErmÃ¤ÃŸigungen entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
 <category/>
@@ -136,7 +136,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Die Ausstellung ?Mobilität?
 <cal:byhour>10</cal:byhour>
 <cal:byminute>00</cal:byminute> 
 <cal:location>
-     <vcard:fn>Österreichisches Museum für Volkskunde</vcard:fn>
+     <vcard:fn>Ã–sterreichisches Museum fÃ¼r Volkskunde</vcard:fn>
      <vcard:street-address>Laudongasse 15-19</vcard:street-address>	
      <vcard:postal-code>1080</vcard:postal-code>
      <vcard:tel>0043-1/406 89 05</vcard:tel>
@@ -145,7 +145,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Die Ausstellung ?Mobilität?
      <vcard:url>http://www.volkskundemuseum.at/</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>Österreichisches Museum für Volkskunde</vcard:fn>
+     <vcard:fn>Ã–sterreichisches Museum fÃ¼r Volkskunde</vcard:fn>
      <vcard:street-address>Laudongasse 15-19</vcard:street-address>	
      <vcard:postal-code>1080</vcard:postal-code>
      <vcard:tel>0043-1/406 89 05</vcard:tel>
@@ -156,7 +156,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Die Ausstellung ?Mobilität?
 <vcard:email/>
 <georss:point>1393.14 341646.34</georss:point>
 <dcterms:created>2015-10-02T10:11:00</dcterms:created>
-<dc:title>Österreichisches Museum für Volkskunde | Österreichisches Museum für Volkskunde­http://www.volkskundemuseum.at/</dc:title>
+<dc:title>Ã–sterreichisches Museum fÃ¼r Volkskunde | Ã–sterreichisches Museum fÃ¼r VolkskundeÂ­http://www.volkskundemuseum.at/</dc:title>
 <dc:date>2015-05-05T10:00:00+00:00</dc:date>
 <dc:relation>2016-11-22T17:00:00 | Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=416325</dc:description>
@@ -173,7 +173,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Die Ausstellung ?Mobilität?
 <description>
 <![CDATA[<p>15.06.2015 bis 30.06.2016<br />
 08:00 bis 15:30<br />
-MA 19 - Architektur und Stadtgestaltung<br />http://www.wien.gv.at/stadtentwicklung/architektur</p>­<p>In der Ausstellung "gebaut 2014" zeigt das Dezernat "Begutachtung" der Abteilung Architektur und Stadtgestaltung (MA 19) 24 qualitativ hochwertige architektonische Projekte, die 2014 in Wien fertiggestellt wurden. Sie sind bis Anfang Juni 2016 in den Räumlichkeiten der MA 19 zu sehen.</p>
+MA 19 - Architektur und Stadtgestaltung<br />http://www.wien.gv.at/stadtentwicklung/architektur</p>Â­<p>In der Ausstellung "gebaut 2014" zeigt das Dezernat "Begutachtung" der Abteilung Architektur und Stadtgestaltung (MA 19) 24 qualitativ hochwertige architektonische Projekte, die 2014 in Wien fertiggestellt wurden. Sie sind bis Anfang Juni 2016 in den RÃ¤umlichkeiten der MA 19 zu sehen.</p>
 
 ]]></description>
 
@@ -187,7 +187,7 @@ MA 19 - Architektur und Stadtgestaltung<br />http://www.wien.gv.at/stadtentwickl
 <cal:byminute>00</cal:byminute> 
 <cal:location>
      <vcard:fn>MA 19 - Architektur und Stadtgestaltung</vcard:fn>
-     <vcard:street-address>Niederhofstraße 21-23/5/Top 533</vcard:street-address>	
+     <vcard:street-address>NiederhofstraÃŸe 21-23/5/Top 533</vcard:street-address>	
      <vcard:postal-code>1120</vcard:postal-code>
      <vcard:tel>0043-1/811 140-88911</vcard:tel>
      <vcard:fax>0043-1/811 14-99-88910</vcard:fax>
@@ -196,7 +196,7 @@ MA 19 - Architektur und Stadtgestaltung<br />http://www.wien.gv.at/stadtentwickl
 </cal:location>
 <cal:organizer>
      <vcard:fn>MA 19 - Architektur und Stadtgestaltung</vcard:fn>
-     <vcard:street-address>Niederhofstraße 21-23/5/Top 533</vcard:street-address>	
+     <vcard:street-address>NiederhofstraÃŸe 21-23/5/Top 533</vcard:street-address>	
      <vcard:postal-code>1120</vcard:postal-code>
      <vcard:tel>0043-1/811 140-88911</vcard:tel>
      <vcard:fax>0043-1/811 14-99-88910</vcard:fax>
@@ -206,7 +206,7 @@ MA 19 - Architektur und Stadtgestaltung<br />http://www.wien.gv.at/stadtentwickl
 <vcard:email/>
 <georss:point>5.47 338079.37</georss:point>
 <dcterms:created>2015-08-31T11:23:00</dcterms:created>
-<dc:title>MA 19 - Architektur und Stadtgestaltung | MA 19 - Architektur und Stadtgestaltung­http://www.wien.gv.at/stadtentwicklung/architektur</dc:title>
+<dc:title>MA 19 - Architektur und Stadtgestaltung | MA 19 - Architektur und StadtgestaltungÂ­http://www.wien.gv.at/stadtentwicklung/architektur</dc:title>
 <dc:date>2015-06-15T08:00:00+00:00</dc:date>
 <dc:relation>2016-06-30T15:30:00 | Mo, Di, Mi, Do, Fr</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=413918</dc:description>
@@ -223,7 +223,7 @@ MA 19 - Architektur und Stadtgestaltung<br />http://www.wien.gv.at/stadtentwickl
 <description>
 <![CDATA[<p>23.09.2015 bis 31.08.2016<br />
 10:00<br />
-Galerie der Komischen Künste im MuseumsQuartier/Quartier21<br />http://www.komischekuenste.com/</p>­<p>Sie haben genug von lustigen Themen und wollen auch mal über etwas Ernstes lachen? Die wahrscheinlich depressivsten Cartoonisten des deutschsprachigen Raumes haben sich mit Gott, Tunnels, Licht und dem Ende auseinandergesetzt. Passenderweise ist der Raum 66, die engste Galerie der Welt, nicht nur eng, sondern auch tunnelförmig. Hier erwarten Sie Nahtoderfahrungen, ein Treffen mit Gott, Bandwürmer und mit etwas Glück sogar die eine oder andere (Wieder-)Geburt. Öffnungszeiten Mo-Fr 10.00-19.00 Uhr, Sa+So 10.00-18.00 Uhr.</p>
+Galerie der Komischen KÃ¼nste im MuseumsQuartier/Quartier21<br />http://www.komischekuenste.com/</p>Â­<p>Sie haben genug von lustigen Themen und wollen auch mal Ã¼ber etwas Ernstes lachen? Die wahrscheinlich depressivsten Cartoonisten des deutschsprachigen Raumes haben sich mit Gott, Tunnels, Licht und dem Ende auseinandergesetzt. Passenderweise ist der Raum 66, die engste Galerie der Welt, nicht nur eng, sondern auch tunnelfÃ¶rmig. Hier erwarten Sie Nahtoderfahrungen, ein Treffen mit Gott, BandwÃ¼rmer und mit etwas GlÃ¼ck sogar die eine oder andere (Wieder-)Geburt. Ã–ffnungszeiten Mo-Fr 10.00-19.00 Uhr, Sa+So 10.00-18.00 Uhr.</p>
 <p>Eintritt frei</p>
 ]]></description>
 
@@ -236,7 +236,7 @@ Galerie der Komischen Künste im MuseumsQuartier/Quartier21<br />http://www.komis
 <cal:byhour>10</cal:byhour>
 <cal:byminute>00</cal:byminute> 
 <cal:location>
-     <vcard:fn>Galerie der Komischen Künste im MuseumsQuartier/Quartier21</vcard:fn>
+     <vcard:fn>Galerie der Komischen KÃ¼nste im MuseumsQuartier/Quartier21</vcard:fn>
      <vcard:street-address>Museumsplatz 1/
 </vcard:street-address>	
      <vcard:postal-code>1070</vcard:postal-code>
@@ -246,7 +246,7 @@ Galerie der Komischen Künste im MuseumsQuartier/Quartier21<br />http://www.komis
      <vcard:url>http://www.komischekuenste.com/</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>Galerie der Komischen Künste im MuseumsQuartier/Quartier21</vcard:fn>
+     <vcard:fn>Galerie der Komischen KÃ¼nste im MuseumsQuartier/Quartier21</vcard:fn>
      <vcard:street-address>Museumsplatz 1/
 </vcard:street-address>	
      <vcard:postal-code>1070</vcard:postal-code>
@@ -258,7 +258,7 @@ Galerie der Komischen Künste im MuseumsQuartier/Quartier21<br />http://www.komis
 <vcard:email/>
 <georss:point>2005.99 340570.49</georss:point>
 <dcterms:created>2015-09-23T07:31:00</dcterms:created>
-<dc:title>Galerie der Komischen Künste im MuseumsQuartier/Quartier21 | Galerie der Komischen Künste im MuseumsQuartier/Quartier21­http://www.komischekuenste.com/</dc:title>
+<dc:title>Galerie der Komischen KÃ¼nste im MuseumsQuartier/Quartier21 | Galerie der Komischen KÃ¼nste im MuseumsQuartier/Quartier21Â­http://www.komischekuenste.com/</dc:title>
 <dc:date>2015-09-23T10:00:00+00:00</dc:date>
 <dc:relation>2016-08-31 | Mo, Di, Mi, Do, Fr, Sa, So</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=415406</dc:description>
@@ -269,14 +269,14 @@ Galerie der Komischen Künste im MuseumsQuartier/Quartier21<br />http://www.komis
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
-<title>Bitter Oranges. Migrantische Erntehelfer in Süditalien </title>
+<title>Bitter Oranges. Migrantische Erntehelfer in SÃ¼ditalien </title>
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=416324&amp;return=</link>
 <guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=416324&amp;return=</guid>
 <description>
 <![CDATA[<p>25.09.2015 bis 15.11.2016<br />
 10:00 bis 17:00<br />
-Österreichisches Museum für Volkskunde<br />http://www.volkskundemuseum.at/</p>­<p>Die Sonderausstellung ist das Ergebnis eines dreijährigen fotografischen und ethnografischen Forschungsprojekts und dokumentiert analytisch die Arbeits- und Lebensbedingungen der migrantischen Erntehelfer auf den Zitrusplantagen in Süditalien.</p>
-<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
+Ã–sterreichisches Museum fÃ¼r Volkskunde<br />http://www.volkskundemuseum.at/</p>Â­<p>Die Sonderausstellung ist das Ergebnis eines dreijÃ¤hrigen fotografischen und ethnografischen Forschungsprojekts und dokumentiert analytisch die Arbeits- und Lebensbedingungen der migrantischen Erntehelfer auf den Zitrusplantagen in SÃ¼ditalien.</p>
+<p>Die verschiedenen Preiskategorien und ErmÃ¤ÃŸigungen entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
 <category/>
@@ -288,7 +288,7 @@ Galerie der Komischen Künste im MuseumsQuartier/Quartier21<br />http://www.komis
 <cal:byhour>10</cal:byhour>
 <cal:byminute>00</cal:byminute> 
 <cal:location>
-     <vcard:fn>Österreichisches Museum für Volkskunde</vcard:fn>
+     <vcard:fn>Ã–sterreichisches Museum fÃ¼r Volkskunde</vcard:fn>
      <vcard:street-address>Laudongasse 15-19</vcard:street-address>	
      <vcard:postal-code>1080</vcard:postal-code>
      <vcard:tel>0043-1/406 89 05</vcard:tel>
@@ -297,7 +297,7 @@ Galerie der Komischen Künste im MuseumsQuartier/Quartier21<br />http://www.komis
      <vcard:url>http://www.volkskundemuseum.at/</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>Österreichisches Museum für Volkskunde</vcard:fn>
+     <vcard:fn>Ã–sterreichisches Museum fÃ¼r Volkskunde</vcard:fn>
      <vcard:street-address>Laudongasse 15-19</vcard:street-address>	
      <vcard:postal-code>1080</vcard:postal-code>
      <vcard:tel>0043-1/406 89 05</vcard:tel>
@@ -308,7 +308,7 @@ Galerie der Komischen Künste im MuseumsQuartier/Quartier21<br />http://www.komis
 <vcard:email/>
 <georss:point>1393.14 341646.34</georss:point>
 <dcterms:created>2015-10-02T10:09:00</dcterms:created>
-<dc:title>Österreichisches Museum für Volkskunde | Österreichisches Museum für Volkskunde­http://www.volkskundemuseum.at/</dc:title>
+<dc:title>Ã–sterreichisches Museum fÃ¼r Volkskunde | Ã–sterreichisches Museum fÃ¼r VolkskundeÂ­http://www.volkskundemuseum.at/</dc:title>
 <dc:date>2015-09-25T10:00:00+00:00</dc:date>
 <dc:relation>2016-11-15T17:00:00 | Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=416324</dc:description>
@@ -325,7 +325,7 @@ Galerie der Komischen Künste im MuseumsQuartier/Quartier21<br />http://www.komis
 <description>
 <![CDATA[<p>13.10.2015 bis 14.11.2016<br />
 Di+Fr 14.00-19.00 Uhr, Mi+Do 12.00-19.00 Uhr, Sa 10.00-14.00 Uhr<br />
-WUK FotoGalerie Wien<br />http://www.fotogalerie-wien.at</p>­<p>Eröffnung am 12. Oktober um 19.00 Uhr. Lange Zeit geradezu in geschwisterlichem Naheverhältnis gesehen, ist heute fast vergessen, wie viele Berührungspunkte es zwischen Kunst und Wissenschaft gibt. Gilt es doch da wie dort die Welt neu zu denken, neue Verstehensmodelle zu erproben oder Bilder für etwas zu finden, das gerade noch ungreifbar erschien. Die Fotogalerie Wien zeigt acht künstlerische Positionen, die unerwartete Erkenntnisse hervorbringen. Was eben noch als Linie gedacht wurde, darf jetzt einen Bogen schlagen: In der Ausstellung To Draw a Bow to Bend a Line werden Lichtwellen gebrochen und Wellenbewegungen eingefangen, die DNA zum Klingen gebracht und Bakterien in ungeahnten Beschäftigungsmöglichkeiten erprobt.</p>
+WUK FotoGalerie Wien<br />http://www.fotogalerie-wien.at</p>Â­<p>ErÃ¶ffnung am 12. Oktober um 19.00 Uhr. Lange Zeit geradezu in geschwisterlichem NaheverhÃ¤ltnis gesehen, ist heute fast vergessen, wie viele BerÃ¼hrungspunkte es zwischen Kunst und Wissenschaft gibt. Gilt es doch da wie dort die Welt neu zu denken, neue Verstehensmodelle zu erproben oder Bilder fÃ¼r etwas zu finden, das gerade noch ungreifbar erschien. Die Fotogalerie Wien zeigt acht kÃ¼nstlerische Positionen, die unerwartete Erkenntnisse hervorbringen. Was eben noch als Linie gedacht wurde, darf jetzt einen Bogen schlagen: In der Ausstellung To Draw a Bow to Bend a Line werden Lichtwellen gebrochen und Wellenbewegungen eingefangen, die DNA zum Klingen gebracht und Bakterien in ungeahnten BeschÃ¤ftigungsmÃ¶glichkeiten erprobt.</p>
 <p>Eintritt frei</p>
 ]]></description>
 
@@ -339,7 +339,7 @@ WUK FotoGalerie Wien<br />http://www.fotogalerie-wien.at</p>­<p>Eröffnung am 12.
 <cal:byminute/> 
 <cal:location>
      <vcard:fn>WUK FotoGalerie Wien</vcard:fn>
-     <vcard:street-address>Währinger Straße 59</vcard:street-address>	
+     <vcard:street-address>WÃ¤hringer StraÃŸe 59</vcard:street-address>	
      <vcard:postal-code>1090</vcard:postal-code>
      <vcard:tel>0043-1/408 54 62</vcard:tel>
      <vcard:fax>0043-1/403 04 78</vcard:fax>
@@ -348,7 +348,7 @@ WUK FotoGalerie Wien<br />http://www.fotogalerie-wien.at</p>­<p>Eröffnung am 12.
 </cal:location>
 <cal:organizer>
      <vcard:fn>WUK FotoGalerie Wien</vcard:fn>
-     <vcard:street-address>Währinger Straße 59</vcard:street-address>	
+     <vcard:street-address>WÃ¤hringer StraÃŸe 59</vcard:street-address>	
      <vcard:postal-code>1090</vcard:postal-code>
      <vcard:tel>0043-1/408 54 62</vcard:tel>
      <vcard:fax>0043-1/403 04 78</vcard:fax>
@@ -358,7 +358,7 @@ WUK FotoGalerie Wien<br />http://www.fotogalerie-wien.at</p>­<p>Eröffnung am 12.
 <vcard:email/>
 <georss:point>1432.77 342766.11</georss:point>
 <dcterms:created>2015-09-23T12:35:00</dcterms:created>
-<dc:title>WUK FotoGalerie Wien | WUK FotoGalerie Wien­http://www.fotogalerie-wien.at</dc:title>
+<dc:title>WUK FotoGalerie Wien | WUK FotoGalerie WienÂ­http://www.fotogalerie-wien.at</dc:title>
 <dc:date>2015-10-13T00:00:00+00:00</dc:date>
 <dc:relation>2016-11-14T00:00:00 | Di, Mi, Do, Fr, Sa</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=415469</dc:description>
@@ -375,7 +375,7 @@ WUK FotoGalerie Wien<br />http://www.fotogalerie-wien.at</p>­<p>Eröffnung am 12.
 <description>
 <![CDATA[<p>04.11.2015 bis 30.06.2016<br />
 Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01. geschlossen<br />
-Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Eine Auswahl an kunstgewerblichen Stücken aus den Museumssammlungen widmet sich in einer kleinen Schau einem bisher unbearbeiteten Aspekt. Im Mittelpunkt stehen bildliche Darstellungen AUF den Objekten und die kunstgewerblichen Produktionstechniken DAHINTER. Die meisten Exponate stammen aus dem ?Fabriksprodukten-Kabinett?, das 1807 von Kaiser Franz I. begründet wurde. Einer der Themenkomplexe befasst sich daher mit den Habsburgern, die zahlreiche bildliche Spuren auf den Objekten hinterlassen haben. Weitere Themen behandeln christliche Ikonographie und antike Mythologie. Kleine Videoclips zu ausgewählten Herstellungstech¬niken verdeutlichen die Prozesse, die notwendig sind, damit die Bilder auf die Objekte kommen. Öffnungszeiten: Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01. geschlossen
+Technisches Museum<br />http://www.tmw.ac.at/</p>Â­<p>Eine Auswahl an kunstgewerblichen StÃ¼cken aus den Museumssammlungen widmet sich in einer kleinen Schau einem bisher unbearbeiteten Aspekt. Im Mittelpunkt stehen bildliche Darstellungen AUF den Objekten und die kunstgewerblichen Produktionstechniken DAHINTER. Die meisten Exponate stammen aus dem Â„Fabriksprodukten-KabinettÂ“, das 1807 von Kaiser Franz I. begrÃ¼ndet wurde. Einer der Themenkomplexe befasst sich daher mit den Habsburgern, die zahlreiche bildliche Spuren auf den Objekten hinterlassen haben. Weitere Themen behandeln christliche Ikonographie und antike Mythologie. Kleine Videoclips zu ausgewÃ¤hlten HerstellungstechÂ¬niken verdeutlichen die Prozesse, die notwendig sind, damit die Bilder auf die Objekte kommen. Ã–ffnungszeiten: Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01. geschlossen
 </p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
@@ -390,7 +390,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Eine Auswahl an kunstgewerb
 <cal:byminute/> 
 <cal:location>
      <vcard:fn>Technisches Museum</vcard:fn>
-     <vcard:street-address>Mariahilfer Straße 212</vcard:street-address>	
+     <vcard:street-address>Mariahilfer StraÃŸe 212</vcard:street-address>	
      <vcard:postal-code>1140</vcard:postal-code>
      <vcard:tel>0043-1/899 98-6000</vcard:tel>
      <vcard:fax>0043-1/899 98-3333</vcard:fax>
@@ -399,7 +399,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Eine Auswahl an kunstgewerb
 </cal:location>
 <cal:organizer>
      <vcard:fn>Technisches Museum</vcard:fn>
-     <vcard:street-address>Mariahilfer Straße 212</vcard:street-address>	
+     <vcard:street-address>Mariahilfer StraÃŸe 212</vcard:street-address>	
      <vcard:postal-code>1140</vcard:postal-code>
      <vcard:tel>0043-1/899 98-6000</vcard:tel>
      <vcard:fax>0043-1/899 98-3333</vcard:fax>
@@ -409,7 +409,7 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Eine Auswahl an kunstgewerb
 <vcard:email/>
 <georss:point>-1069.75 339113.33</georss:point>
 <dcterms:created>2015-11-11T12:53:00</dcterms:created>
-<dc:title>Technisches Museum | Technisches Museum­http://www.tmw.ac.at/</dc:title>
+<dc:title>Technisches Museum | Technisches MuseumÂ­http://www.tmw.ac.at/</dc:title>
 <dc:date>2015-11-04T00:00:00+00:00</dc:date>
 <dc:relation>2016-06-30T00:00:00 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=419508</dc:description>
@@ -426,8 +426,8 @@ Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>Eine Auswahl an kunstgewerb
 <description>
 <![CDATA[<p>04.11.2015 bis 30.12.2016<br />
 Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01.,01.05+01.11. geschlossen<br />
-Technisches Museum<br />http://www.tmw.ac.at/</p>­<p>?Inventarnummer 1938? ist die erste Dauerausstellung zum Thema ?Provenienzforschung? eines Museums im deutschsprachigen Raum und berichtet über die Arisierung von Alltagsgegenständen in der Zeit um 1938. 
-Die öffentliche Diskussion um Provenienzforschung wird beherrscht von der Frage der Rückgabe von wertvollen Kunstgegenständen. Dabei wird meist übersehen, dass die Nazis hauptsächlich Objekte des alltäglichen Lebens von ?rassisch? und politisch Verfolgten gestohlen haben. Die Ausstellung zeigt die alltägliche Praxis des NS-Raubzugs, rekonstruiert die Lebensgeschichten der Beraubten und dokumentiert die Suche nach den heute in aller Welt verstreut lebenden ErbInnen. Öffnungszeiten: Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01.,01.05+01.11. geschlossen
+Technisches Museum<br />http://www.tmw.ac.at/</p>Â­<p>Â„Inventarnummer 1938Â“ ist die erste Dauerausstellung zum Thema Â„ProvenienzforschungÂ“ eines Museums im deutschsprachigen Raum und berichtet Ã¼ber die Arisierung von AlltagsgegenstÃ¤nden in der Zeit um 1938. 
+Die Ã¶ffentliche Diskussion um Provenienzforschung wird beherrscht von der Frage der RÃ¼ckgabe von wertvollen KunstgegenstÃ¤nden. Dabei wird meist Ã¼bersehen, dass die Nazis hauptsÃ¤chlich Objekte des alltÃ¤glichen Lebens von Â„rassischÂ“ und politisch Verfolgten gestohlen haben. Die Ausstellung zeigt die alltÃ¤gliche Praxis des NS-Raubzugs, rekonstruiert die Lebensgeschichten der Beraubten und dokumentiert die Suche nach den heute in aller Welt verstreut lebenden ErbInnen. Ã–ffnungszeiten: Mo-Fr 09.00-18.00 Uhr, Sa, So+Ftg. 10.00-18.00 Uhr, 25.12.+31.12.+01.01.,01.05+01.11. geschlossen
 </p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
@@ -442,7 +442,7 @@ Die öffentliche Diskussion um Provenienzforschung wird beherrscht von der Frage 
 <cal:byminute/> 
 <cal:location>
      <vcard:fn>Technisches Museum</vcard:fn>
-     <vcard:street-address>Mariahilfer Straße 212</vcard:street-address>	
+     <vcard:street-address>Mariahilfer StraÃŸe 212</vcard:street-address>	
      <vcard:postal-code>1140</vcard:postal-code>
      <vcard:tel>0043-1/899 98-6000</vcard:tel>
      <vcard:fax>0043-1/899 98-3333</vcard:fax>
@@ -451,7 +451,7 @@ Die öffentliche Diskussion um Provenienzforschung wird beherrscht von der Frage 
 </cal:location>
 <cal:organizer>
      <vcard:fn>Technisches Museum</vcard:fn>
-     <vcard:street-address>Mariahilfer Straße 212</vcard:street-address>	
+     <vcard:street-address>Mariahilfer StraÃŸe 212</vcard:street-address>	
      <vcard:postal-code>1140</vcard:postal-code>
      <vcard:tel>0043-1/899 98-6000</vcard:tel>
      <vcard:fax>0043-1/899 98-3333</vcard:fax>
@@ -461,7 +461,7 @@ Die öffentliche Diskussion um Provenienzforschung wird beherrscht von der Frage 
 <vcard:email/>
 <georss:point>-1069.75 339113.33</georss:point>
 <dcterms:created>2015-11-11T12:51:00</dcterms:created>
-<dc:title>Technisches Museum | Technisches Museum­http://www.tmw.ac.at/</dc:title>
+<dc:title>Technisches Museum | Technisches MuseumÂ­http://www.tmw.ac.at/</dc:title>
 <dc:date>2015-11-04T00:00:00+00:00</dc:date>
 <dc:relation>2016-12-30T00:00:00 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=419507</dc:description>
@@ -478,8 +478,8 @@ Die öffentliche Diskussion um Provenienzforschung wird beherrscht von der Frage 
 <description>
 <![CDATA[<p>17.02.2016 bis 19.06.2016<br />
 10:00<br />
-Bank Austria Kunstforum<br />http://www.bankaustria-kunstforum.at/</p>­<p>Im Frühjahr 2016 zeigt das Kunstforum in Wien erstmals in Österreich eine Retrospektive zum Werk Balthasar Klossowski de Rolas, genannt ?Balthus? ? eine Ausstellung, die Balthus? Werk von seiner ersten Auseinandersetzung mit dem Quattrocento über seine Arbeiten im Umkreis von Surrealismus und neuer Sachlichkeit zwischen Frankreich, dem deutschsprachigen Raum und Italien bis hin zu den Einflüssen und der Beschäftigung mit der Ostasiatischen Kunst in seinem späteren Werk verankern soll.
- Balthus, der die Gegenständlichkeit nie in Frage gestellt hat, und der abseits der Entwicklung aller Avant Garden seinen eigenen Stil der ?anderen Moderne? gepflegt hat, soll in diesem Projekt anhand seiner wichtigsten Themen verstanden werden: die Landschaft, im Gegensatzpaar von Stadtlandschaft und pastoraler Natur, das Porträt zwischen klassischem Bildnis und Mehrfigurenbild, letztlich der weibliche Akt, wechselnd zwischen intimen Darstellungen der Toilette und komplexen Kompositionen im Interieur.</p>
+Bank Austria Kunstforum<br />http://www.bankaustria-kunstforum.at/</p>Â­<p>Im FrÃ¼hjahr 2016 zeigt das Kunstforum in Wien erstmals in Ã–sterreich eine Retrospektive zum Werk Balthasar Klossowski de Rolas, genannt Â„BalthusÂ“ Â– eine Ausstellung, die BalthusÂ’ Werk von seiner ersten Auseinandersetzung mit dem Quattrocento Ã¼ber seine Arbeiten im Umkreis von Surrealismus und neuer Sachlichkeit zwischen Frankreich, dem deutschsprachigen Raum und Italien bis hin zu den EinflÃ¼ssen und der BeschÃ¤ftigung mit der Ostasiatischen Kunst in seinem spÃ¤teren Werk verankern soll.
+ Balthus, der die GegenstÃ¤ndlichkeit nie in Frage gestellt hat, und der abseits der Entwicklung aller Avant Garden seinen eigenen Stil der Â„anderen ModerneÂ“ gepflegt hat, soll in diesem Projekt anhand seiner wichtigsten Themen verstanden werden: die Landschaft, im Gegensatzpaar von Stadtlandschaft und pastoraler Natur, das PortrÃ¤t zwischen klassischem Bildnis und Mehrfigurenbild, letztlich der weibliche Akt, wechselnd zwischen intimen Darstellungen der Toilette und komplexen Kompositionen im Interieur.</p>
 
 ]]></description>
 
@@ -512,7 +512,7 @@ Bank Austria Kunstforum<br />http://www.bankaustria-kunstforum.at/</p>­<p>Im Frü
 <vcard:email/>
 <georss:point>2561.91 341460.11</georss:point>
 <dcterms:created>2013-09-13T11:14:00</dcterms:created>
-<dc:title>Bank Austria Kunstforum | Bank Austria Kunstforum­http://www.bankaustria-kunstforum.at/</dc:title>
+<dc:title>Bank Austria Kunstforum | Bank Austria KunstforumÂ­http://www.bankaustria-kunstforum.at/</dc:title>
 <dc:date>2016-02-17T10:00:00+00:00</dc:date>
 <dc:relation>2016-06-19 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=347333</dc:description>
@@ -529,14 +529,14 @@ Bank Austria Kunstforum<br />http://www.bankaustria-kunstforum.at/</p>­<p>Im Frü
 <description>
 <![CDATA[<p>08.03.2016 bis 18.09.2016<br />
 10:00<br />
-Kunsthistorisches Museum<br />http://www.khm.at/</p>­<p>Das Kunsthistorische Museum feiert 2016 ein Jubiläum: Vor 125 Jahren, am 17. Oktober 1891, wurde das neu errichtete Gebäude an der Wiener Ringstraße eröffnet. Aus diesem Anlass findet eine große Sonderausstellung zum Thema ?Festkulturen? statt, an der sich alle Sammlungen des Hauses beteiligen und die durch Leihgaben aus nationalen und internationalen Sammlungen bereichert wird.
+Kunsthistorisches Museum<br />http://www.khm.at/</p>Â­<p>Das Kunsthistorische Museum feiert 2016 ein JubilÃ¤um: Vor 125 Jahren, am 17. Oktober 1891, wurde das neu errichtete GebÃ¤ude an der Wiener RingstraÃŸe erÃ¶ffnet. Aus diesem Anlass findet eine groÃŸe Sonderausstellung zum Thema Â„FestkulturenÂ“ statt, an der sich alle Sammlungen des Hauses beteiligen und die durch Leihgaben aus nationalen und internationalen Sammlungen bereichert wird.
 
-Dargestellt werden verschiedene Aspekte jener Festkulturen, die sich in Europa vom Spätmittelalter und der Renaissance bis ins 18. Jahrhundert bei Hof, in der Stadt und auch in ländlichen Kontexten herausgebildet haben. Im Zentrum der Ausstellung steht das Festmahl mit Essen, Trinken, Tanzen und Musizieren, und zwar insbesondere mit Blick auf habsburgische Residenzen.</p>
+Dargestellt werden verschiedene Aspekte jener Festkulturen, die sich in Europa vom SpÃ¤tmittelalter und der Renaissance bis ins 18. Jahrhundert bei Hof, in der Stadt und auch in lÃ¤ndlichen Kontexten herausgebildet haben. Im Zentrum der Ausstellung steht das Festmahl mit Essen, Trinken, Tanzen und Musizieren, und zwar insbesondere mit Blick auf habsburgische Residenzen.</p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
-<category>Ausstellung, Information und Präsentation</category>
-<dc:subject>Ausstellung, Information und Präsentation</dc:subject>
+<category>Ausstellung, Information und PrÃ¤sentation</category>
+<dc:subject>Ausstellung, Information und PrÃ¤sentation</dc:subject>
 <cal:dtstart>2016-03-08T00:00:00+01:00</cal:dtstart>
 <cal:dtend>2016-09-18T00:00:00+01:00</cal:dtend>
 
@@ -566,7 +566,7 @@ Dargestellt werden verschiedene Aspekte jener Festkulturen, die sich in Europa v
 <vcard:email/>
 <georss:point>2262.99 340646.65</georss:point>
 <dcterms:created>2014-05-15T13:50:00</dcterms:created>
-<dc:title>Kunsthistorisches Museum | Kunsthistorisches Museum­http://www.khm.at/</dc:title>
+<dc:title>Kunsthistorisches Museum | Kunsthistorisches MuseumÂ­http://www.khm.at/</dc:title>
 <dc:date>2016-03-08T10:00:00+00:00</dc:date>
 <dc:relation>2016-09-18 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=372529</dc:description>
@@ -583,7 +583,7 @@ Dargestellt werden verschiedene Aspekte jener Festkulturen, die sich in Europa v
 <description>
 <![CDATA[<p>09.03.2016 bis 26.06.2016<br />
 11:00<br />
-21er Haus Museum des 20. Jahrhunderts<br />http://www.belvedere.at/house21/de</p>­<p>Im Frühjahr 2016 präsentiert das 21er Haus des Belvedere eine umfangreiche Werkschau zu Oswald Oberhuber, einem der prägendsten Vertreter der österreichischen Kunst. Die Ausstellung zeigt Werke von den späten 1940er-Jahren bis heute. Öffnungszeiten: Mi+Do 11.00-21.00 Uhr, Fr-So+Ftg. 11.00-18.00 Uhr.</p>
+21er Haus Museum des 20. Jahrhunderts<br />http://www.belvedere.at/house21/de</p>Â­<p>Im FrÃ¼hjahr 2016 prÃ¤sentiert das 21er Haus des Belvedere eine umfangreiche Werkschau zu Oswald Oberhuber, einem der prÃ¤gendsten Vertreter der Ã¶sterreichischen Kunst. Die Ausstellung zeigt Werke von den spÃ¤ten 1940er-Jahren bis heute. Ã–ffnungszeiten: Mi+Do 11.00-21.00 Uhr, Fr-So+Ftg. 11.00-18.00 Uhr.</p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
@@ -597,7 +597,7 @@ Dargestellt werden verschiedene Aspekte jener Festkulturen, die sich in Europa v
 <cal:byminute>00</cal:byminute> 
 <cal:location>
      <vcard:fn>21er Haus Museum des 20. Jahrhunderts</vcard:fn>
-     <vcard:street-address>Arsenalstraße 1/
+     <vcard:street-address>ArsenalstraÃŸe 1/
 </vcard:street-address>	
      <vcard:postal-code>1030</vcard:postal-code>
      <vcard:tel>0043-1/795 57-707</vcard:tel>
@@ -607,7 +607,7 @@ Dargestellt werden verschiedene Aspekte jener Festkulturen, die sich in Europa v
 </cal:location>
 <cal:organizer>
      <vcard:fn>21er Haus Museum des 20. Jahrhunderts</vcard:fn>
-     <vcard:street-address>Arsenalstraße 1/
+     <vcard:street-address>ArsenalstraÃŸe 1/
 </vcard:street-address>	
      <vcard:postal-code>1030</vcard:postal-code>
      <vcard:tel>0043-1/795 57-707</vcard:tel>
@@ -618,7 +618,7 @@ Dargestellt werden verschiedene Aspekte jener Festkulturen, die sich in Europa v
 <vcard:email/>
 <georss:point>3837.87 338598.95</georss:point>
 <dcterms:created>2015-12-03T09:36:00</dcterms:created>
-<dc:title>21er Haus Museum des 20. Jahrhunderts | 21er Haus Museum des 20. Jahrhunderts­http://www.belvedere.at/house21/de</dc:title>
+<dc:title>21er Haus Museum des 20. Jahrhunderts | 21er Haus Museum des 20. JahrhundertsÂ­http://www.belvedere.at/house21/de</dc:title>
 <dc:date>2016-03-09T11:00:00+00:00</dc:date>
 <dc:relation>2016-06-26 | Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=420819</dc:description>
@@ -635,7 +635,7 @@ Dargestellt werden verschiedene Aspekte jener Festkulturen, die sich in Europa v
 <description>
 <![CDATA[<p>16.03.2016 bis 27.11.2016<br />
 10:00 bis 18:00<br />
-Hofmobiliendepot. Möbel Museum Wien<br />http://www.hofmobiliendepot.at/</p>­<p>Am 21. November 2016 jährt sich zum 100. Mal der Todestag Kaiser Franz Josephs, der die Habsburgermonarchie 68 Jahre lang regierte.
+Hofmobiliendepot. MÃ¶bel Museum Wien<br />http://www.hofmobiliendepot.at/</p>Â­<p>Am 21. November 2016 jÃ¤hrt sich zum 100. Mal der Todestag Kaiser Franz Josephs, der die Habsburgermonarchie 68 Jahre lang regierte.
 Im Zuge dessen wird eine Sonderausstellung zu sehen sein, die sich kritisch mit der Person des Kaisers auseinandersetzt.</p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
@@ -649,7 +649,7 @@ Im Zuge dessen wird eine Sonderausstellung zu sehen sein, die sich kritisch mit 
 <cal:byhour>10</cal:byhour>
 <cal:byminute>00</cal:byminute> 
 <cal:location>
-     <vcard:fn>Hofmobiliendepot. Möbel Museum Wien</vcard:fn>
+     <vcard:fn>Hofmobiliendepot. MÃ¶bel Museum Wien</vcard:fn>
      <vcard:street-address>Andreasgasse 7/
 </vcard:street-address>	
      <vcard:postal-code>1070</vcard:postal-code>
@@ -659,7 +659,7 @@ Im Zuge dessen wird eine Sonderausstellung zu sehen sein, die sich kritisch mit 
      <vcard:url>http://www.hofmobiliendepot.at/</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>Hofmobiliendepot. Möbel Museum Wien</vcard:fn>
+     <vcard:fn>Hofmobiliendepot. MÃ¶bel Museum Wien</vcard:fn>
      <vcard:street-address>Andreasgasse 7/
 </vcard:street-address>	
      <vcard:postal-code>1070</vcard:postal-code>
@@ -671,7 +671,7 @@ Im Zuge dessen wird eine Sonderausstellung zu sehen sein, die sich kritisch mit 
 <vcard:email/>
 <georss:point>1108.23 340036.56</georss:point>
 <dcterms:created>2015-10-16T11:28:00</dcterms:created>
-<dc:title>Hofmobiliendepot. Möbel Museum Wien | Hofmobiliendepot. Möbel Museum Wien­http://www.hofmobiliendepot.at/</dc:title>
+<dc:title>Hofmobiliendepot. MÃ¶bel Museum Wien | Hofmobiliendepot. MÃ¶bel Museum WienÂ­http://www.hofmobiliendepot.at/</dc:title>
 <dc:date>2016-03-16T10:00:00+00:00</dc:date>
 <dc:relation>2016-11-27T18:00:00 | Di, Mi, Do, Fr, Sa, So</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=417807</dc:description>
@@ -688,8 +688,8 @@ Im Zuge dessen wird eine Sonderausstellung zu sehen sein, die sich kritisch mit 
 <description>
 <![CDATA[<p>13.05.2016 bis 19.06.2016<br />
 entnehmen Sie der jeweiligen Veranstaltung<br />
-Wien<br /></p>­<p>Die Wiener Festwochen finden von 13. Mai bis 19. Juni 2016 statt. Die Welt-Elite der Opern- und Theaterregisseure, Dirigenten und Orchester zeigt bei diesem Festival aktuellste Bühnenkunst: Klassiker in richtungsweisenden, modernen Inszenierungen ebenso wie neue Werke, die internationale Massstäbe setzen. 
-Eröffnet werden die Festwochen mit einem grossen Eröffnungsfest am Wiener Rathausplatz. 
+Wien<br /></p>Â­<p>Die Wiener Festwochen finden von 13. Mai bis 19. Juni 2016 statt. Die Welt-Elite der Opern- und Theaterregisseure, Dirigenten und Orchester zeigt bei diesem Festival aktuellste BÃ¼hnenkunst: Klassiker in richtungsweisenden, modernen Inszenierungen ebenso wie neue Werke, die internationale MassstÃ¤be setzen. 
+ErÃ¶ffnet werden die Festwochen mit einem grossen ErÃ¶ffnungsfest am Wiener Rathausplatz. 
 Die Beginnzeiten und die Veranstaltungsorte entnehmen Sie der Veranstaltungshomepage.
 
 </p>
@@ -726,7 +726,7 @@ Die Beginnzeiten und die Veranstaltungsorte entnehmen Sie der Veranstaltungshome
 <vcard:email>festwochen@festwochen.at</vcard:email>
 <georss:point> </georss:point>
 <dcterms:created>2012-08-30T10:30:00</dcterms:created>
-<dc:title>Wien | Wiener Festwochen Gesellschaft m.b.H.­http://www.festwochen.at/</dc:title>
+<dc:title>Wien | Wiener Festwochen Gesellschaft m.b.H.Â­http://www.festwochen.at/</dc:title>
 <dc:date>2016-05-13T00:00:00+00:00</dc:date>
 <dc:relation>2016-06-19T00:00:00 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=309533</dc:description>
@@ -743,7 +743,7 @@ Die Beginnzeiten und die Veranstaltungsorte entnehmen Sie der Veranstaltungshome
 <description>
 <![CDATA[<p>23.05.2016 bis 06.07.2016<br />
 19:30<br />
-Vienna's English Theatre<br />http://www.englishtheatre.at</p>­<p>John Smith mag wie ein typischer Londoner Taxifahrer wirken, doch er hat ein nicht alltägliches Geheimnis. Zum einen ist da seine liebende und treusorgende Frau in Wimbledon und zum anderen sein liebende und treusorgende Ehefrau in Streatham ? womit sein Terminkalender sich sehr eng gestaltet. Dank des strikten Befolgens dieses Kalenders ist John nunmehr seit drei Jahren ein erfolgreicher, wenngleich etwas erschöpfter Bigamist. Als er jedoch eines Tages einer alten Dame bei einem Überfall galant zu Hilfe eilt, endet er im nächstliegenden Krankenhaus, wo seine beiden Wohnadressen ans Licht kommen. Damit wird sowohl das Polizeirevier von Wimbledon als auch jenes von Streatham in die Ermittlungen eingebunden.</p>
+Vienna's English Theatre<br />http://www.englishtheatre.at</p>Â­<p>John Smith mag wie ein typischer Londoner Taxifahrer wirken, doch er hat ein nicht alltÃ¤gliches Geheimnis. Zum einen ist da seine liebende und treusorgende Frau in Wimbledon und zum anderen sein liebende und treusorgende Ehefrau in Streatham Â– womit sein Terminkalender sich sehr eng gestaltet. Dank des strikten Befolgens dieses Kalenders ist John nunmehr seit drei Jahren ein erfolgreicher, wenngleich etwas erschÃ¶pfter Bigamist. Als er jedoch eines Tages einer alten Dame bei einem Ãœberfall galant zu Hilfe eilt, endet er im nÃ¤chstliegenden Krankenhaus, wo seine beiden Wohnadressen ans Licht kommen. Damit wird sowohl das Polizeirevier von Wimbledon als auch jenes von Streatham in die Ermittlungen eingebunden.</p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
@@ -776,7 +776,7 @@ Vienna's English Theatre<br />http://www.englishtheatre.at</p>­<p>John Smith mag
 <vcard:email/>
 <georss:point>1517.99 341128.78</georss:point>
 <dcterms:created>2015-07-07T11:58:00</dcterms:created>
-<dc:title>Vienna's English Theatre | Vienna's English Theatre­http://www.englishtheatre.at</dc:title>
+<dc:title>Vienna's English Theatre | Vienna's English TheatreÂ­http://www.englishtheatre.at</dc:title>
 <dc:date>2016-05-23T19:30:00+00:00</dc:date>
 <dc:relation>2016-07-06 | Mo, Di, Mi, Do, Fr, Sa</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=409500</dc:description>
@@ -793,14 +793,14 @@ Vienna's English Theatre<br />http://www.englishtheatre.at</p>­<p>John Smith mag
 <description>
 <![CDATA[<p>01.06.2016 bis 23.06.2016<br />
 entnehmen Sie der Veranstaltungshomepage<br />
-Wien<br /></p>­<p>Von 1. ? 23. Juni 2016 geht das WIR SIND WIEN.FESTIVAL bereits zu 8. Mal  
-über die Bühne und präsentiert die große Vielfalt der Wiener Kultur.
+Wien<br /></p>Â­<p>Von 1. Â– 23. Juni 2016 geht das WIR SIND WIEN.FESTIVAL bereits zu 8. Mal  
+Ã¼ber die BÃ¼hne und prÃ¤sentiert die groÃŸe Vielfalt der Wiener Kultur.
 </p>
 <p>Eintritt frei</p>
 ]]></description>
 
-<category>Casting und Wettbewerb, Clubbing, Party und DJ Line, Feste und Vergnügen, Kinder und Jugendliche allgemein, Kommunikation, Kunst und Kultur, Markt</category>
-<dc:subject>Casting und Wettbewerb, Clubbing, Party und DJ Line, Feste und Vergnügen, Kinder und Jugendliche allgemein, Kommunikation, Kunst und Kultur, Markt, Ausstellung, Ballett, Performance und Tanz, Besichtigung, Bezirksfestwochen, Blas, Country, Volks- und Weltmusik, Chill Out und Lounge Music, Diskussion, Beratung und Gespräch, Familie, Festival, Foto, Film, Public Viewing und Media, Fitness, Relax und Wellness, Gala, Show, Varieté und Zirkus, Genuss und Kulinarik</dc:subject>
+<category>Casting und Wettbewerb, Clubbing, Party und DJ Line, Feste und VergnÃ¼gen, Kinder und Jugendliche allgemein, Kommunikation, Kunst und Kultur, Markt</category>
+<dc:subject>Casting und Wettbewerb, Clubbing, Party und DJ Line, Feste und VergnÃ¼gen, Kinder und Jugendliche allgemein, Kommunikation, Kunst und Kultur, Markt, Ausstellung, Ballett, Performance und Tanz, Besichtigung, Bezirksfestwochen, Blas, Country, Volks- und Weltmusik, Chill Out und Lounge Music, Diskussion, Beratung und GesprÃ¤ch, Familie, Festival, Foto, Film, Public Viewing und Media, Fitness, Relax und Wellness, Gala, Show, VarietÃ© und Zirkus, Genuss und Kulinarik</dc:subject>
 <cal:dtstart>2016-06-01T00:00:00+01:00</cal:dtstart>
 <cal:dtend>2016-06-23T00:00:00+01:00</cal:dtend>
 
@@ -828,7 +828,7 @@ Wien<br /></p>­<p>Von 1. ? 23. Juni 2016 geht das WIR SIND WIEN.FESTIVAL bereits
 <vcard:email>office@basiskultur.at</vcard:email>
 <georss:point> </georss:point>
 <dcterms:created>2013-06-28T13:04:00</dcterms:created>
-<dc:title>Wien | Basis.Kultur.Wien­http://www.basiskultur.at/</dc:title>
+<dc:title>Wien | Basis.Kultur.WienÂ­http://www.basiskultur.at/</dc:title>
 <dc:date>2016-06-01T00:00:00+00:00</dc:date>
 <dc:relation>2016-06-23T00:00:00 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=340355</dc:description>
@@ -845,8 +845,8 @@ Wien<br /></p>­<p>Von 1. ? 23. Juni 2016 geht das WIR SIND WIEN.FESTIVAL bereits
 <description>
 <![CDATA[<p>02.06.2016 bis 27.06.2016<br />
 09:00<br />
-Badehaus Sargfabrik<br />http://www.sargfabrik.at/</p>­<p>Für Babys ab etwa 8 Wochen bis ca. 2 1/2 Jahren veranstalten wir in unserem Badehaus regelmäßig Babyschwimmen. Die Kurse starten mehrmals jährlich, dauern zehn Wochen und finden jeweils Montag, Dienstag, Mittwoch, Donnerstag und Freitag Vormittag statt.</p>
-<p>? 190,00 zehn Kurseinheiten  </p>
+Badehaus Sargfabrik<br />http://www.sargfabrik.at/</p>Â­<p>FÃ¼r Babys ab etwa 8 Wochen bis ca. 2 1/2 Jahren veranstalten wir in unserem Badehaus regelmÃ¤ÃŸig Babyschwimmen. Die Kurse starten mehrmals jÃ¤hrlich, dauern zehn Wochen und finden jeweils Montag, Dienstag, Mittwoch, Donnerstag und Freitag Vormittag statt.</p>
+<p>Â€ 190,00 zehn Kurseinheiten  </p>
 ]]></description>
 
 <category/>
@@ -859,7 +859,7 @@ Badehaus Sargfabrik<br />http://www.sargfabrik.at/</p>­<p>Für Babys ab etwa 8 Wo
 <cal:byminute>00</cal:byminute> 
 <cal:location>
      <vcard:fn>Badehaus Sargfabrik</vcard:fn>
-     <vcard:street-address>Goldschlagstraße 169</vcard:street-address>	
+     <vcard:street-address>GoldschlagstraÃŸe 169</vcard:street-address>	
      <vcard:postal-code>1140</vcard:postal-code>
      <vcard:tel>0043-1/988 98-120</vcard:tel>
      <vcard:fax>0043-1/988 98-131</vcard:fax>
@@ -868,7 +868,7 @@ Badehaus Sargfabrik<br />http://www.sargfabrik.at/</p>­<p>Für Babys ab etwa 8 Wo
 </cal:location>
 <cal:organizer>
      <vcard:fn>Badehaus Sargfabrik</vcard:fn>
-     <vcard:street-address>Goldschlagstraße 169</vcard:street-address>	
+     <vcard:street-address>GoldschlagstraÃŸe 169</vcard:street-address>	
      <vcard:postal-code>1140</vcard:postal-code>
      <vcard:tel>0043-1/988 98-120</vcard:tel>
      <vcard:fax>0043-1/988 98-131</vcard:fax>
@@ -878,7 +878,7 @@ Badehaus Sargfabrik<br />http://www.sargfabrik.at/</p>­<p>Für Babys ab etwa 8 Wo
 <vcard:email/>
 <georss:point>-2045.06 339642.84</georss:point>
 <dcterms:created>2015-08-11T10:12:00</dcterms:created>
-<dc:title>Badehaus Sargfabrik | Badehaus Sargfabrik­http://www.sargfabrik.at/</dc:title>
+<dc:title>Badehaus Sargfabrik | Badehaus SargfabrikÂ­http://www.sargfabrik.at/</dc:title>
 <dc:date>2016-06-02T09:00:00+00:00</dc:date>
 <dc:relation>2016-06-27 | Mo, Di, Mi, Do, Fr</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=412435</dc:description>
@@ -895,7 +895,7 @@ Badehaus Sargfabrik<br />http://www.sargfabrik.at/</p>­<p>Für Babys ab etwa 8 Wo
 <description>
 <![CDATA[<p>04.06.2016 bis 25.06.2016<br />
 15.00+19.30 Uhr<br />
-Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein und aus allen Zwängen fliehen! Im Mittelpunkt des Musicals stehen Träume und Sehnsüchte. Die erfolgreiche Fernsehmoderatorin Lisa Wartberg träumt davon, endlich den deutschen Fernsehpreis zu gewinnen. Ihre Mutter Maria schmiedet mit ihrem Lebensgefährten Otto derweil im Altersheim große Pläne. Beide wollen sich ihren Lebenstraum erfüllen: Hochzeit unter der Freiheitsstatue. Heimlich besteigt das Paar ein Kreuzfahrtschiff mit Kurs auf New York. Bei dem Versuch ihre Mutter aufzuhalten, trifft Lisa gemeinsam mit Costa und Fred, ihren treuen TV Kollegen, die als schwules Paar ihr Glück bereits gefunden haben, auf Ottos Sohn Axel und dessen Junior Florian. An Bord des Kreuzfahrtschiffes nehmen die Verwicklungen ihren turbulenten Höhepunkt im Aufeinandertreffen der drei Generationen auf hoher See. Während für Maria und Otto der Himmel voller Geigen hängt, lernen Lisa und Axel erst an Bord, was wirklich wichtig ist im Leben. Beginnzeiten 15.00+19.30 Uhr.
+Raimund Theater<br />http://www.musicalvienna.at/</p>Â­<p>Einmal verrÃ¼ckt sein und aus allen ZwÃ¤ngen fliehen! Im Mittelpunkt des Musicals stehen TrÃ¤ume und SehnsÃ¼chte. Die erfolgreiche Fernsehmoderatorin Lisa Wartberg trÃ¤umt davon, endlich den deutschen Fernsehpreis zu gewinnen. Ihre Mutter Maria schmiedet mit ihrem LebensgefÃ¤hrten Otto derweil im Altersheim groÃŸe PlÃ¤ne. Beide wollen sich ihren Lebenstraum erfÃ¼llen: Hochzeit unter der Freiheitsstatue. Heimlich besteigt das Paar ein Kreuzfahrtschiff mit Kurs auf New York. Bei dem Versuch ihre Mutter aufzuhalten, trifft Lisa gemeinsam mit Costa und Fred, ihren treuen TV Kollegen, die als schwules Paar ihr GlÃ¼ck bereits gefunden haben, auf Ottos Sohn Axel und dessen Junior Florian. An Bord des Kreuzfahrtschiffes nehmen die Verwicklungen ihren turbulenten HÃ¶hepunkt im Aufeinandertreffen der drei Generationen auf hoher See. WÃ¤hrend fÃ¼r Maria und Otto der Himmel voller Geigen hÃ¤ngt, lernen Lisa und Axel erst an Bord, was wirklich wichtig ist im Leben. Beginnzeiten 15.00+19.30 Uhr.
 </p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
@@ -919,7 +919,7 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein un
      <vcard:url>http://www.musicalvienna.at/</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>Vereinigte Bühnen Wien Ges.m.b.H. - Musicals</vcard:fn>
+     <vcard:fn>Vereinigte BÃ¼hnen Wien Ges.m.b.H. - Musicals</vcard:fn>
      <vcard:street-address>Linke Wienzeile 6</vcard:street-address>	
      <vcard:postal-code>1060</vcard:postal-code>
      <vcard:tel>0043-1/588 30-200</vcard:tel>
@@ -930,7 +930,7 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein un
 <vcard:email/>
 <georss:point>555.26 339301.50</georss:point>
 <dcterms:created>2015-11-17T11:02:00</dcterms:created>
-<dc:title>Raimund Theater | Vereinigte Bühnen Wien Ges.m.b.H. - Musicals­http://www.musicalvienna.at/</dc:title>
+<dc:title>Raimund Theater | Vereinigte BÃ¼hnen Wien Ges.m.b.H. - MusicalsÂ­http://www.musicalvienna.at/</dc:title>
 <dc:date>2016-06-04T00:00:00+00:00</dc:date>
 <dc:relation>2016-06-25T00:00:00 | Sa</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=419857</dc:description>
@@ -947,7 +947,7 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein un
 <description>
 <![CDATA[<p>05.06.2016 bis 19.06.2016<br />
 14.00+18.30 Uhr<br />
-Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein und aus allen Zwängen fliehen! Im Mittelpunkt des Musicals stehen Träume und Sehnsüchte. Die erfolgreiche Fernsehmoderatorin Lisa Wartberg träumt davon, endlich den deutschen Fernsehpreis zu gewinnen. Ihre Mutter Maria schmiedet mit ihrem Lebensgefährten Otto derweil im Altersheim große Pläne. Beide wollen sich ihren Lebenstraum erfüllen: Hochzeit unter der Freiheitsstatue. Heimlich besteigt das Paar ein Kreuzfahrtschiff mit Kurs auf New York. Bei dem Versuch ihre Mutter aufzuhalten, trifft Lisa gemeinsam mit Costa und Fred, ihren treuen TV Kollegen, die als schwules Paar ihr Glück bereits gefunden haben, auf Ottos Sohn Axel und dessen Junior Florian. An Bord des Kreuzfahrtschiffes nehmen die Verwicklungen ihren turbulenten Höhepunkt im Aufeinandertreffen der drei Generationen auf hoher See. Während für Maria und Otto der Himmel voller Geigen hängt, lernen Lisa und Axel erst an Bord, was wirklich wichtig ist im Leben. Beginnzeiten 14.00+18.30 Uhr.</p>
+Raimund Theater<br />http://www.musicalvienna.at/</p>Â­<p>Einmal verrÃ¼ckt sein und aus allen ZwÃ¤ngen fliehen! Im Mittelpunkt des Musicals stehen TrÃ¤ume und SehnsÃ¼chte. Die erfolgreiche Fernsehmoderatorin Lisa Wartberg trÃ¤umt davon, endlich den deutschen Fernsehpreis zu gewinnen. Ihre Mutter Maria schmiedet mit ihrem LebensgefÃ¤hrten Otto derweil im Altersheim groÃŸe PlÃ¤ne. Beide wollen sich ihren Lebenstraum erfÃ¼llen: Hochzeit unter der Freiheitsstatue. Heimlich besteigt das Paar ein Kreuzfahrtschiff mit Kurs auf New York. Bei dem Versuch ihre Mutter aufzuhalten, trifft Lisa gemeinsam mit Costa und Fred, ihren treuen TV Kollegen, die als schwules Paar ihr GlÃ¼ck bereits gefunden haben, auf Ottos Sohn Axel und dessen Junior Florian. An Bord des Kreuzfahrtschiffes nehmen die Verwicklungen ihren turbulenten HÃ¶hepunkt im Aufeinandertreffen der drei Generationen auf hoher See. WÃ¤hrend fÃ¼r Maria und Otto der Himmel voller Geigen hÃ¤ngt, lernen Lisa und Axel erst an Bord, was wirklich wichtig ist im Leben. Beginnzeiten 14.00+18.30 Uhr.</p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
@@ -970,7 +970,7 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein un
      <vcard:url>http://www.musicalvienna.at/</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>Vereinigte Bühnen Wien Ges.m.b.H. - Musicals</vcard:fn>
+     <vcard:fn>Vereinigte BÃ¼hnen Wien Ges.m.b.H. - Musicals</vcard:fn>
      <vcard:street-address>Linke Wienzeile 6</vcard:street-address>	
      <vcard:postal-code>1060</vcard:postal-code>
      <vcard:tel>0043-1/588 30-200</vcard:tel>
@@ -981,10 +981,62 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein un
 <vcard:email/>
 <georss:point>555.26 339301.50</georss:point>
 <dcterms:created>2015-11-17T11:10:00</dcterms:created>
-<dc:title>Raimund Theater | Vereinigte Bühnen Wien Ges.m.b.H. - Musicals­http://www.musicalvienna.at/</dc:title>
+<dc:title>Raimund Theater | Vereinigte BÃ¼hnen Wien Ges.m.b.H. - MusicalsÂ­http://www.musicalvienna.at/</dc:title>
 <dc:date>2016-06-05T00:00:00+00:00</dc:date>
 <dc:relation>2016-06-19T00:00:00 | So</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=419863</dc:description>
+<dcterms:modified>2015-11-17T11:31:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Ich war noch niemals in New York </title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=419848&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=419848&amp;return=</guid>
+<description>
+<![CDATA[<p>14.06.2016 bis 15.06.2016<br />
+18:30<br />
+Raimund Theater<br />http://www.musicalvienna.at/</p>Â­<p>Einmal verrÃ¼ckt sein und aus allen ZwÃ¤ngen fliehen! Im Mittelpunkt des Musicals stehen TrÃ¤ume und SehnsÃ¼chte. Die erfolgreiche Fernsehmoderatorin Lisa Wartberg trÃ¤umt davon, endlich den deutschen Fernsehpreis zu gewinnen. Ihre Mutter Maria schmiedet mit ihrem LebensgefÃ¤hrten Otto derweil im Altersheim groÃŸe PlÃ¤ne. Beide wollen sich ihren Lebenstraum erfÃ¼llen: Hochzeit unter der Freiheitsstatue. Heimlich besteigt das Paar ein Kreuzfahrtschiff mit Kurs auf New York. Bei dem Versuch ihre Mutter aufzuhalten, trifft Lisa gemeinsam mit Costa und Fred, ihren treuen TV Kollegen, die als schwules Paar ihr GlÃ¼ck bereits gefunden haben, auf Ottos Sohn Axel und dessen Junior Florian. An Bord des Kreuzfahrtschiffes nehmen die Verwicklungen ihren turbulenten HÃ¶hepunkt im Aufeinandertreffen der drei Generationen auf hoher See. WÃ¤hrend fÃ¼r Maria und Otto der Himmel voller Geigen hÃ¤ngt, lernen Lisa und Axel erst an Bord, was wirklich wichtig ist im Leben: Teil einer Familie zu sein. 
+</p>
+<p>entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-14T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-15T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Di, Mi</cal:byday>
+<cal:byhour>18</cal:byhour>
+<cal:byminute>30</cal:byminute> 
+<cal:location>
+     <vcard:fn>Raimund Theater</vcard:fn>
+     <vcard:street-address>Wallgasse 18-20/
+</vcard:street-address>	
+     <vcard:postal-code>1060</vcard:postal-code>
+     <vcard:tel>0043-1/599 770</vcard:tel>
+     <vcard:fax>0043-1/599 77-77</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.musicalvienna.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Vereinigte BÃ¼hnen Wien Ges.m.b.H. - Musicals</vcard:fn>
+     <vcard:street-address>Linke Wienzeile 6</vcard:street-address>	
+     <vcard:postal-code>1060</vcard:postal-code>
+     <vcard:tel>0043-1/588 30-200</vcard:tel>
+     <vcard:fax>0043-1/588 30-33</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.musicalvienna.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>555.26 339301.50</georss:point>
+<dcterms:created>2015-11-17T10:35:00</dcterms:created>
+<dc:title>Raimund Theater | Vereinigte BÃ¼hnen Wien Ges.m.b.H. - MusicalsÂ­http://www.musicalvienna.at/</dc:title>
+<dc:date>2016-06-14T18:30:00+00:00</dc:date>
+<dc:relation>2016-06-15 | Di, Mi</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=419848</dc:description>
 <dcterms:modified>2015-11-17T11:31:00</dcterms:modified>
 <dc:language>de-AT</dc:language>
 <dc:rightsHolder>Stadt Wien</dc:rightsHolder>
@@ -998,7 +1050,7 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein un
 <description>
 <![CDATA[<p>15.06.2016 bis 18.06.2016<br />
 19:30<br />
-Ronacher<br />http://www.musicalvienna.at</p>­<p>Das Musical basiert auf der Biografie von Eva Perón, vom Volk liebevoll ?Evita? genannt. Die Geschichte handelt von ihrem gesellschaftlichen und politischen Aufstieg, vor dem Hintergrund der historischen Ereignisse in Argentinien zwischen 1934 und 1952. Che, ein junger Mann, führt als Erzähler und Kommentator durch die Geschichte. Die selbst aus einfachen Verhältnissen stammende Evita, bereits zu Lebzeiten von den ?Descamisados?, den ?Hemdlosen?, wie eine Heilige verehrt, wird von den Bürgerlichen und Intellektuellen verachtet. Ihren Weg nach ganz oben säumen etliche Liebhaber bis sie schließlich auf den Militärattaché Perón trifft. Sie unterstützt ihn tatkräftig bei seinen Aufstiegsplänen zum Präsidenten und wird selbst zur First Lady.
+Ronacher<br />http://www.musicalvienna.at</p>Â­<p>Das Musical basiert auf der Biografie von Eva PerÃ³n, vom Volk liebevoll Â„EvitaÂ“ genannt. Die Geschichte handelt von ihrem gesellschaftlichen und politischen Aufstieg, vor dem Hintergrund der historischen Ereignisse in Argentinien zwischen 1934 und 1952. Che, ein junger Mann, fÃ¼hrt als ErzÃ¤hler und Kommentator durch die Geschichte. Die selbst aus einfachen VerhÃ¤ltnissen stammende Evita, bereits zu Lebzeiten von den Â„DescamisadosÂ“, den Â„HemdlosenÂ“, wie eine Heilige verehrt, wird von den BÃ¼rgerlichen und Intellektuellen verachtet. Ihren Weg nach ganz oben sÃ¤umen etliche Liebhaber bis sie schlieÃŸlich auf den MilitÃ¤rattachÃ© PerÃ³n trifft. Sie unterstÃ¼tzt ihn tatkrÃ¤ftig bei seinen AufstiegsplÃ¤nen zum PrÃ¤sidenten und wird selbst zur First Lady.
 
 </p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
@@ -1022,7 +1074,7 @@ Ronacher<br />http://www.musicalvienna.at</p>­<p>Das Musical basiert auf der Bio
      <vcard:url>http://www.musicalvienna.at</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>Vereinigte Bühnen Wien Ges.m.b.H. - Musicals</vcard:fn>
+     <vcard:fn>Vereinigte BÃ¼hnen Wien Ges.m.b.H. - Musicals</vcard:fn>
      <vcard:street-address>Linke Wienzeile 6</vcard:street-address>	
      <vcard:postal-code>1060</vcard:postal-code>
      <vcard:tel>0043-1/588 30-200</vcard:tel>
@@ -1033,7 +1085,7 @@ Ronacher<br />http://www.musicalvienna.at</p>­<p>Das Musical basiert auf der Bio
 <vcard:email/>
 <georss:point>3198.89 340724.80</georss:point>
 <dcterms:created>2015-07-17T09:06:00</dcterms:created>
-<dc:title>Ronacher | Vereinigte Bühnen Wien Ges.m.b.H. - Musicals­http://www.musicalvienna.at/</dc:title>
+<dc:title>Ronacher | Vereinigte BÃ¼hnen Wien Ges.m.b.H. - MusicalsÂ­http://www.musicalvienna.at/</dc:title>
 <dc:date>2016-06-15T19:30:00+00:00</dc:date>
 <dc:relation>2016-06-18 | Mi, Do, Fr, Sa</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=410707</dc:description>
@@ -1050,7 +1102,7 @@ Ronacher<br />http://www.musicalvienna.at</p>­<p>Das Musical basiert auf der Bio
 <description>
 <![CDATA[<p>16.06.2016<br />
 22:00<br />
-Wiener Rathaus - Seiteneingang Lichtenfelsgasse<br /></p>­<p>Der Concordia Ball 2016 vereint traditionelle Wiener Ballkultur auf höchstem Niveau mit kubanischem Flair und heißen Salsa-Rhythmen. Lateinamerikanische Tänze wie Rueda de Casino sorgen in der 'Havanna Lounge' für ein Feuerwerk an Lebensfreude.</p>
+Wiener Rathaus - Seiteneingang Lichtenfelsgasse<br /></p>Â­<p>Der Concordia Ball 2016 vereint traditionelle Wiener Ballkultur auf hÃ¶chstem Niveau mit kubanischem Flair und heiÃŸen Salsa-Rhythmen. Lateinamerikanische TÃ¤nze wie Rueda de Casino sorgen in der 'Havanna Lounge' fÃ¼r ein Feuerwerk an Lebensfreude.</p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
@@ -1083,7 +1135,7 @@ Wiener Rathaus - Seiteneingang Lichtenfelsgasse<br /></p>­<p>Der Concordia Ball 
 <vcard:email>office@concordiaball.at</vcard:email>
 <georss:point>1856.82 341309.43</georss:point>
 <dcterms:created>2015-11-25T10:24:00</dcterms:created>
-<dc:title>Wiener Rathaus - Seiteneingang Lichtenfelsgasse | Presseclub Concordia­http://www.concordia.at/</dc:title>
+<dc:title>Wiener Rathaus - Seiteneingang Lichtenfelsgasse | Presseclub ConcordiaÂ­http://www.concordia.at/</dc:title>
 <dc:date>2016-06-16T22:00:00+00:00</dc:date>
 <dc:relation> | Do</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=420371</dc:description>
@@ -1094,13 +1146,13 @@ Wiener Rathaus - Seiteneingang Lichtenfelsgasse<br /></p>­<p>Der Concordia Ball 
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
-<title>Hänsel und Gretel </title>
+<title>HÃ¤nsel und Gretel </title>
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=413323&amp;return=</link>
 <guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=413323&amp;return=</guid>
 <description>
 <![CDATA[<p>16.06.2016<br />
 19:00<br />
-Wiener Kammeroper<br />http://www.theater-wien.at/index.php/de/taw_in_der_kammeroper</p>­<p>Ein Märchenspiel in drei Bildern (1893). Musik von Engelbert Humperdinck. Libretto von Adelheid Wette nach dem Märchen "Hänsel und Gretel" aus den "Kinder- und Hausmärchen" der Brüder Grimm.
+Wiener Kammeroper<br />http://www.theater-wien.at/index.php/de/taw_in_der_kammeroper</p>Â­<p>Ein MÃ¤rchenspiel in drei Bildern (1893). Musik von Engelbert Humperdinck. Libretto von Adelheid Wette nach dem MÃ¤rchen "HÃ¤nsel und Gretel" aus den "Kinder- und HausmÃ¤rchen" der BrÃ¼der Grimm.
 </p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
@@ -1124,7 +1176,7 @@ Wiener Kammeroper<br />http://www.theater-wien.at/index.php/de/taw_in_der_kammer
      <vcard:url>http://www.theater-wien.at/index.php/de/taw_in_der_kammeroper</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>Theater an der Wien - Das Neue Opernhaus (Vereinigte Bühnen Wien Ges.m.b.H.)</vcard:fn>
+     <vcard:fn>Theater an der Wien - Das Neue Opernhaus (Vereinigte BÃ¼hnen Wien Ges.m.b.H.)</vcard:fn>
      <vcard:street-address>Linke Wienzeile 6/
 </vcard:street-address>	
      <vcard:postal-code>1060</vcard:postal-code>
@@ -1136,7 +1188,7 @@ Wiener Kammeroper<br />http://www.theater-wien.at/index.php/de/taw_in_der_kammer
 <vcard:email/>
 <georss:point>3417.44 341308.03</georss:point>
 <dcterms:created>2015-08-21T07:16:00</dcterms:created>
-<dc:title>Wiener Kammeroper | Theater an der Wien - Das Neue Opernhaus (Vereinigte Bühnen Wien Ges.m.b.H.)­http://www.theater-wien.at/</dc:title>
+<dc:title>Wiener Kammeroper | Theater an der Wien - Das Neue Opernhaus (Vereinigte BÃ¼hnen Wien Ges.m.b.H.)Â­http://www.theater-wien.at/</dc:title>
 <dc:date>2016-06-16T19:00:00+00:00</dc:date>
 <dc:relation> | Do</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=413323</dc:description>
@@ -1153,7 +1205,7 @@ Wiener Kammeroper<br />http://www.theater-wien.at/index.php/de/taw_in_der_kammer
 <description>
 <![CDATA[<p>16.06.2016 bis 17.06.2016<br />
 19:30<br />
-Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein und aus allen Zwängen fliehen! Im Mittelpunkt des Musicals stehen Träume und Sehnsüchte. Die erfolgreiche Fernsehmoderatorin Lisa Wartberg träumt davon, endlich den deutschen Fernsehpreis zu gewinnen. Ihre Mutter Maria schmiedet mit ihrem Lebensgefährten Otto derweil im Altersheim große Pläne. Beide wollen sich ihren Lebenstraum erfüllen: Hochzeit unter der Freiheitsstatue. Heimlich besteigt das Paar ein Kreuzfahrtschiff mit Kurs auf New York. Bei dem Versuch ihre Mutter aufzuhalten, trifft Lisa gemeinsam mit Costa und Fred, ihren treuen TV Kollegen, die als schwules Paar ihr Glück bereits gefunden haben, auf Ottos Sohn Axel und dessen Junior Florian. An Bord des Kreuzfahrtschiffes nehmen die Verwicklungen ihren turbulenten Höhepunkt im Aufeinandertreffen der drei Generationen auf hoher See. Während für Maria und Otto der Himmel voller Geigen hängt, lernen Lisa und Axel erst an Bord, was wirklich wichtig ist im Leben: Teil einer Familie zu sein. 
+Raimund Theater<br />http://www.musicalvienna.at/</p>Â­<p>Einmal verrÃ¼ckt sein und aus allen ZwÃ¤ngen fliehen! Im Mittelpunkt des Musicals stehen TrÃ¤ume und SehnsÃ¼chte. Die erfolgreiche Fernsehmoderatorin Lisa Wartberg trÃ¤umt davon, endlich den deutschen Fernsehpreis zu gewinnen. Ihre Mutter Maria schmiedet mit ihrem LebensgefÃ¤hrten Otto derweil im Altersheim groÃŸe PlÃ¤ne. Beide wollen sich ihren Lebenstraum erfÃ¼llen: Hochzeit unter der Freiheitsstatue. Heimlich besteigt das Paar ein Kreuzfahrtschiff mit Kurs auf New York. Bei dem Versuch ihre Mutter aufzuhalten, trifft Lisa gemeinsam mit Costa und Fred, ihren treuen TV Kollegen, die als schwules Paar ihr GlÃ¼ck bereits gefunden haben, auf Ottos Sohn Axel und dessen Junior Florian. An Bord des Kreuzfahrtschiffes nehmen die Verwicklungen ihren turbulenten HÃ¶hepunkt im Aufeinandertreffen der drei Generationen auf hoher See. WÃ¤hrend fÃ¼r Maria und Otto der Himmel voller Geigen hÃ¤ngt, lernen Lisa und Axel erst an Bord, was wirklich wichtig ist im Leben: Teil einer Familie zu sein. 
 </p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
@@ -1177,7 +1229,7 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein un
      <vcard:url>http://www.musicalvienna.at/</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>Vereinigte Bühnen Wien Ges.m.b.H. - Musicals</vcard:fn>
+     <vcard:fn>Vereinigte BÃ¼hnen Wien Ges.m.b.H. - Musicals</vcard:fn>
      <vcard:street-address>Linke Wienzeile 6</vcard:street-address>	
      <vcard:postal-code>1060</vcard:postal-code>
      <vcard:tel>0043-1/588 30-200</vcard:tel>
@@ -1188,7 +1240,7 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein un
 <vcard:email/>
 <georss:point>555.26 339301.50</georss:point>
 <dcterms:created>2015-11-17T10:34:00</dcterms:created>
-<dc:title>Raimund Theater | Vereinigte Bühnen Wien Ges.m.b.H. - Musicals­http://www.musicalvienna.at/</dc:title>
+<dc:title>Raimund Theater | Vereinigte BÃ¼hnen Wien Ges.m.b.H. - MusicalsÂ­http://www.musicalvienna.at/</dc:title>
 <dc:date>2016-06-16T19:30:00+00:00</dc:date>
 <dc:relation>2016-06-17 | Do, Fr</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=419843</dc:description>
@@ -1205,12 +1257,12 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein un
 <description>
 <![CDATA[<p>17.06.2016<br />
 18:30<br />
-Volksoper<br />http://www.volksoper.at/</p>­<p>?The Wonderful Wizard of Oz? von L. Frank Baum ist Amerikas wohl berühmteste Märchenerzählung, die durch die Verfilmung mit der jungen Judy Garland (1939) weltweit Kultstatus erhielt. Das bekannteste Lied daraus, ?Over the Rainbow? von Harold Arlen und Yip Harburg, wurde 1940 mit dem Oscar ausgezeichnet. Erstmals ist nun an der Volksoper die 1987 für die Royal Shakespeare Company erstellte Bühnenfassung des Meisterwerkes zu erleben.</p>
+Volksoper<br />http://www.volksoper.at/</p>Â­<p>Â„The Wonderful Wizard of OzÂ“ von L. Frank Baum ist Amerikas wohl berÃ¼hmteste MÃ¤rchenerzÃ¤hlung, die durch die Verfilmung mit der jungen Judy Garland (1939) weltweit Kultstatus erhielt. Das bekannteste Lied daraus, Â„Over the RainbowÂ“ von Harold Arlen und Yip Harburg, wurde 1940 mit dem Oscar ausgezeichnet. Erstmals ist nun an der Volksoper die 1987 fÃ¼r die Royal Shakespeare Company erstellte BÃ¼hnenfassung des Meisterwerkes zu erleben.</p>
 <p>entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
 <category>Kinder und Jugendliche allgemein</category>
-<dc:subject>Kinder und Jugendliche allgemein, Familie, Musical, Theater, Oper und Musical für Kinder</dc:subject>
+<dc:subject>Kinder und Jugendliche allgemein, Familie, Musical, Theater, Oper und Musical fÃ¼r Kinder</dc:subject>
 <cal:dtstart>2016-06-17T00:00:00+01:00</cal:dtstart>
 <cal:dtend>T00:00:00+01:00</cal:dtend>
 
@@ -1219,7 +1271,7 @@ Volksoper<br />http://www.volksoper.at/</p>­<p>?The Wonderful Wizard of Oz? von 
 <cal:byminute>30</cal:byminute> 
 <cal:location>
      <vcard:fn>Volksoper</vcard:fn>
-     <vcard:street-address>Währinger Straße 78/
+     <vcard:street-address>WÃ¤hringer StraÃŸe 78/
 </vcard:street-address>	
      <vcard:postal-code>1090</vcard:postal-code>
      <vcard:tel>0043-1/514 440</vcard:tel>
@@ -1229,7 +1281,7 @@ Volksoper<br />http://www.volksoper.at/</p>­<p>?The Wonderful Wizard of Oz? von 
 </cal:location>
 <cal:organizer>
      <vcard:fn>Volksoper</vcard:fn>
-     <vcard:street-address>Währinger Straße 78/
+     <vcard:street-address>WÃ¤hringer StraÃŸe 78/
 </vcard:street-address>	
      <vcard:postal-code>1090</vcard:postal-code>
      <vcard:tel>0043-1/514 440</vcard:tel>
@@ -1240,11 +1292,62 @@ Volksoper<br />http://www.volksoper.at/</p>­<p>?The Wonderful Wizard of Oz? von 
 <vcard:email/>
 <georss:point>1334.80 342896.97</georss:point>
 <dcterms:created>2015-07-13T10:26:00</dcterms:created>
-<dc:title>Volksoper | Volksoper­http://www.volksoper.at/</dc:title>
+<dc:title>Volksoper | VolksoperÂ­http://www.volksoper.at/</dc:title>
 <dc:date>2016-06-17T18:30:00+00:00</dc:date>
 <dc:relation> | Fr</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=410053</dc:description>
 <dcterms:modified>2015-07-13T11:17:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Il Volo European Tour 2016</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=417474&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=417474&amp;return=</guid>
+<description>
+<![CDATA[<p>18.06.2016<br />
+20:00<br />
+Erste Bank Wiener Stadthalle<br />http://www.stadthalle.com/</p>Â­<p>Halle F. Beim Eurovision Song Contest 2015 sind Sie in Wien angetreten und haben einen unvergesslichen Eindruck hinterlassen. Die Publikumslieblinge ersangen mit dem Titel Â„Grande AmoreÂ“ den 3.Platz!</p>
+<p>ab Â€ 69,90</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-18T00:00:00+01:00</cal:dtstart>
+<cal:dtend>T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Sa</cal:byday>
+<cal:byhour>20</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Erste Bank Wiener Stadthalle</vcard:fn>
+     <vcard:street-address>Roland-Rainer-Platz 1/
+</vcard:street-address>	
+     <vcard:postal-code>1150</vcard:postal-code>
+     <vcard:tel>0043-1/98 100</vcard:tel>
+     <vcard:fax>0043-1/98 100-376</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.stadthalle.com/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Show Connection Veranstaltungs GmbH</vcard:fn>
+     <vcard:street-address>Garnisongasse 1/22</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-1/319 21 21</vcard:tel>
+     <vcard:fax>0043-1/319 21 21-50</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.showconnection.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>58.28 340425.39</georss:point>
+<dcterms:created>2015-10-14T10:24:00</dcterms:created>
+<dc:title>Erste Bank Wiener Stadthalle | Show Connection Veranstaltungs GmbHÂ­http://www.showconnection.at/</dc:title>
+<dc:date>2016-06-18T20:00:00+00:00</dc:date>
+<dc:relation> | Sa</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=417474</dc:description>
+<dcterms:modified>2015-10-14T13:12:00</dcterms:modified>
 <dc:language>de-AT</dc:language>
 <dc:rightsHolder>Stadt Wien</dc:rightsHolder>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>

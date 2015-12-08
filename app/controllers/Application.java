@@ -137,7 +137,7 @@ public class Application extends Controller {
 
         Read_xmlRest.readLongLat(rest);
 
-        return  ok(start.render(rest));
+        return  ok(restaurant.render(rest));
     }
     public play.mvc.Result matchRestEvent() throws Exception{
         Geographics g=Read_xmlRest.geo.get(0);
