@@ -41,8 +41,8 @@ public class Application extends Controller {
 //        return ok(restaurant.render());
 //    }
 
-    public play.mvc.Result selectedEvent(String name) {
-        return ok(event.render(name));
+    public play.mvc.Result selectedEvent() {
+        return ok(event.render());
     }
 
     public play.mvc.Result events() throws Exception{
