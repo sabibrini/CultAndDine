@@ -10,7 +10,14 @@ import java.util.*;
 
 
 public class Matching{
-    public static ArrayList<String> dis=new ArrayList<String>();
+    public static ArrayList<Float> dis=new ArrayList<Float>();
+
+    public static void checkdis( Element e){
+        Float d=Float.valueOf(e.getElementsByTagName("text").item(0).getTextContent());
+        if(d<=50){
+            dis.add(d);
+        }
+    }
 
     public static void getDistanceData(){
 
@@ -39,7 +46,7 @@ public class Matching{
 
                         Element eElement = (Element) nNode;
 
-                        dis.add(eElement.getElementsByTagName("text").item(0).getTextContent());
+                        checkdis(eElement);
 
                     }
                 }

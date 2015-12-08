@@ -1,3 +1,5 @@
+@(res:Restaurants)
+
 @main("Cult and Dine") {
 	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1>
     <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
@@ -6,4 +8,26 @@
     <div class="btn-group" role="group" aria-label="...">
 		<a href="/home" > <button type="button" class="btn btn-defaut btn-xl">Home</button></a>
 		</div>
+		
+	<div class = "col-lg-2 col-md-3 col-md-4 col-md-6 col-md-8 col-md-12">
+		  <h1><strong><center> Welcome to Cult and Dine </center> </strong></h1>
+                <h4><center><i><b> We provide the simplest way to dine and see culture in Vienna</b></i></center><h4> 
+                <br><br><br><br>
+                <br>
+          
+          Name: @res.getName <br>
+          Category: @res.getCategory <br>
+          Priceclass: @res.getPriceclass <br>
+          Tel.: @res.getPhoneNumber <br>
+          Adress: @res.getAdress
+	
+		<br><br><br><br><br><br>
+	
+		<form method="GET" action=/events>
+                    Startdate: <input type="text" name="dateStart" id=3 action=/events > <br>
+                    Enddate: <input type="text" name="dateEnd" id=4 action=/events > <br>
+                     <button type="events" name="events" action=/events>Search for events</button>
+                </form><br>
+	
+	</div>	
     }

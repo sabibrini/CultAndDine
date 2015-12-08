@@ -4,23 +4,22 @@
 public class Events{
     private String Title;
     private String link;
-    private String Description;
     private String Category;
 
     private String Organizer;
 	private String Coordinates;
 	private String Street;
 
-    public Events(String Title,String link,String Description,String Category,String Coordinates,String Street){
+    public Events(String Title,String link,String Category, String Organizer,String Coordinates,String Street){
 
         this.Title=Title;
         this.link=link;
-        this.Description=Description;
         this.Category=Category;
 		this.Street=Street;
-        //this.Organizer = Organizer;
+        this.Organizer = Organizer;
 		if(Coordinates.contains(" ")){
 			this.Coordinates=Coordinates.replace(" ",",");
+			
 
 		}
 
@@ -50,13 +49,13 @@ public class Events{
 		this.link = link;
 	}
 
-	public String getDescription() {
-		return Description;
+	public String getOrganizer() {
+		return Organizer;
 
 	}
 
-	public void setDescription(String description) {
-		Description = description;
+	public void setOraganizer(String organizer) {
+		Organizer = organizer;
 	}
 
 	public String getCategory() {

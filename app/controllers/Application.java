@@ -37,9 +37,9 @@ public class Application extends Controller {
         return ok(start.render(new Options()));
     }
 
-    public play.mvc.Result selectedRestaurant() {
-        return ok(restaurant.render());
-    }
+//    public play.mvc.Result selectedRestaurant() {
+//        return ok(restaurant.render());
+//    }
 
     public play.mvc.Result selectedEvent() {
         return ok(event.render());
@@ -137,7 +137,7 @@ public class Application extends Controller {
 
         Read_xmlRest.readLongLat(rest);
 
-        return  ok(start.render(new Options()));
+        return  ok(start.render(rest));
     }
     public play.mvc.Result matchRestEvent() throws Exception{
         Geographics g=Read_xmlRest.geo.get(0);
