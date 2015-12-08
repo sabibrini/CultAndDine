@@ -34,7 +34,7 @@ import models.*;
 public class Application extends Controller {
 
     public play.mvc.Result start() {
-        return ok(start.render());
+        return ok(start.render(new Options()));
     }
 
 //    public play.mvc.Result selectedRestaurant() {
@@ -90,15 +90,18 @@ public class Application extends Controller {
 
     public play.mvc.Result filterQuatDatabase(){
     	//form request returns null
-        DynamicForm requestData = form().bindFromRequest();
-    	String userinput = requestData.get("selection");
+    	Form<Options> form = Form.form(Options.class).bindFromRequest();
+        if (form.hasErrors()) {
+
+        }
+    	String userinput = form.field("name").value();
     	System.out.println(userinput);
         List<Restaurants> r=FilterRestaurant.filterQuarter("Mariahilf");
         return ok(selectedRestaurants.render(r));
     }
     
     public play.mvc.Result goHome() {
-    	return ok(start.render());
+    	return ok(start.render(new Options()));
     }
 
     public play.mvc.Result calcLongLad()throws Exception{
@@ -134,7 +137,7 @@ public class Application extends Controller {
 
         Read_xmlRest.readLongLat(rest);
 
-        return  ok(restaurant.render(rest));
+        return  ok(start.render(rest));
     }
     public play.mvc.Result matchRestEvent() throws Exception{
         Geographics g=Read_xmlRest.geo.get(0);
@@ -208,7 +211,20 @@ public class Application extends Controller {
         for(Match m :  Restaurants.restEventDistance){
             System.out.println(m);
         }
-        return  ok(start.render());
+        return  ok(start.render(new Options()));
+    }
+
+    public static class Options {
+        public static String option;
+
+        public static String validate() {
+
+			return null;
+        }
+
+        public static String getOption() {
+        	return option;
+        }
     }
         
 }

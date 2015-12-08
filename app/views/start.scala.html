@@ -1,4 +1,4 @@
-
+@(form: controllers.Application.Options)
 @main("Cult and Dine") {
 	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1>
     <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
@@ -16,35 +16,37 @@
                      <button type="events" name="events" action=/events>Search for events</button>
                 </form><br>
                 <h4>Search for the restaurants on your Vienna Trip:</h4>
-                <form method="POST" action=/restaurants>
-                     <select class="form-control">
-                      <option name="selection" value="mariahilf">Mariahilf</option>
-                      <option name="selection" value="landstrasse">Landstra&szlig;e</option>
-                      <option name="selection" value="innereStadt>Innere Stadt</option>
-                      <option name="selection" value="Josefstadt>Josefstadt</option>
-                      <option name="selection" value="margarten>Margarten</option>
-                      <option name="selection" value="ottakring">Ottakring</option>
-                      <option name="selection" value="neubau">Neubau</option>
-                      <option name="selection" value="doebling">D&ouml;bling</option>
-                      <option name="selection" value="alsergrund">Alsergrund</option>
-                      <option name="selection" value="rudolfsheim">Rudolfsheim-F&uuml;nfhaus</option>
-                      <option name="selection" value="hietzing">Hietzing</option>
-                      <option name="selection">Floridsdorf</option>
-                      <option name="selection">Donaustadt</option>
-                      <option name="selection">Hernals</option>
-                      <option name="selection">Brigittenau</option>
-                      <option name="selection">W&auml;hring</option>
-                      <option name="selection">Wieden, Freihausviertel</option>
-                      <option name="selection">Wieden</option>
-                      <option name="selection">Penzing</option>
-                      <option name="selection">Favoriten</option>
-                      <option name="selection">Meidling</option>
-                      <option name="selection">Leopoldstadt, Wiener Prater</option>
-                      <option name="selection">Alsergrund</option>
-                      <option name="selection">Liesing</option>
+                
+                	@helper.form(routes.Application.filterQuatDatabase) {
+                     <select class="form-control" value="xyz" name="selecti" id="klaus">
+                      <option name="option" value="Mariahilf" type="submit" id="Mariahilf">Mariahilf</option>
+                      <option name="option" value="Landstraße">Landstra&szlig;e</option>
+                      <option name ="option" value="Innere Stadt">Innere Stadt</option>
+                      <option name ="option" value="Josefstadt">Josefstadt</option>
+                      <option name ="option" value="Margarten">Margarten</option>
+                      <option name ="option" value="Ottakring">Ottakring</option>
+                      <option name ="option" value="Neubau">Neubau</option>
+                      <option name ="option" value="Döbling">D&ouml;bling</option>
+                      <option name ="option" value="Alsergrund">Alsergrund</option>
+                      <option name ="option" value="Rudolfsheim-Fünfhaus">Rudolfsheim-F&uuml;nfhaus</option>
+                      <option name ="option" value="Hietzing">Hietzing</option>
+                      <option name ="option" value="Floridsdorf">Floridsdorf</option>
+                      <option name ="option" value="Donaustadt">Donaustadt</option>
+                      <option name ="option" value="Hernals">Hernals</option>
+                      <option name ="option" value="Brigittenau">Brigittenau</option>
+                      <option name ="option" value="Währing">W&auml;hring</option>
+                      <option name ="option" value="Wieden, Freihausviertel">Wieden, Freihausviertel</option>
+                      <option name ="option" value="Wieden">Wieden</option>
+                      <option name ="option" value="Penzing">Penzing</option>
+                      <option name ="option" value="Favoriten">Favoriten</option>
+                      <option name ="option" value="Meidling">Meidling</option>
+                      <option name ="option" value="Leopoldstadt, Wiener Prater">Leopoldstadt, Wiener Prater</option>
+                      <option name ="option" value="Alsergrund">Alsergrund</option>
+                      <option name ="option" value="Liesing">Liesing</option>
                     </select>
-                    <button type="restaurants" name="restaurants" action=/restaurants>Search for restaurants</button>
-                </form><br>
+                    <button type="submit" name="restaurants" action=/restaurants>Search for restaurants</button>
+                    }
+               
                 <br>
             </div>
         </div>
