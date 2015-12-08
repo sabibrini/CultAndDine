@@ -96,6 +96,7 @@ public class Application extends Controller {
         }
     	String userinput = form.field("name").value();
     	System.out.println(userinput);
+    	//Mariahilf is the default value
         List<Restaurants> r=FilterRestaurant.filterQuarter("Mariahilf");
         return ok(selectedRestaurants.render(r));
     }

@@ -18,8 +18,6 @@
                 <br><br><br><br>
                     <table class="table">
                         <tr>
-                        	<th></th>
-                            <th>ID </th>
                             <th>Name</th>
                             <th>Category</th>
                             <th>Priceclass</th>
@@ -30,9 +28,7 @@
                         @for(resta:Restaurants <-restau){
                         <tr>
                         	<!-- add form to got to the website with the selected restaurant - add according new view -->
-                        	<td><input type="radio" value="@resta.id" name="selection" autocomplete="off" aria-label="..."></td>
-                            <td>@resta.id</td>
-                            <td>@resta.name</td>
+                            <td><a href="/thisone">@resta.name</a></td>
                             <td>@resta.category</td>
                             <td>@resta.priceclass</td>
                             <td>@resta.adress</td>
