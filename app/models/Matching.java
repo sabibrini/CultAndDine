@@ -10,16 +10,17 @@ import java.util.*;
 
 
 public class Matching{
-    public static ArrayList<Float> dis=new ArrayList<Float>();
+    public static Float dis;
 
-    public static void checkdis( Element e){
-        Float d=Float.valueOf(e.getElementsByTagName("text").item(0).getTextContent());
-        if(d<=50){
-            dis.add(d);
+    public static boolean checkdis(Float distance){
+        if(distance<=500.0){
+            return true;
         }
+        return false;
     }
 
-    public static void getDistanceData(){
+    public static Float getDistanceData(){
+
 
             try {
 
@@ -45,13 +46,17 @@ public class Matching{
                     if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 
                         Element eElement = (Element) nNode;
-
-                        checkdis(eElement);
+                        dis=Float.valueOf(eElement.getElementsByTagName("value").item(1).getTextContent());
+                        if(checkdis(dis)){
+                            return dis;
+                        }
+                        return null;
 
                     }
                 }
             } catch (Exception e) {
                 e.printStackTrace();
             }
+        return null;
         }
 }

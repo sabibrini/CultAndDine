@@ -198,8 +198,15 @@ public class Application extends Controller {
             xform1.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
             xform1.transform(domSource1, new StreamResult(myOutput1));
 
-            models.Matching.getDistanceData();
+            Float distance=models.Matching.getDistanceData();
+            if(distance!=null) {
+                Restaurants.restEventDistance.add(new Match(x, distance));
+            }
 
+
+        }
+        for(Match m :  Restaurants.restEventDistance){
+            System.out.println(m);
         }
         return  ok(start.render());
     }

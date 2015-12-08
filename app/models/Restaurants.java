@@ -3,6 +3,7 @@ package models;
 import play.db.ebean.Model;
 import javax.persistence.*;
 import play.data.validation.Constraints;
+import java.util.*;
 
 
 @Entity
@@ -17,6 +18,7 @@ public class Restaurants extends Model {
     public String adress;
     public String phonenumber;
     public String quater;
+    public static ArrayList<Match> restEventDistance=new ArrayList<Match>();
 
 
     public static Finder<Long, Restaurants> find = new Finder<>(Restaurants.class);
