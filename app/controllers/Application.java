@@ -41,6 +41,7 @@ public class Application extends Controller {
 //        return ok(restaurant.render());
 //    }
 
+    //add according functionality to give information about a certain selected event
     public play.mvc.Result selectedEvent() {
         return ok(event.render());
     }

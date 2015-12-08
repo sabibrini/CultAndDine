@@ -9,7 +9,7 @@ GET     /restaurants                controllers.Application.filterQuatDatabase()
 POST    /restaurants                controllers.Application.filterQuatDatabase()
 GET     /filterC                    controllers.Application.filterCategor()
 GET		/home						controllers.Application.goHome()
-GET		/thisone					controllers.Application.calcLongLad(name:String)
+GET		/klaus					controllers.Application.calcLongLad(name:String)
 GET		/thisEvent					controllers.Application.selectedEvent()
 GET     /test                       controllers.Application.matchRestEvent()
 
