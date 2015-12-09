@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CultAndDine2.iml" filepath="$PROJECT_DIR$/.idea/CultAndDine2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CultAndDineNew.iml" filepath="$PROJECT_DIR$/CultAndDineNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CultAndDine.iml" filepath="$PROJECT_DIR$/CultAndDine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/target/scala-2.11/routes/routes.iml" filepath="$PROJECT_DIR$/target/scala-2.11/routes/routes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/target/scala-2.11/twirl/twirl.iml" filepath="$PROJECT_DIR$/target/scala-2.11/twirl/twirl.iml" />
     </modules>
   </component>
 </project>

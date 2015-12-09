@@ -1,7 +1,10 @@
  package models;
 
 
-public class Events{
+ import java.util.ArrayList;
+
+ public class Events{
+
     private String Title;
     private String link;
     private String Category;
@@ -9,6 +12,7 @@ public class Events{
     private String Organizer;
 	private String Coordinates;
 	private String Street;
+	public static ArrayList<Match>EventRestDistance=new ArrayList<Match>();
 
     public Events(String Title,String link,String Category, String Organizer,String Coordinates,String Street){
 
