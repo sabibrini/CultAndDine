@@ -21,6 +21,14 @@ public class Read_xml {
 
         return s;
     }
+	public static Events getEventByname(String name){
+		for(Events e:event){
+			if(e.getTitle().equals(name)){
+				return e;
+			}
+		}
+		return null;
+	}
 
 	public static void readEvents() {
 

@@ -13,4 +13,7 @@ public class Match{
         this.r=r;
         this.distance=dis;
     }
+    public Float getDistance(){
+        return distance;
+    }
 }

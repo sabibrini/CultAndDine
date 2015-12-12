@@ -27,6 +27,7 @@ import org.xml.sax.SAXException;
 import play.*;
 import play.mvc.*;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import models.*;
@@ -143,12 +144,21 @@ public class Application extends Controller {
         return  ok(restaurant.render(rest));
     }
     public play.mvc.Result matchRestEvent() throws Exception{
-        Geographics g=Read_xmlRest.geo.get(0);
+        List<Restaurants> r=FilterRestaurant.filterName("Martin");
+        Restaurants rest=r.get(0);
+        //Geographics g=Read_xmlRest.geo.get(0);
 
-        DynamicForm requestData = form().bindFromRequest();
+        String add=rest.adress;
+        add=add.replaceAll("\\r\\n|\\r|\\n", "+");
+        //byte ptext1[] = add.getBytes("ISO-8859-1");
+        //add = new String(ptext1, "UTF-8");
+        if (add.contains(" ")) {
+            add = add.replace(" ", "+");
+        }
+       /* DynamicForm requestData = form().bindFromRequest();
         String startdate=requestData.get("dateStart");
         String end= requestData.get("dateEnd");
-
+*/
         String site= "https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=rss-vadb_neu&Type=R&hmwd=d&vie_range-from="+"14.06.2016"+"&vie_range-to="+"16.06.2016";
 
 
@@ -171,8 +181,8 @@ public class Application extends Controller {
 
         models.Read_xml.readEvents();
 
-        String la=Float.toString(g.getLat());
-        String ln=Float.toString(g.getLnd());
+        //String la=Float.toString(g.getLat());
+        //String ln=Float.toString(g.getLnd());
 
         //System.out.println(la+" ehwriohweoiehoihrgpihreghreähgiperhgüeqhü "+ln);
         for(Events x: models.Read_xml.event) {
@@ -183,8 +193,9 @@ public class Application extends Controller {
             if (st.contains(" ")) {
                 st = st.replace(" ", "+");
             }
+            // filter bei TOP 5 z.b gibs einen fehler Tops wegfiltern !!!!
 
-            String site2 = "https://maps.googleapis.com/maps/api/distancematrix/xml?origins="+la+","+ln+"&destinations="+st+"&mode=walking&language=en-EN";
+            String site2 = "https://maps.googleapis.com/maps/api/distancematrix/xml?origins="+add+"&destinations="+st+"&mode=walking&language=en-EN";
 
             System.out.println(site2);
             URL url1 = new URL(site2);
@@ -209,13 +220,67 @@ public class Application extends Controller {
                 Restaurants.restEventDistance.add(new Match(x, distance));
             }
 
-
         }
         for(Match m :  Restaurants.restEventDistance){
-            System.out.println(m);
+            System.out.println(m.e.getTitle()+" "+m.getDistance());
         }
         return  ok(start.render(new Options()));
     }
+
+    public play.mvc.Result matchEventRest() throws Exception{
+        String name="Wiener Festwochen 2016";
+        Events e=Read_xml.getEventByname(name);
+        if(e!=null) {
+            String str = e.getStreet();
+            byte ptext[] = str.getBytes("ISO-8859-1");
+            str = new String(ptext, "UTF-8");
+            if (str.contains(" ")) {
+                str = str.replace(" ", "+");
+            }
+            //System.out.println("ADRESSE "+str);
+            List<Restaurants> r = Restaurants.find.all();
+            for (Restaurants rest : r) {
+                String add = rest.getAdress();
+                add=add.replaceAll("\\r\\n|\\r|\\n", "+");
+
+                if (add.contains(" ")) {
+                    add = add.replace(" ", "+");
+                }
+                //System.out.println("ADRESSE "+add);
+                String site2 = "https://maps.googleapis.com/maps/api/distancematrix/xml?origins=" +str+ "&destinations="+add+"&mode=walking&language=en-EN";
+
+                System.out.println(site2);
+                URL url1 = new URL(site2);
+                URLConnection conn1 = url1.openConnection();
+
+                DocumentBuilderFactory factory1 = DocumentBuilderFactory.newInstance();
+                DocumentBuilder builder1 = factory1.newDocumentBuilder();
+                Document doc1 = builder1.parse(conn1.getInputStream());
+
+                DOMSource domSource1 = new DOMSource(doc1);
+                TransformerFactory tfactory1 = TransformerFactory.newInstance();
+
+
+                FileWriter myOutput1 = new FileWriter("public/inputfiles/distance.xml");
+                Transformer xform1 = tfactory1.newTransformer();
+                xform1.setOutputProperty(OutputKeys.INDENT, "yes");
+                xform1.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
+                xform1.transform(domSource1, new StreamResult(myOutput1));
+
+                Float distance = models.Matching.getDistanceData();
+                if (distance != null) {
+                    Events.EventRestDistance.add(new Match(rest, distance));
+                }
+            }
+            for (Match m : Events.EventRestDistance) {
+                System.out.println(m.r.getName() + " " + m.getDistance());
+            }
+        }
+    return  ok(start.render(new Options()));
+
+
+}
+
 
     public static class Options {
         public static String option;
