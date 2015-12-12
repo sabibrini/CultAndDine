@@ -54,7 +54,7 @@ public class Events{
 
 	}
 
-	public void setOraganizer(String organizer) {
+	public void setOrganizer(String organizer) {
 		Organizer = organizer;
 	}
 

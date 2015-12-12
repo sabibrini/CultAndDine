@@ -42,8 +42,8 @@ public class Application extends Controller {
 //    }
 
     //add according functionality to give information about a certain selected event
-    public play.mvc.Result selectedEvent() {
-        return ok(event.render());
+    public play.mvc.Result selectedEvent(String title) {
+        return ok(event.render(events));
     }
 
     public play.mvc.Result events() throws Exception{
