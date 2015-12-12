@@ -3,15 +3,15 @@
 <channel>
 
 
-<title>Veranstaltungen vom 14.06.2016 bis 16.06.2016</title>
+<title>Veranstaltungen vom 15.06.2016 bis 18.06.2016</title>
  
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=S&amp;ganzjaehrig=ja</link> 
 <description>
 
-   Veranstaltungen vom 14.06.2016 bis 16.06.2016
+   Veranstaltungen vom 15.06.2016 bis 18.06.2016
  
 </description>
-<lastBuildDate>Di,08 Dez 2015 21:54:08 GMT</lastBuildDate> 
+<lastBuildDate>Mi,09 Dez 2015 10:37:09 GMT</lastBuildDate> 
 <ManagingEditor>event@ma55.wien.gv.at</ManagingEditor>
 <language>de-AT</language>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
@@ -992,58 +992,6 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein 
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
-<title>Evita</title>
-<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=410672&amp;return=</link>
-<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=410672&amp;return=</guid>
-<description>
-<![CDATA[<p>14.06.2016<br />
-18:30<br />
-Ronacher<br />http://www.musicalvienna.at</p>­<p>Das Musical basiert auf der Biografie von Eva Perón, vom Volk liebevoll Evita genannt. Die Geschichte handelt von ihrem gesellschaftlichen und politischen Aufstieg, vor dem Hintergrund der historischen Ereignisse in Argentinien zwischen 1934 und 1952. Che, ein junger Mann, führt als Erzähler und Kommentator durch die Geschichte. Die selbst aus einfachen Verhältnissen stammende Evita, bereits zu Lebzeiten von den Descamisados, den Hemdlosen, wie eine Heilige verehrt, wird von den Bürgerlichen und Intellektuellen verachtet. Ihren Weg nach ganz oben säumen etliche Liebhaber bis sie schließlich auf den Militärattaché Perón trifft. Sie unterstützt ihn tatkräftig bei seinen Aufstiegsplänen zum Präsidenten und wird selbst zur First Lady.
-
-</p>
-<p>entnehmen Sie der Veranstaltungshomepage</p>
-]]></description>
-
-<category>Musical</category>
-<dc:subject>Musical</dc:subject>
-<cal:dtstart>2016-06-14T00:00:00+01:00</cal:dtstart>
-<cal:dtend>T00:00:00+01:00</cal:dtend>
-
-<cal:byday>Di</cal:byday>
-<cal:byhour>18</cal:byhour>
-<cal:byminute>30</cal:byminute> 
-<cal:location>
-     <vcard:fn>Ronacher</vcard:fn>
-     <vcard:street-address>Himmelpfortgasse 25</vcard:street-address>	
-     <vcard:postal-code>1010</vcard:postal-code>
-     <vcard:tel>0043-1/514 110</vcard:tel>
-     <vcard:fax>0043-1/514 11-511</vcard:fax>
-     <vcard:email/>
-     <vcard:url>http://www.musicalvienna.at</vcard:url>
-</cal:location>
-<cal:organizer>
-     <vcard:fn>Vereinigte Bühnen Wien Ges.m.b.H. - Musicals</vcard:fn>
-     <vcard:street-address>Linke Wienzeile 6</vcard:street-address>	
-     <vcard:postal-code>1060</vcard:postal-code>
-     <vcard:tel>0043-1/588 30-200</vcard:tel>
-     <vcard:fax>0043-1/588 30-33</vcard:fax>
-     <vcard:email/>
-     <vcard:url>http://www.musicalvienna.at/</vcard:url>
-</cal:organizer>
-<vcard:email/>
-<georss:point>3198.89 340724.80</georss:point>
-<dcterms:created>2015-07-17T08:53:00</dcterms:created>
-<dc:title>Ronacher | Vereinigte Bühnen Wien Ges.m.b.H. - Musicals­http://www.musicalvienna.at/</dc:title>
-<dc:date>2016-06-14T18:30:00+00:00</dc:date>
-<dc:relation> | Di</dc:relation>
-<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=410672</dc:description>
-<dcterms:modified>2015-07-17T09:15:00</dcterms:modified>
-<dc:language>de-AT</dc:language>
-<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
-<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
-<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
-</item>
-<item>
 <title>Ich war noch niemals in New York </title>
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=419848&amp;return=</link>
 <guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=419848&amp;return=</guid>
@@ -1297,6 +1245,109 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein 
 <dc:relation>2016-06-17 | Do, Fr</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=419843</dc:description>
 <dcterms:modified>2015-11-17T11:31:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Der Zauberer von Oz von Harold Arlen</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=410053&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=410053&amp;return=</guid>
+<description>
+<![CDATA[<p>17.06.2016<br />
+18:30<br />
+Volksoper<br />http://www.volksoper.at/</p>­<p>The Wonderful Wizard of Oz von L. Frank Baum ist Amerikas wohl berühmteste Märchenerzählung, die durch die Verfilmung mit der jungen Judy Garland (1939) weltweit Kultstatus erhielt. Das bekannteste Lied daraus, Over the Rainbow von Harold Arlen und Yip Harburg, wurde 1940 mit dem Oscar ausgezeichnet. Erstmals ist nun an der Volksoper die 1987 für die Royal Shakespeare Company erstellte Bühnenfassung des Meisterwerkes zu erleben.</p>
+<p>entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category>Kinder und Jugendliche allgemein</category>
+<dc:subject>Kinder und Jugendliche allgemein, Familie, Musical, Theater, Oper und Musical für Kinder</dc:subject>
+<cal:dtstart>2016-06-17T00:00:00+01:00</cal:dtstart>
+<cal:dtend>T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Fr</cal:byday>
+<cal:byhour>18</cal:byhour>
+<cal:byminute>30</cal:byminute> 
+<cal:location>
+     <vcard:fn>Volksoper</vcard:fn>
+     <vcard:street-address>Währinger Straße 78/
+</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-1/514 440</vcard:tel>
+     <vcard:fax>0043-1/514 44/3215</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.volksoper.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Volksoper</vcard:fn>
+     <vcard:street-address>Währinger Straße 78/
+</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-1/514 440</vcard:tel>
+     <vcard:fax>0043-1/514 44/3215</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.volksoper.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>1334.80 342896.97</georss:point>
+<dcterms:created>2015-07-13T10:26:00</dcterms:created>
+<dc:title>Volksoper | Volksoper­http://www.volksoper.at/</dc:title>
+<dc:date>2016-06-17T18:30:00+00:00</dc:date>
+<dc:relation> | Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=410053</dc:description>
+<dcterms:modified>2015-07-13T11:17:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Il Volo European Tour 2016</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=417474&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=417474&amp;return=</guid>
+<description>
+<![CDATA[<p>18.06.2016<br />
+20:00<br />
+Erste Bank Wiener Stadthalle<br />http://www.stadthalle.com/</p>­<p>Halle F. Beim Eurovision Song Contest 2015 sind Sie in Wien angetreten und haben einen unvergesslichen Eindruck hinterlassen. Die Publikumslieblinge ersangen mit dem Titel Grande Amore den 3.Platz!</p>
+<p>ab  69,90</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-18T00:00:00+01:00</cal:dtstart>
+<cal:dtend>T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Sa</cal:byday>
+<cal:byhour>20</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Erste Bank Wiener Stadthalle</vcard:fn>
+     <vcard:street-address>Roland-Rainer-Platz 1/
+</vcard:street-address>	
+     <vcard:postal-code>1150</vcard:postal-code>
+     <vcard:tel>0043-1/98 100</vcard:tel>
+     <vcard:fax>0043-1/98 100-376</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.stadthalle.com/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Show Connection Veranstaltungs GmbH</vcard:fn>
+     <vcard:street-address>Garnisongasse 1/22</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-1/319 21 21</vcard:tel>
+     <vcard:fax>0043-1/319 21 21-50</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.showconnection.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>58.28 340425.39</georss:point>
+<dcterms:created>2015-10-14T10:24:00</dcterms:created>
+<dc:title>Erste Bank Wiener Stadthalle | Show Connection Veranstaltungs GmbH­http://www.showconnection.at/</dc:title>
+<dc:date>2016-06-18T20:00:00+00:00</dc:date>
+<dc:relation> | Sa</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=417474</dc:description>
+<dcterms:modified>2015-10-14T13:12:00</dcterms:modified>
 <dc:language>de-AT</dc:language>
 <dc:rightsHolder>Stadt Wien</dc:rightsHolder>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
