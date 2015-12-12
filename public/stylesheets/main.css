@@ -13,7 +13,6 @@
 }
 
 #googleMaps {
-	top: 310px;
 	width: 500px;
 	height: 380px;
 	position: absolute;
@@ -37,12 +36,4 @@ a:hover {
 	font-style: italic;
 	font-weight: bold;
  	text-decoration: none;
-}
-
-#eventTable {
-	top: 700px;
-	right: 20px;
-	width: 500px;
-	height: 380px;
-	position: absolute;
 }

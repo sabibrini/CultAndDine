@@ -1,7 +1,6 @@
 @(res:Restaurants)
 
 @main("Cult and Dine") {
-<head>
 	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1>
     <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
     <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/bootstrap/bootstrap.min.css")">
@@ -10,22 +9,6 @@
 		<a href="/home" > <button type="button" class="btn btn-defaut btn-xl">Home</button></a>
 		</div>
 		
-		<!-- key=AIzaSyDVGIonPsFY9X03uVDndvXKmg0xOEuSyHk -->
-	<script src="http://maps.googleapis.com/maps/api/js?"></script> 
-	<script>
-		function initialize() {
-			var mapProp = {
-				center:new google.maps.LatLng(51.508742, -0.120850),
-				zoon: 5,
-				mapTypeId: google.maps.MapTypeId.TERRAIN
-			};
-			var map = new google.maps.Map(document.getElementById("googleMaps"), mapProp);
-		}
-		google.maps.event.addDomListener(window, 'load', initialize);
-	</script>
-</head>
-<body>
-	<div id="googleMaps"></div>
 	<div class = "col-lg-2 col-md-3 col-md-4 col-md-6 col-md-8 col-md-12">
 		  <h1><strong><center> Welcome to Cult and Dine </center> </strong></h1>
                 <h4><center><i><b> We provide the simplest way to dine and see culture in Vienna</b></i></center><h4> 
@@ -47,8 +30,4 @@
                 </form><br>
 	
 	</div>	
-	
-	<!-- tabelle für events erstellen! -->
-	<div id= "eventTable"> Hier k&ouml;nnte Ihre Werbung stehen!</div>
-</body>
     }
