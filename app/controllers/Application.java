@@ -43,9 +43,10 @@ public class Application extends Controller {
 //    }
 
     //add according functionality to give information about a certain selected event
-    public play.mvc.Result selectedEvent() {
-        return ok(event.render());
-    }
+   public play.mvc.Result selectedEvent(String title) {
+       Events e=Read_xml.getEventByname(title);
+	   return ok(event.render(e));
+   }
 
     public play.mvc.Result events() throws Exception{
          DynamicForm requestData = form().bindFromRequest();
@@ -143,8 +144,8 @@ public class Application extends Controller {
 
         return  ok(restaurant.render(rest));
     }
-    public play.mvc.Result matchRestEvent() throws Exception{
-        List<Restaurants> r=FilterRestaurant.filterName("Martin");
+    public play.mvc.Result matchRestEvent(String name) throws Exception{
+        List<Restaurants> r=FilterRestaurant.filterName(name);
         Restaurants rest=r.get(0);
         //Geographics g=Read_xmlRest.geo.get(0);
 
@@ -224,11 +225,12 @@ public class Application extends Controller {
         for(Match m :  Restaurants.restEventDistance){
             System.out.println(m.e.getTitle()+" "+m.getDistance());
         }
-        return  ok(start.render(new Options()));
+        //restEventDistance liste an finalRestaurant übergeben und auslesen
+        return  ok(finalRestaurant.render(rest));
     }
 
-    public play.mvc.Result matchEventRest() throws Exception{
-        String name="Wiener Festwochen 2016";
+    public play.mvc.Result matchEventRest(String title) throws Exception{
+        String name=title;
         Events e=Read_xml.getEventByname(name);
         if(e!=null) {
             String str = e.getStreet();
@@ -276,7 +278,7 @@ public class Application extends Controller {
                 System.out.println(m.r.getName() + " " + m.getDistance());
             }
         }
-    return  ok(start.render(new Options()));
+    return  ok(event.render(e));
 
 
 }

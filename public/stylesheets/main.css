@@ -37,3 +37,12 @@ a:hover {
 	font-weight: bold;
  	text-decoration: none;
 }
+
+#eventTable {
+	top: 700px;
+	right: 20px;
+	width: 500px;
+	height: 380px;
+	position: absolute;
+	overflow:auto;
+ }

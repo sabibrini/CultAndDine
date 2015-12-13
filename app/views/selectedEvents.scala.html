@@ -27,7 +27,7 @@
                             @for(event:Events <-event){
                              <tr>     
                              		<!-- add form to got to the website with the selected event - add according new view -->
-                                   <td><a href ="@routes.Application.selectedEvent() class="btn"> @event.getTitle</a></td>
+                                   <td><a href ="@routes.Application.matchEventRest(event.getTitle)" class="btn"> @event.getTitle</a></td>
                                     <td>@event.getCategory</td>
                                     <td>@event.getOrganizer</td>
                             </tr>
