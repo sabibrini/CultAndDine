@@ -14,5 +14,6 @@ GET     /finalRest                  controllers.Application.matchRestEvent(name:
 GET     /thisEvent                  controllers.Application.selectedEvent(title:String)
 GET		/test2						controllers.Application.matchEventRest(title:String)
 
+
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.versioned(path="/public", file: Asset)
