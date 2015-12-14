@@ -13,6 +13,7 @@
 }
 
 #googleMaps {
+	top: 300px;
 	width: 500px;
 	height: 380px;
 	position: absolute;
@@ -38,7 +39,7 @@ a:hover {
  	text-decoration: none;
 }
 
-#eventTable {
+#matchingTable {
 	top: 700px;
 	right: 20px;
 	width: 500px;
