@@ -12,6 +12,9 @@ public class Read_xml {
 
 	public static ArrayList<Events> event = new ArrayList<Events>();
 
+	/*
+	Syntax for Events streets because there are some /n etc and we took the first data in street except there is no first
+	 */
     public static String getStreetLoc(Element eElement){
         String s=eElement.getElementsByTagName("vcard:street-address").item(0).getTextContent();
         if(s.equals("")) {
@@ -21,6 +24,10 @@ public class Read_xml {
 
         return s;
     }
+
+	/*
+	Filter for Events if you have the name
+	 */
 	public static Events getEventByname(String name){
 		for(Events e:event){
 			System.out.println(e.getTitle());
@@ -31,6 +38,9 @@ public class Read_xml {
 		return null;
 	}
 
+	/*
+	read the Events out of the xml file and save them in a event Array
+	 */
 	public static void readEvents() {
 
 		try {

@@ -12,7 +12,7 @@
     private String Organizer;
 	private String Coordinates;
 	private String Street;
-	public static ArrayList<Match>EventRestDistance=new ArrayList<Match>();
+	public static ArrayList<Match>EventRestDistance=new ArrayList<Match>();// very Events has its matching Array with Restaurants
 
     public Events(String Title,String link,String Category, String Organizer,String Coordinates,String Street){
 
@@ -21,7 +21,7 @@
         this.Category=Category;
 		this.Street=Street;
         this.Organizer = Organizer;
-		if(Coordinates.contains(" ")){
+		if(Coordinates.contains(" ")){					// syntax for google maps
 			this.Coordinates=Coordinates.replace(" ",",");
 			
 

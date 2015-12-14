@@ -9,6 +9,9 @@ import java.util.*;
 
 public class FilterRestaurant{
 
+    /*
+    Filter methods for the database Restaurants !!
+     */
 
     public static List<Restaurants> filterQuarter(String searchingQuarter){
         return Restaurants.find.where().ilike("quater",searchingQuarter).findList();

@@ -19,12 +19,15 @@ import javax.persistence.OptimisticLockException;
 
 //nice comment
 public class Read_xmlRest {
+
     public static ArrayList<Geographics> geo = new ArrayList<Geographics>();
 
     public static void readRestaurants() throws Exception {
 
     }
-
+    /*
+       Calculatig the long and lat data of the Restaurants and save the Restaurant and it Geographics in an array
+        */
     public static void readLongLat(Restaurants r) {
         try {
 

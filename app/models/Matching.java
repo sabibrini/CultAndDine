@@ -12,15 +12,19 @@ import java.util.*;
 public class Matching{
     public static Float dis;
 
+    /*
+    Distance check 1km
+     */
     public static boolean checkdis(Float distance){
         if(distance<=1000.0){
             return true;
         }
         return false;
     }
-
+    /*
+    reading the distance out of the xml file and check it if the distance is <1km then give it back
+     */
     public static Float getDistanceData(){
-
 
             try {
 
@@ -50,7 +54,7 @@ public class Matching{
                         if(checkdis(dis)){
                             return dis;
                         }
-                        return null;
+                       // return null;
 
                     }
                 }
