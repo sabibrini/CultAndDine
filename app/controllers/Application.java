@@ -34,20 +34,19 @@ import models.*;
 
 public class Application extends Controller {
 
+    /*
+    Renders Home
+     */
     public play.mvc.Result start() {
         return ok(start.render(new Options()));
     }
 
-//    public play.mvc.Result selectedRestaurant() {
-//        return ok(restaurant.render());
-//    }
-
-    //add according functionality to give information about a certain selected event
-  // public play.mvc.Result selectedEvent(String title) {
-    //   Events e=Read_xml.getEventByname(title);
-	  // return ok(event.render(e));
-   //}
-
+    /*
+    Home application for Events
+    Endpoint Connection to wien.gv.at with date input from the user
+    Saving the data in events.xml and with the call readEvents we save the events from the xml in an ArrayList
+    This methode renders the selected Event site
+     */
     public play.mvc.Result events() throws Exception{
          DynamicForm requestData = form().bindFromRequest();
          String startdate=requestData.get("dateStart");
@@ -77,20 +76,25 @@ public class Application extends Controller {
         
         return ok(selectedEvents.render(models.Read_xml.event));
     }
-    
-    public play.mvc.Result restaurants() throws Exception{
+
+   /* public play.mvc.Result restaurants() throws Exception{
 
         models.Read_xmlRest.readRestaurants();
         List<Restaurants> rest=Restaurants.find.all();
 
         return ok(selectedRestaurants.render(rest));
-    }
-
+    }*/
+    //not used yet
     public play.mvc.Result filterCategor(){
         List<Restaurants> r=FilterRestaurant.filterCategory("Weinbar");
         return ok(selectedRestaurants.render(r));
     }
 
+    /*
+    Home application for Restaurants
+    Userinput= Dropdownbox. Defaultvalue Mariahilf
+     This methode render the selected Restaurants with the Restaurant list as parameter
+     */
     public play.mvc.Result filterQuatDatabase(){
     	//form request returns null
     	Form<Options> form = Form.form(Options.class).bindFromRequest();
@@ -103,14 +107,22 @@ public class Application extends Controller {
         List<Restaurants> r=FilterRestaurant.filterQuarter("Mariahilf");
         return ok(selectedRestaurants.render(r));
     }
-    
+    /*
+    Home Button on every Page
+    new option for the drop down
+     */
     public play.mvc.Result goHome() {
     	return ok(start.render(new Options()));
     }
 
+    /*
+    Application on selected Restaurants. Input =Clicking of the user at a  Restaurants name
+    the google API needs some special syntax all spaces have to be "+"
+     Here we implement the long and lat data of the restaurant maybe for later for the maps
+     This methode render the event site in which the user can see all details of the Restaurants
+     and can search for near Events
+     */
     public play.mvc.Result calcLongLad(String name)throws Exception{
-        // lies das Restaurant das mit dem Button gewählt wurde aus und speicher in String
-    	//name is sent when clicking on the hyperlink, it should be filtered (when its not a nullpointer)
         List<Restaurants> r=FilterRestaurant.filterName(name);
         Restaurants rest=r.get(0);
         String adress=rest.getAdress();
@@ -144,6 +156,14 @@ public class Application extends Controller {
 
         return  ok(restaurant.render(rest));
     }
+
+    /*
+      Matching methode 1 Restaurant all near elements.Input Restaurantname = User clicks at the restaurantname
+       User can search for Events when he/she enters a date. To all events which are on that date we calculate the
+       distance and save the Events which are 1km near to the Restaurant---> methode models.Matching.getDistanceData()
+       This methode render to finalRestaurant which show the restaurant the google maps and the near events
+       exception because of the URL connection
+     */
     public play.mvc.Result matchRestEvent(String name) throws Exception{
         List<Restaurants> r=FilterRestaurant.filterName(name);
         Restaurants rest=r.get(0);
@@ -151,16 +171,11 @@ public class Application extends Controller {
 
         String add=rest.adress;
         add=add.replaceAll("\\r\\n|\\r|\\n", "+");
-        //byte ptext1[] = add.getBytes("ISO-8859-1");
-        //add = new String(ptext1, "UTF-8");
+
         if (add.contains(" ")) {
             add = add.replace(" ", "+");
         }
-       /* DynamicForm requestData = form().bindFromRequest();
-        String startdate=requestData.get("dateStart");
-        String end= requestData.get("dateEnd");
-*/
-        String site= "https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=rss-vadb_neu&Type=R&hmwd=d&vie_range-from="+"14.06.2016"+"&vie_range-to="+"16.06.2016";
+       String site= "https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=rss-vadb_neu&Type=R&hmwd=d&vie_range-from="+"14.06.2016"+"&vie_range-to="+"16.06.2016";
 
 
         URL url = new URL(site);
@@ -221,10 +236,14 @@ public class Application extends Controller {
         for(Match m :  Restaurants.restEventDistance){
             System.out.println(m.e.getTitle()+" "+m.getDistance());
         }
-        //restEventDistance liste an finalRestaurant �bergeben und auslesen
         return  ok(finalRestaurant.render(rest,Restaurants.restEventDistance));
     }
 
+    /*
+    Matching Mathode 1 Event to all near Restaurants.Input = User clicks at a event name
+    With google maps api we calculate the distance to every Restaurant and save it if its 1km away
+    This Methode render to itselfe with the new matching List
+     */
     public play.mvc.Result matchEventRest(String title) throws Exception{
         String name=title;
         Events e=Read_xml.getEventByname(name);
@@ -235,7 +254,7 @@ public class Application extends Controller {
             if (str.contains(" ")) {
                 str = str.replace(" ", "+");
             }
-            //System.out.println("ADRESSE "+str);
+
             List<Restaurants> r = Restaurants.find.all();
             for (Restaurants rest : r) {
                 String add = rest.getAdress();
@@ -275,11 +294,11 @@ public class Application extends Controller {
             }
         }
     return  ok(event.render(e,Events.EventRestDistance));
+    }
 
-
-}
-
-
+/*
+From Dropdown
+ */
     public static class Options {
         public static String option;
 
