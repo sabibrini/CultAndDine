@@ -1,6 +1,9 @@
 package models;
 
 public class Match{
+    /*
+    Every match has either a Restaurant and the distance from it or a Event and the distance
+     */
     public Events e;
     public Float distance;
     public Restaurants r;

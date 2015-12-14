@@ -1,5 +1,8 @@
 package models;
 
+/*
+Every Restaurant has it own geographics add for Events !!!
+ */
 public class Geographics{
     private Float lat;
     private Float lnd;
