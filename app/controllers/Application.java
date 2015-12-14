@@ -44,15 +44,7 @@ public class Application extends Controller {
 
     //add according functionality to give information about a certain selected event
    public play.mvc.Result selectedEvent(String title) {
-       if(title.contains("+")){
-           title=title.replace("+","");
-       }
-       if(title.contains("class=")){
-           title=title.replace("class=","");
-       }
-       System.out.print(title);
        Events e=Read_xml.getEventByname(title);
-
 	   return ok(event.render(e));
    }
 
