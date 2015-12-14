@@ -44,7 +44,15 @@ public class Application extends Controller {
 
     //add according functionality to give information about a certain selected event
    public play.mvc.Result selectedEvent(String title) {
+       if(title.contains("+")){
+           title=title.replace("+","");
+       }
+       if(title.contains("class=")){
+           title=title.replace("class=","");
+       }
+       System.out.print(title);
        Events e=Read_xml.getEventByname(title);
+
 	   return ok(event.render(e));
    }
 
@@ -225,8 +233,8 @@ public class Application extends Controller {
         for(Match m :  Restaurants.restEventDistance){
             System.out.println(m.e.getTitle()+" "+m.getDistance());
         }
-        //restEventDistance liste an finalRestaurant übergeben und auslesen
-        return  ok(finalRestaurant.render(rest));
+        //restEventDistance liste an finalRestaurant ï¿½bergeben und auslesen
+        return  ok(finalRestaurant.render(rest,Restaurants.restEventDistance));
     }
 
     public play.mvc.Result matchEventRest(String title) throws Exception{

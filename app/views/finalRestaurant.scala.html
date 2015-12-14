@@ -1,5 +1,5 @@
 @import java.util
-@(res:Restaurants)
+@(res:Restaurants,matchRest :util.List[Match])
 
 @main("Cult and Dine") {
 <head>
@@ -45,7 +45,23 @@
 		
 	</div>
 	
-<!-- tabelle für events erstellen! -->
+<!-- tabelle fï¿½r events erstellen! -->
 <!-- event liste auslesen wie bei selectedEvents.scala.html -->
-	<div id= "eventTable">Hier sollte Ihre Event-Auswahl stehen!</div>
+	<table class="table">
+		<tr>
+			<th>Event Name</th>
+			<th>Distance</th>
+
+		</tr>
+		<tbody>
+		@for(matchR:Match <-matchRest){
+		<tr>
+			<td>@matchR.e.getTitle</td>
+			<td>@matchR.getDistance</td>
+
+		</tr>
+		}
+		</tbody>
+	</table>
+
     }

@@ -23,6 +23,7 @@ public class Read_xml {
     }
 	public static Events getEventByname(String name){
 		for(Events e:event){
+			System.out.println(e.getTitle());
 			if(e.getTitle().equals(name)){
 				return e;
 			}
@@ -51,7 +52,7 @@ public class Read_xml {
 
 				Node nNode = nList.item(temp);
 
-				System.out.println("\nCurrent Element :" + nNode.getNodeName());
+				//System.out.println("\nCurrent Element :" + nNode.getNodeName());
 
 				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 
@@ -70,6 +71,7 @@ public class Read_xml {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+
 	}
 
 }
