@@ -12,6 +12,7 @@
 		
 	
 	<!-- key=AIzaSyDVGIonPsFY9X03uVDndvXKmg0xOEuSyHk -->
+	<!-- googleMap code again -->
 	<script src="http://maps.googleapis.com/maps/api/js?"></script> 
 	<script>
 		function initialize() {
@@ -32,7 +33,7 @@
                 <h4><center><i><b> We provide the simplest way to dine and see culture in Vienna</b></i></center><h4> 
                 <br><br><br><br>
                 <br>
-          
+          <!-- information about the restaurant is stated here -->
           Name: @res.getName <br>
           Category: @res.getCategory <br>
           Priceclass: @res.getPriceClass <br>
@@ -43,6 +44,7 @@
 	
 		
 	</div>	
+	<!-- here you can get events near the restaurant you selected -->
 <form method="GET" action=/events>
                     Startdate: <input type="text" name="dateStart" id=3 action=/events > <br>
                     Enddate: <input type="text" name="dateEnd" id=4 action=/events > <br>

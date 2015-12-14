@@ -28,7 +28,7 @@
                         @if(restau != null) {
 	                        @for(resta:Restaurants <-restau){
 	                        <tr>
-	                        	<!-- add form to got to the website with the selected restaurant - add according new view -->
+	                        	<!-- calcLongLad uses the name of the selected restaurant to calculate is coordinates -->
 	                            <td> <a href="@routes.Application.calcLongLad(resta.name)" class="btn">@resta.name</a> </td>
 	                            <td>@resta.category</td>
 	                            <td>@resta.priceclass</td>

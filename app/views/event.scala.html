@@ -1,5 +1,7 @@
 @import java.util
 @(event:Events,matchEv :util.List[Match])
+
+<!-- website shows information about the selected event -->
 @main("Cult and Dine") {
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1>
@@ -10,6 +12,7 @@
 		<a href="/home" > <button type="button" class="btn btn-defaut btn-xl">Home</button></a>
 		</div>
 		<!-- key=AIzaSyDVGIonPsFY9X03uVDndvXKmg0xOEuSyHk -->
+		<!-- java script code to insert a nice googleMap thing, doesn't work yet -->
 	<script src="http://maps.googleapis.com/maps/api/js?"></script>
 	<script>
 		function initialize() {
@@ -32,6 +35,8 @@
                 <h4><center><i><b> We provide the simplest way to dine and see culture in Vienna</b></i></center><h4>
                 <br><br><br><br>
                 <br>
+         
+         <!-- information about the selected event is stated, more information form the XML-File could be stated -->
          Title: @event.getTitle<br>
          Category: @event.getCategory<br>
 
@@ -40,6 +45,7 @@
 		<br><br><br><br><br><br>
 		</div>
 
+	<!-- all restaurants in 1km diameter are listed in this layer; there can be 0 restaurants near -->
 	<div id ="matchingTable">
 		<table class="table">
 			<tr>

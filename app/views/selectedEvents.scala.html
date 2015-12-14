@@ -6,7 +6,7 @@
     <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
     <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/bootstrap.css")">
     
-    	<!-- add responsive button design -->
+    	<!-- home button that depends on bootstrap -->
     	<div class="btn-group" role="group" aria-label="...">
 		<a href="/home" > <button type="button" class="btn btn-defaut btn-xl">Home</button></a>
 		</div>
@@ -26,7 +26,8 @@
                             <tbody>
                             @for(event:Events <-event){
                              <tr>     
-                             		<!-- add form to got to the website with the selected event - add according new view -->
+                             		<!-- matchEventRest method (in Application) takes the specific title belonging to a certain event -->
+                             		<!-- it uses it to get information about that event (saved in XML) and states it on the next side -->
                                    <td><a href ="@routes.Application.matchEventRest(event.getTitle)" class="btn"> @event.getTitle</a></td>
                                     <td>@event.getCategory</td>
                                     <td>@event.getOrganizer</td>

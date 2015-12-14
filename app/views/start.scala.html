@@ -1,6 +1,7 @@
 @(form: controllers.Application.Options)
 @main("Cult and Dine") {
 	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1>
+	<!-- use bootstrap css and the css stylesheet for the website -->
     <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/main.css")">
     <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/bootstrap/bootstrap.min.css")">
     <div class="container-fluid">
@@ -17,6 +18,7 @@
                 </form><br>
                 <h4>Search for the restaurants on your Vienna Trip:</h4>
                 
+                <!-- helper for generation a dropdown form -> doesn't work yet -->
                 	@helper.form(routes.Application.filterQuatDatabase) {
                      <select class="form-control" value="xyz" name="selecti" id="klaus">
                       <option name="option" value="Mariahilf" type="submit" id="Mariahilf">Mariahilf</option>
