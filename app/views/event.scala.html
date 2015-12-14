@@ -1,4 +1,5 @@
-@(event:Events)
+@import java.util
+@(event:Events,matchEv :util.List[Match])
 @main("Cult and Dine") {
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1>
@@ -40,7 +41,22 @@
 		</div>
 
 	<div id ="hdf">
-	Restaurant Liste hier einf&uuml;gen
+		<table class="table">
+			<tr>
+				<th>Restaurant Name</th>
+				<th>Distance</th>
+
+			</tr>
+			<tbody>
+			@for(matchE:Match <-matchEv){
+			<tr>
+				<td>@matchE.r.getName</td>
+				<td>@matchE.getDistance</td>
+
+			</tr>
+			}
+			</tbody>
+		</table>
 	</div>
 </body>
 }

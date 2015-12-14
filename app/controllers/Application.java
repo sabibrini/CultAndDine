@@ -43,10 +43,10 @@ public class Application extends Controller {
 //    }
 
     //add according functionality to give information about a certain selected event
-   public play.mvc.Result selectedEvent(String title) {
-       Events e=Read_xml.getEventByname(title);
-	   return ok(event.render(e));
-   }
+  // public play.mvc.Result selectedEvent(String title) {
+    //   Events e=Read_xml.getEventByname(title);
+	  // return ok(event.render(e));
+   //}
 
     public play.mvc.Result events() throws Exception{
          DynamicForm requestData = form().bindFromRequest();
@@ -182,10 +182,7 @@ public class Application extends Controller {
 
         models.Read_xml.readEvents();
 
-        //String la=Float.toString(g.getLat());
-        //String ln=Float.toString(g.getLnd());
 
-        //System.out.println(la+" ehwriohweoiehoihrgpihreghreähgiperhgüeqhü "+ln);
         for(Events x: models.Read_xml.event) {
             String st = x.getStreet();
 
@@ -194,7 +191,6 @@ public class Application extends Controller {
             if (st.contains(" ")) {
                 st = st.replace(" ", "+");
             }
-            // filter bei TOP 5 z.b gibs einen fehler Tops wegfiltern !!!!
 
             String site2 = "https://maps.googleapis.com/maps/api/distancematrix/xml?origins="+add+"&destinations="+st+"&mode=walking&language=en-EN";
 
@@ -278,7 +274,7 @@ public class Application extends Controller {
                 System.out.println(m.r.getName() + " " + m.getDistance());
             }
         }
-    return  ok(event.render(e));
+    return  ok(event.render(e,Events.EventRestDistance));
 
 
 }

@@ -13,7 +13,7 @@ public class Matching{
     public static Float dis;
 
     public static boolean checkdis(Float distance){
-        if(distance<=500.0){
+        if(distance<=1000.0){
             return true;
         }
         return false;

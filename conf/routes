@@ -11,8 +11,8 @@ GET     /filterC                    controllers.Application.filterCategor()
 GET		/home						controllers.Application.goHome()
 GET		/thisRestaurant			    controllers.Application.calcLongLad(name:String)
 GET     /finalRest                  controllers.Application.matchRestEvent(name:String)
-GET     /thisEvent                  controllers.Application.selectedEvent(title:String)
-GET		/test2						controllers.Application.matchEventRest(title:String)
+GET     /thisEvent                  controllers.Application.matchEventRest(title:String)
+
 
 
 # Map static resources from the /public folder to the /assets URL path
