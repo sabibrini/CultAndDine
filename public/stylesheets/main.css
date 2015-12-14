@@ -46,4 +46,5 @@ a:hover {
 	height: 380px;
 	position: absolute;
 	overflow:auto;
+	float:right;
  }
