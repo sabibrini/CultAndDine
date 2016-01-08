@@ -10,16 +10,15 @@
                 <h1><strong><center> Welcome to Cult and Dine </center> </strong></h1>
                 <h4><center><i><b> We provide the simplest way to dine and see culture in Vienna</b></i></center><h4> 
                 <br><br><br><br>
-                <table cellspacing = "100" cellpadding = "10">
-                <tr>
-                <td>
+                <div id="event">
                 <h4>Search for the events on your Vienna Trip:</h4>
                 <form method="GET" action=/events>
                     Startdate: <input type="text" name="dateStart" id=3 action=/events > <br>
                     Enddate: <input type="text" name="dateEnd" id=4 action=/events > <br>
                      <button type="events" name="events" action=/events>Search for events</button>
-                </form></td>
-                <td>
+                </form>
+                </div>
+                <div id="restaurant">
                 <h4>Search for the restaurants on your Vienna Trip:</h4>
                 
                 <!-- helper for generation a dropdown form -> doesn't work yet -->
@@ -52,9 +51,7 @@
                     </select>
                     <button type="submit" name="restaurants" action=/restaurants>Search for restaurants</button>
                     }
-               		</td>
-               		</tr>
-               		</table>
+                </div>
                 <br>
             </div>
         </div>

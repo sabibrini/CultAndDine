@@ -22,6 +22,20 @@
 	right: 20px;
 }
 
+#event {
+	top: 450px;
+	width: 500px;
+	left: 350px;
+	position: absolute;
+}
+
+#restaurant {
+	top: 450px;
+	width: 500px;
+	left: 850px;
+	position: absolute;
+}
+
  a:link { 
  	padding: 3px;
  	color: #150f05;
