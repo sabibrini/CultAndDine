@@ -14,6 +14,7 @@ public class FilterRestaurant{
      */
 
     public static List<Restaurants> filterQuarter(String searchingQuarter){
+    	System.out.println(searchingQuarter);
         return Restaurants.find.where().ilike("quater",searchingQuarter).findList();
     }
     public static List<Restaurants> filterCategory(String cat){

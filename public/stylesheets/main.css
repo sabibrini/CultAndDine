@@ -54,9 +54,9 @@ a:hover {
 }
 
 #matchingTable {
-	top: 700px;
+	top: 800px;
 	right: 20px;
-	width: 500px;
+	width: 600px;
 	height: 380px;
 	position: absolute;
 	overflow:auto;
