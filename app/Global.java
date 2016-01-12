@@ -63,6 +63,7 @@ public class Global extends GlobalSettings {
                 for (JsonValue item : items) {
                     Restaurants restau = new Restaurants();
                     name = item.asObject().getString("restaurantName", "Unknown Item");
+                    System.out.println(name);
                     JsonValue cata = item.asObject().get("category");
                     if (cata.isArray()) {
                         for (JsonValue c : cata.asArray()) {

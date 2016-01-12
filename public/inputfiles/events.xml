@@ -3,15 +3,15 @@
 <channel>
 
 
-<title>Veranstaltungen vom 14.06.2016 bis 16.06.2016</title>
+<title>Veranstaltungen vom 15.06.2016 bis 17.06.2016</title>
  
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=S&amp;ganzjaehrig=ja</link> 
 <description>
 
-   Veranstaltungen vom 14.06.2016 bis 16.06.2016
+   Veranstaltungen vom 15.06.2016 bis 17.06.2016
  
 </description>
-<lastBuildDate>Mo,14 Dez 2015 16:58:14 GMT</lastBuildDate> 
+<lastBuildDate>Di,12 Jän 2016 15:18:12 GMT</lastBuildDate> 
 <ManagingEditor>event@ma55.wien.gv.at</ManagingEditor>
 <language>de-AT</language>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
@@ -472,6 +472,374 @@ Die öffentliche Diskussion um Provenienzforschung wird beherrscht von der Frage
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
+<title>Salsa Cubana Creativa - Anfänger</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=420320&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=420320&amp;return=</guid>
+<description>
+<![CDATA[<p>27.11.2015 bis 01.07.2016<br />
+19:10 bis 20:10<br />
+Tanzstudio Ritmo Tropical<br />http://www.ritmotropical.at/</p>­<p>Salsa Cubana ist ein Single-Choreographie-Kurs, kein Partner notwendig! In den Ritmo Tropical-Kursen mit Luis Estevez werden Grundelemente der kubanischen Salsa gelehrt. Infos über Workshops, Fiestas, Kuba-Tanzreise, Bühnenshow uvm. finden Sie auf der Veranstaltungshomepage.</p>
+<p>entnehmen Sie der Veranstaltungshomepage<br />Infos 0699/182 571 29</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2015-11-27T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-07-01T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Fr</cal:byday>
+<cal:byhour>19</cal:byhour>
+<cal:byminute>10</cal:byminute> 
+<cal:location>
+     <vcard:fn>Tanzstudio Ritmo Tropical</vcard:fn>
+     <vcard:street-address>Hirschengasse 12-14</vcard:street-address>	
+     <vcard:postal-code>1060</vcard:postal-code>
+     <vcard:tel>0043-(0)676/406 75 20</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.ritmotropical.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Luis Estevez</vcard:fn>
+     <vcard:street-address>Hirschengasse 12-14/
+</vcard:street-address>	
+     <vcard:postal-code>1060</vcard:postal-code>
+     <vcard:tel>0043-(0)699/182 571 29</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.ritmotropical.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>1197.15 339538.66</georss:point>
+<dcterms:created>2015-11-24T10:27:00</dcterms:created>
+<dc:title>Tanzstudio Ritmo Tropical | Luis Estevez­http://www.ritmotropical.at/</dc:title>
+<dc:date>2015-11-27T19:10:00+00:00</dc:date>
+<dc:relation>2016-07-01T20:10:00 | Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=420320</dc:description>
+<dcterms:modified>2016-01-11T09:59:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Salsa Cubana Creativa - Fortgeschrittene</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=420321&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=420321&amp;return=</guid>
+<description>
+<![CDATA[<p>27.11.2015 bis 01.07.2016<br />
+18:00 bis 19:00<br />
+Tanzstudio Ritmo Tropical<br />http://www.ritmotropical.at/</p>­<p>Salsa Cubana ist ein Single-Choreographie-Kurs, kein Partner notwendig! In den Ritmo Tropical-Kursen mit Luis Estevez werden Grundelemente der kubanischen Salsa gelehrt. Infos über Workshops, Fiestas, Kuba-Tanzreise, Bühnenshow uvm. finden Sie auf der Veranstaltungshomepage.</p>
+<p>entnehmen Sie der Veranstaltungshomepage<br />Infos 0699/182 571 29</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2015-11-27T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-07-01T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mo, Fr</cal:byday>
+<cal:byhour>18</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Tanzstudio Ritmo Tropical</vcard:fn>
+     <vcard:street-address>Hirschengasse 12-14</vcard:street-address>	
+     <vcard:postal-code>1060</vcard:postal-code>
+     <vcard:tel>0043-(0)676/406 75 20</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.ritmotropical.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Luis Estevez</vcard:fn>
+     <vcard:street-address>Hirschengasse 12-14/
+</vcard:street-address>	
+     <vcard:postal-code>1060</vcard:postal-code>
+     <vcard:tel>0043-(0)699/182 571 29</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.ritmotropical.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>1197.15 339538.66</georss:point>
+<dcterms:created>2015-11-24T10:29:00</dcterms:created>
+<dc:title>Tanzstudio Ritmo Tropical | Luis Estevez­http://www.ritmotropical.at/</dc:title>
+<dc:date>2015-11-27T18:00:00+00:00</dc:date>
+<dc:relation>2016-07-01T19:00:00 | Mo, Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=420321</dc:description>
+<dcterms:modified>2016-01-11T09:59:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Winterpalais des Prinzen Eugen von Savoyen</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422263&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422263&amp;return=</guid>
+<description>
+<![CDATA[<p>01.01.2016 bis 30.12.2016<br />
+10:00 bis 18:00<br />
+Winterpalais des Prinzen Eugen von Savoyen<br />http://www.belvedere.at/de/schloss-und-museum/winterpalais</p>­<p>Einst für den Hausherrn als prachtvoll ausgestattetes Wohn- und Repräsentationspalais errichtet, im 18. Jahrhundert von Kaiserin Maria Theresia erworben, bald für die Hofkammer und dann als Finanzministerium genutzt, ist das Barockjuwel in der Wiener Innenstadt wieder zu einem Ort für Kunst und Kultur geworden. Mit der Eröffnung des neuen und vierten Ausstellungsortes des Belvedere sind die bedeutendsten Säle des Paradeappartements des Prinzen Eugen von Savoyen seit 18. Oktober 2013 der Öffentlichkeit zugänglich. Aufbauend auf dem historischen Erbe und dem umfassenden Wirken des Weltbürgers, soll durch Wechselbeziehungen zwischen Stadt- und Gartenpalast  Winterpalais und Schloss Belvedere , die nach mehr als 260 Jahren wieder zusammengeführt wurden, ein weiterer bedeutender Kunststandort im Zentrum Wiens etabliert werden.</p>
+<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+<media:content media="image" type="image/jpg" url="https://www.wien.gv.at/buergerdienst/vadb/images/winterpalais.jpg"/>
+<media:description>© 2015 Österreichische Galerie Belvedere, der Eingang</media:description>
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-01-01T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-12-30T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
+<cal:byhour>10</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Winterpalais des Prinzen Eugen von Savoyen</vcard:fn>
+     <vcard:street-address>Himmelpfortgasse 6-8/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/795 57 134</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/de/schloss-und-museum/winterpalais</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Winterpalais des Prinzen Eugen von Savoyen</vcard:fn>
+     <vcard:street-address>Himmelpfortgasse 6-8/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/795 57 134</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/de/schloss-und-museum/winterpalais</vcard:url>
+</cal:organizer>
+<vcard:email>public@belvedere.at</vcard:email>
+<georss:point>3002.53 340803.01</georss:point>
+<dcterms:created>2016-01-07T10:31:00</dcterms:created>
+<dc:title>Winterpalais des Prinzen Eugen von Savoyen | Winterpalais des Prinzen Eugen von Savoyen­http://www.belvedere.at/de/schloss-und-museum/winterpalais</dc:title>
+<dc:date>2016-01-01T10:00:00+00:00</dc:date>
+<dc:relation>2016-12-30T18:00:00 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422263</dc:description>
+<dcterms:modified>2016-01-07T10:45:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>21er Haus </title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422258&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422258&amp;return=</guid>
+<description>
+<![CDATA[<p>01.01.2016 bis 31.12.2016<br />
+11:00<br />
+21er Haus Museum des 20. Jahrhunderts<br />http://www.belvedere.at/house21/de</p>­<p>Das Gebäude wurde 1958 von dem österreichischen Architekten Karl Schwanzer (1918 - 1975) als temporärer Ausstellungsraum für die Weltausstellung in Brüssel errichtet. Schwanzer hatte sich in der nationalen Ausschreibung des Bundes gegen Mitbewerber wie Oswald Haerdtl, Otto Niedermoser und Erich Bolternstern durchgesetzt. Später schrieb er in seinem Buch Architektur aus Leidenschaft: ...mit minimalem Aufwand sollte maximaler Effekt erzielt werden. Das Gebäude diente dem Museum Moderner Kunst als Ausstellungshalle, bis die Sammlung Ende 2001 in das Museum Moderner Kunst Stiftung Ludwig im neuen Museumsquartier (ehemalige Hofstallungen) umzog. Im Frühsommer 2002 wurde das Haus an das Belvedere übergeben und wurde im November 2011 als 21er Haus neu eröffnet. Öffnungszeiten Mi+Do 11.00-21.00 Uhr, Fr-So+Ftg. 11.00-18.00 Uhr.</p>
+<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+<media:content media="image" type="image/jpg" url="https://www.wien.gv.at/buergerdienst/vadb/images/21haus.jpg"/>
+<media:description>(c) 21er Haus (Museum des 20. Jahrhunderts), Das 21er Haus</media:description>
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-01-01T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-12-31T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
+<cal:byhour>11</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>21er Haus Museum des 20. Jahrhunderts</vcard:fn>
+     <vcard:street-address>Arsenalstraße 1/
+</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/795 57-707</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/house21/de</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>21er Haus Museum des 20. Jahrhunderts</vcard:fn>
+     <vcard:street-address>Arsenalstraße 1/
+</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/795 57-707</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/house21/de</vcard:url>
+</cal:organizer>
+<vcard:email>public@21erhaus.at</vcard:email>
+<georss:point>3837.87 338598.95</georss:point>
+<dcterms:created>2016-01-07T10:15:00</dcterms:created>
+<dc:title>21er Haus Museum des 20. Jahrhunderts | 21er Haus Museum des 20. Jahrhunderts­http://www.belvedere.at/house21/de</dc:title>
+<dc:date>2016-01-01T11:00:00+00:00</dc:date>
+<dc:relation>2016-12-31 | Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422258</dc:description>
+<dcterms:modified>2016-01-07T10:45:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Business Lunch mit "Aussicht" auf Erfolg im Restaurant Das Schick</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=394942&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=394942&amp;return=</guid>
+<description>
+<![CDATA[<p>04.01.2016 bis 23.12.2016<br />
+12:00 bis 15:00<br />
+Restaurant Das Schick/Hotel Am Parkring<br />http://www.das-schick.at/</p>­<p>Business Lunch über den Dächern Wiens - Sie haben die Wahl: 2-gängiges und 3-gängiges Menü(ausgenommen Feiertage). Genauere Details finden Sie unter der Veranstaltungshomepage.</p>
+<p>2-gängiges Menü  22,00, 3-gängiges Menü  26,00</p>
+]]></description>
+
+<category>Genuss und Kulinarik</category>
+<dc:subject>Genuss und Kulinarik</dc:subject>
+<cal:dtstart>2016-01-04T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-12-23T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mo, Di, Mi, Do, Fr</cal:byday>
+<cal:byhour>12</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Restaurant Das Schick/Hotel Am Parkring</vcard:fn>
+     <vcard:street-address>Parkring 12A/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/514 80-417</vcard:tel>
+     <vcard:fax/>
+     <vcard:email>parkring@schick-hotels.com</vcard:email>
+     <vcard:url>http://www.das-schick.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Restaurant Das Schick/Hotel Am Parkring</vcard:fn>
+     <vcard:street-address>Parkring 12A/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/514 80-417</vcard:tel>
+     <vcard:fax/>
+     <vcard:email>parkring@schick-hotels.com</vcard:email>
+     <vcard:url>http://www.das-schick.at/</vcard:url>
+</cal:organizer>
+<vcard:email>parkring@schick-hotels.com</vcard:email>
+<georss:point>3376.94 340720.68</georss:point>
+<dcterms:created>2015-01-05T08:56:00</dcterms:created>
+<dc:title>Restaurant Das Schick/Hotel Am Parkring | Restaurant Das Schick/Hotel Am Parkring­http://www.das-schick.at/</dc:title>
+<dc:date>2016-01-04T12:00:00+00:00</dc:date>
+<dc:relation>2016-12-23T15:00:00 | Mo, Di, Mi, Do, Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=394942</dc:description>
+<dcterms:modified>2015-12-21T09:17:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>"Sammeln, Ordnen, Archivieren, Bewahren"</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422158&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422158&amp;return=</guid>
+<description>
+<![CDATA[<p>06.01.2016 bis 30.06.2016<br />
+17.00 bis 21:00<br />
+Pfadfindermuseum und Institut für Pfadfindergeschichte<br />http://pfadfinder-archiv.org/</p>­<p>Warum soll ein Archiv und ein Museum sammeln? Was ist überhaupt der Unterschied zwischen einem Museum und Archiv.
+ Wie sammelt man? Wie kann man die Ablage von Kulturgütern organisieren? Was ist mit beschädigten Objekten? Repariert man sie selbst, braucht man einen professionellen Restaurator?
+ Das alles sind Fragen, die wir in dieser Sonderausstellung versuchen zu beantworten. Wir zeigen aber aus unserem Fundus auch eine Fülle von Objekten, Abzeichen, Halstüchern, Orden, Büchern und vieles mehr, die es lohnen, eine Sammlung zu beginnen.</p>
+<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-01-06T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-30T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mi, Do, Fr</cal:byday>
+<cal:byhour>17</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Pfadfindermuseum und Institut für Pfadfindergeschichte</vcard:fn>
+     <vcard:street-address>Loeschenkohlgasse 25/4/
+</vcard:street-address>	
+     <vcard:postal-code>1150</vcard:postal-code>
+     <vcard:tel>0043-1/596 52 53</vcard:tel>
+     <vcard:fax/>
+     <vcard:email>mailto:hanns.strouhal@chello.at</vcard:email>
+     <vcard:url>http://pfadfinder-archiv.org/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Pfadfindermuseum und Institut für Pfadfindergeschichte</vcard:fn>
+     <vcard:street-address>Loeschenkohlgasse 25/4/
+</vcard:street-address>	
+     <vcard:postal-code>1150</vcard:postal-code>
+     <vcard:tel>0043-1/596 52 53</vcard:tel>
+     <vcard:fax/>
+     <vcard:email>mailto:hanns.strouhal@chello.at</vcard:email>
+     <vcard:url>http://pfadfinder-archiv.org/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>-467.46 340177.64</georss:point>
+<dcterms:created>2016-01-04T14:49:00</dcterms:created>
+<dc:title>Pfadfindermuseum und Institut für Pfadfindergeschichte | Pfadfindermuseum und Institut für Pfadfindergeschichte­http://pfadfinder-archiv.org/</dc:title>
+<dc:date>2016-01-06T17.00:00+00:00</dc:date>
+<dc:relation>2016-06-30T21:00:00 | Mi, Do, Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422158</dc:description>
+<dcterms:modified>2016-01-07T06:33:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Woodcraft am Lager</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422159&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422159&amp;return=</guid>
+<description>
+<![CDATA[<p>06.01.2016 bis 30.06.2016<br />
+17.00 bis 21:00<br />
+Pfadfindermuseum und Institut für Pfadfindergeschichte<br />http://pfadfinder-archiv.org/</p>­<p>Das Wissen um das Leben in der Natur, Feuer machen ohne Zündhölzer, das Herstellen von Lagerbauten ohne Metallnägel, basteln von einfachen Messern, Äxten mit Steinklingen. Das und vieles mehr beleuchten und zeigen wir in der Sonderausstellung in der Loeschenkohlgasse.
+ In einem eigens für die Ausstellung angefertigtem Film kann man sehen, wie durch bloße Reibung von Hölzern Feuer entsteht, und mit welchem Zundermaterial man dieses Feuer groß macht.
+ Die Ausstellung zeigt alle Materialien, die das Leben in der Natur ermöglichen.</p>
+<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-01-06T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-30T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mi, Do, Fr</cal:byday>
+<cal:byhour>17</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Pfadfindermuseum und Institut für Pfadfindergeschichte</vcard:fn>
+     <vcard:street-address>Loeschenkohlgasse 25/4/
+</vcard:street-address>	
+     <vcard:postal-code>1150</vcard:postal-code>
+     <vcard:tel>0043-1/596 52 53</vcard:tel>
+     <vcard:fax/>
+     <vcard:email>mailto:hanns.strouhal@chello.at</vcard:email>
+     <vcard:url>http://pfadfinder-archiv.org/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Pfadfindermuseum und Institut für Pfadfindergeschichte</vcard:fn>
+     <vcard:street-address>Loeschenkohlgasse 25/4/
+</vcard:street-address>	
+     <vcard:postal-code>1150</vcard:postal-code>
+     <vcard:tel>0043-1/596 52 53</vcard:tel>
+     <vcard:fax/>
+     <vcard:email>mailto:hanns.strouhal@chello.at</vcard:email>
+     <vcard:url>http://pfadfinder-archiv.org/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>-467.46 340177.64</georss:point>
+<dcterms:created>2016-01-04T14:50:00</dcterms:created>
+<dc:title>Pfadfindermuseum und Institut für Pfadfindergeschichte | Pfadfindermuseum und Institut für Pfadfindergeschichte­http://pfadfinder-archiv.org/</dc:title>
+<dc:date>2016-01-06T17.00:00+00:00</dc:date>
+<dc:relation>2016-06-30T21:00:00 | Mi, Do, Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422159</dc:description>
+<dcterms:modified>2016-01-04T14:51:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
 <title>PreKanga - kugelrundes Workout - offene Gruppe</title>
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421389&amp;return=</link>
 <guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421389&amp;return=</guid>
@@ -526,14 +894,223 @@ Voraussetzung für den Kurs: Absolvierung der im Mutter-Kind-Pass vorgeschrieben
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
+<title>Salsa Cubana-Bachata Single für Anfänger</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422470&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422470&amp;return=</guid>
+<description>
+<![CDATA[<p>13.01.2016 bis 29.06.2016<br />
+18:00 bis 19:00<br />
+Tanzstudio Ritmo Tropical<br />http://www.ritmotropical.at/</p>­<p>Salsa Cubana-Bachata ist ein Single-Choreographie-Kurs, kein Partner notwendig! In den Ritmo Tropical-Kursen mit Luis Estevez werden Grundelemente der kubanischen Salsa und von Bachata gelehrt. Infos über Workshops, Fiestas, Kuba-Tanzreise, Bühnenshow uvm. finden Sie auf der Veranstaltungshomepage.</p>
+<p>entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-01-13T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-29T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mi</cal:byday>
+<cal:byhour>18</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Tanzstudio Ritmo Tropical</vcard:fn>
+     <vcard:street-address>Hirschengasse 12-14</vcard:street-address>	
+     <vcard:postal-code>1060</vcard:postal-code>
+     <vcard:tel>0043-(0)676/406 75 20</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.ritmotropical.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Luis Estevez</vcard:fn>
+     <vcard:street-address>Hirschengasse 12-14/
+</vcard:street-address>	
+     <vcard:postal-code>1060</vcard:postal-code>
+     <vcard:tel>0043-(0)699/182 571 29</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.ritmotropical.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>1197.15 339538.66</georss:point>
+<dcterms:created>2016-01-11T14:30:00</dcterms:created>
+<dc:title>Tanzstudio Ritmo Tropical | Luis Estevez­http://www.ritmotropical.at/</dc:title>
+<dc:date>2016-01-13T18:00:00+00:00</dc:date>
+<dc:relation>2016-06-29T19:00:00 | Mi</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422470</dc:description>
+<dcterms:modified>2016-01-11T14:31:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>rampenlicht | franzi kreis | fotografien im theaterfoyer</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421930&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421930&amp;return=</guid>
+<description>
+<![CDATA[<p>15.01.2016 bis 25.06.2016<br />
+1 1/2 Std. vor Vorstellungen<br />
+Kosmos Theater<br />http://www.kosmostheater.at/</p>­<p>vernissage: do, 14.01. um 19.00 uhr, diese weiterwachsende bildserie vom abseits der bühne ist neben der dokumentation von einzelnen produktionen und verschiedenen theater- und tanzfestivals in österreich und deutschland (u.a. wiener festwochen, europäische theaterbiennale wiesbaden, impulstanz) seit 2014 entstanden. franzi kreis (geb. 1991) lebt und arbeitet als fotografin mit schwerpunkt portrait, theater und tanz in wien. ausstellung: geöffnet an spieltagen ab 90 minuten vor vorstellungsbeginn</p>
+<p>Eintritt frei </p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-01-15T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-25T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mo, Di, Mi, Do, Fr, Sa, So</cal:byday>
+<cal:byhour/>
+<cal:byminute/> 
+<cal:location>
+     <vcard:fn>Kosmos Theater</vcard:fn>
+     <vcard:street-address>Siebensterngasse 42</vcard:street-address>	
+     <vcard:postal-code>1070</vcard:postal-code>
+     <vcard:tel>0043-1/523 12 26</vcard:tel>
+     <vcard:fax/>
+     <vcard:email>barbara.klein@kosmostheater.at</vcard:email>
+     <vcard:url>http://www.kosmostheater.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Franzi Kreis</vcard:fn>
+     <vcard:street-address/>	
+     <vcard:postal-code/>
+     <vcard:tel/>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.franzikreis.com/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>1426.42 340438.60</georss:point>
+<dcterms:created>2015-12-29T08:42:00</dcterms:created>
+<dc:title>Kosmos Theater | Franzi Kreis­http://www.franzikreis.com/</dc:title>
+<dc:date>2016-01-15T00:00:00+00:00</dc:date>
+<dc:relation>2016-06-25T00:00:00 | Mo, Di, Mi, Do, Fr, Sa, So</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=421930</dc:description>
+<dcterms:modified>2015-12-29T08:52:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>MOZART IM MOZARTHAUS - Highlights im Komponistenalltag</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421712&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421712&amp;return=</guid>
+<description>
+<![CDATA[<p>27.01.2016 bis 15.01.2017<br />
+10:00 bis 19:00<br />
+Mozarthaus Vienna mit Wien Museum Mozartwohnung<br />http://www.mozarthausvienna.at/</p>­<p>Eine Ausstellung des Archivs der Gesellschaft der Musikfreunde in Wien im Mozarthaus Vienna.
+Mehr als zweieinhalb Jahre hat Mozart im Haus Domgasse 5 (bzw. Schulerstraße 8) gewohnt. In diesen Jahren 1784 bis 1787 hat er in Wien seine künstlerische und gesellschaftliche Anerkennung gefunden; erlebt hat er dies in jener Wohnung, die heute noch existiert und als Museum zugänglich ist.
+</p>
+<p>entnehmen Sie der Veranstaltunghomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-01-27T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2017-01-15T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
+<cal:byhour>10</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Mozarthaus Vienna mit Wien Museum Mozartwohnung</vcard:fn>
+     <vcard:street-address>Domgasse 5/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/512 17 91</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.mozarthausvienna.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Mozarthaus Vienna mit Wien Museum Mozartwohnung</vcard:fn>
+     <vcard:street-address>Domgasse 5/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/512 17 91</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.mozarthausvienna.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>3177.65 341085.03</georss:point>
+<dcterms:created>2015-12-17T13:58:00</dcterms:created>
+<dc:title>Mozarthaus Vienna mit Wien Museum Mozartwohnung | Mozarthaus Vienna mit Wien Museum Mozartwohnung­http://www.mozarthausvienna.at/</dc:title>
+<dc:date>2016-01-27T10:00:00+00:00</dc:date>
+<dc:relation>2017-01-15T19:00:00 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=421712</dc:description>
+<dcterms:modified>2015-12-18T09:17:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Das siebte Jahr "Kunst zu Recht im Dritten"</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421545&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421545&amp;return=</guid>
+<description>
+<![CDATA[<p>29.01.2016 bis 19.11.2016<br />
+08:00 bis 15:00<br />
+Bezirksgericht Innere Stadt Wien - 1.,3.-6. und 11. Bezirk (Justizzentrum Wien Mitte)<br />http://www.justiz.gv.at/</p>­<p>Vernissage am Donnerstag, 28. Januar 2016 um 18.00 Uhr. 
+Kunst zu Recht erstreckt sich über 7 Stockwerke und 1800 Laufmeter Schienensystem und beinhaltet unterschiedlichste Techniken und Stilrichtungen von derzeit 55 KünstlerInnen.
+Die Ausstellung legt großen Wert auf Vielfalt und die harmonische Koexistenz verschiedener Sichten, Ansichten und Einsichten in unterschiedlicher Umsetzung.
+Der 7.Stock des Justizzentrums bietet dem Besucher eine Übersichtsausstellung aller Beteiligten.
+</p>
+<p>Eintritt frei</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-01-29T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-11-19T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mo, Di, Mi, Do, Fr</cal:byday>
+<cal:byhour>08</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Bezirksgericht Innere Stadt Wien - 1.,3.-6. und 11. Bezirk (Justizzentrum Wien Mitte)</vcard:fn>
+     <vcard:street-address>Marxergasse 1A</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/515 280</vcard:tel>
+     <vcard:fax>0043-1/515 28/454</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.justiz.gv.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Kunst zu Recht</vcard:fn>
+     <vcard:street-address>Marxergasse 1A/
+</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel/>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://kunst-zu-recht.webege.com/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>4004.95 341040.87</georss:point>
+<dcterms:created>2015-12-16T08:34:00</dcterms:created>
+<dc:title>Bezirksgericht Innere Stadt Wien - 1.,3.-6. und 11. Bezirk (Justizzentrum Wien Mitte) | Kunst zu Recht­http://kunst-zu-recht.webege.com/</dc:title>
+<dc:date>2016-01-29T08:00:00+00:00</dc:date>
+<dc:relation>2016-11-19T15:00:00 | Mo, Di, Mi, Do, Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=421545</dc:description>
+<dcterms:modified>2015-12-16T08:50:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
 <title>Balthus - Balthasar Klossowski de Rola</title>
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=347333&amp;return=</link>
 <guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=347333&amp;return=</guid>
 <description>
 <![CDATA[<p>17.02.2016 bis 19.06.2016<br />
 10:00<br />
-Bank Austria Kunstforum<br />http://www.bankaustria-kunstforum.at/</p>­<p>Im Frühjahr 2016 zeigt das Kunstforum in Wien erstmals in Österreich eine Retrospektive zum Werk Balthasar Klossowski de Rolas, genannt Balthus  eine Ausstellung, die Balthus Werk von seiner ersten Auseinandersetzung mit dem Quattrocento über seine Arbeiten im Umkreis von Surrealismus und neuer Sachlichkeit zwischen Frankreich, dem deutschsprachigen Raum und Italien bis hin zu den Einflüssen und der Beschäftigung mit der Ostasiatischen Kunst in seinem späteren Werk verankern soll.
- Balthus, der die Gegenständlichkeit nie in Frage gestellt hat, und der abseits der Entwicklung aller Avant Garden seinen eigenen Stil der anderen Moderne gepflegt hat, soll in diesem Projekt anhand seiner wichtigsten Themen verstanden werden: die Landschaft, im Gegensatzpaar von Stadtlandschaft und pastoraler Natur, das Porträt zwischen klassischem Bildnis und Mehrfigurenbild, letztlich der weibliche Akt, wechselnd zwischen intimen Darstellungen der Toilette und komplexen Kompositionen im Interieur.</p>
+Bank Austria Kunstforum<br />http://www.kunstforumwien.at/</p>­<p>Im Frühjahr 2016 zeigt das Kunstforum in Wien erstmals in Österreich eine Retrospektive zum Werk Balthasar Klossowski de Rolas, genannt Balthus  eine Ausstellung, die Balthus Werk von seiner ersten Auseinandersetzung mit dem Quattrocento über seine Arbeiten im Umkreis von Surrealismus und neuer Sachlichkeit zwischen Frankreich, dem deutschsprachigen Raum und Italien bis hin zu den Einflüssen und der Beschäftigung mit der Ostasiatischen Kunst in seinem späteren Werk verankern soll. Öffnungszeiten: Sa-Do 10.00-19.00 Uhr, Fr 10.00-21.00 Uhr.</p>
 
 ]]></description>
 
@@ -547,30 +1124,82 @@ Bank Austria Kunstforum<br />http://www.bankaustria-kunstforum.at/</p>­<p>Im Fr
 <cal:byminute>00</cal:byminute> 
 <cal:location>
      <vcard:fn>Bank Austria Kunstforum</vcard:fn>
-     <vcard:street-address>Freyung 8-9</vcard:street-address>	
+     <vcard:street-address>Freyung 8/
+</vcard:street-address>	
      <vcard:postal-code>1010</vcard:postal-code>
      <vcard:tel>0043-1/537 33 26</vcard:tel>
      <vcard:fax>0043-1/537 33 18</vcard:fax>
      <vcard:email/>
-     <vcard:url>http://www.bankaustria-kunstforum.at/</vcard:url>
+     <vcard:url>http://www.kunstforumwien.at/</vcard:url>
 </cal:location>
 <cal:organizer>
      <vcard:fn>Bank Austria Kunstforum</vcard:fn>
-     <vcard:street-address>Freyung 8-9</vcard:street-address>	
+     <vcard:street-address>Freyung 8/
+</vcard:street-address>	
      <vcard:postal-code>1010</vcard:postal-code>
      <vcard:tel>0043-1/537 33 26</vcard:tel>
      <vcard:fax>0043-1/537 33 18</vcard:fax>
      <vcard:email/>
-     <vcard:url>http://www.bankaustria-kunstforum.at/</vcard:url>
+     <vcard:url>http://www.kunstforumwien.at/</vcard:url>
 </cal:organizer>
 <vcard:email/>
-<georss:point>2561.91 341460.11</georss:point>
+<georss:point>2532.02 341457.80</georss:point>
 <dcterms:created>2013-09-13T11:14:00</dcterms:created>
-<dc:title>Bank Austria Kunstforum | Bank Austria Kunstforum­http://www.bankaustria-kunstforum.at/</dc:title>
+<dc:title>Bank Austria Kunstforum | Bank Austria Kunstforum­http://www.kunstforumwien.at/</dc:title>
 <dc:date>2016-02-17T10:00:00+00:00</dc:date>
 <dc:relation>2016-06-19 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=347333</dc:description>
-<dcterms:modified>2015-05-29T07:50:00</dcterms:modified>
+<dcterms:modified>2016-01-08T08:51:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Chagall bis Malewitsch - Die Russischen Avantgarden</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422236&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422236&amp;return=</guid>
+<description>
+<![CDATA[<p>26.02.2016 bis 26.06.2016<br />
+10:00<br />
+Albertina<br />http://www.albertina.at/</p>­<p>Die Russische Avantgarde zählt zu den vielseitigsten und radikalsten Kapiteln der Moderne. Die Albertina widmet der Vielfalt der Kunst dieser Epoche eine großangelegte Schau: 130 Meisterwerke von Larionow, Gontcharowa, Malewitsch, Kandinsky oder Chagall illustrieren die grundverschiedenen Stile, ihre dynamische Entwicklung vom Primitivismus bis zum Suprematismus sowie die zeitlichen Parallelen von gegenständlichem Expressionismus und reiner Abstraktion.</p>
+<p>Die verschiedenen Preiskategorien entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-02-26T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-26T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
+<cal:byhour>10</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Albertina</vcard:fn>
+     <vcard:street-address>Albertinaplatz 1</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/534 83-0</vcard:tel>
+     <vcard:fax>0043-1/534 83-430</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.albertina.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Albertina</vcard:fn>
+     <vcard:street-address>Albertinaplatz 1</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/534 83-0</vcard:tel>
+     <vcard:fax>0043-1/534 83-430</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.albertina.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>2737.92 340684.82</georss:point>
+<dcterms:created>2016-01-07T07:53:00</dcterms:created>
+<dc:title>Albertina | Albertina­http://www.albertina.at/</dc:title>
+<dc:date>2016-02-26T10:00:00+00:00</dc:date>
+<dc:relation>2016-06-26 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422236</dc:description>
+<dcterms:modified>2016-01-07T08:06:00</dcterms:modified>
 <dc:language>de-AT</dc:language>
 <dc:rightsHolder>Stadt Wien</dc:rightsHolder>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
@@ -683,6 +1312,110 @@ Dargestellt werden verschiedene Aspekte jener Festkulturen, die sich in Europa v
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
+<title>KUBISMUS - KONSTRUKTIVIMUS - FORMKUNST</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422251&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422251&amp;return=</guid>
+<description>
+<![CDATA[<p>10.03.2016 bis 19.06.2016<br />
+10:00 bis 18:00<br />
+Unteres Belvedere<br />http://www.belvedere.at/</p>­<p>Mit der Ausstellung Kubismus  Konstruktivismus  Formkunst wird auf den Nährboden verwiesen, der von 1900 an einen ganzen Stammbaum miteinander verwandter Kunst hervorgebracht hat. Die Schau zeigt erstmals jene Vorbedingungen auf, welche eine wesensähnliche Kunst in der Donaumonarchie bedingten und nachhaltig zur Entstehung einer ungegenständlichen Kunst führten. Von außen betrachtet ergeben sich beispielsweise zwischen der Wiener Formkunst und dem Prager Kubismus keine offensichtlichen Zusammenhänge, da beide zeitlich leicht versetzt ihre jeweilige charakteristische Ausprägung fanden.</p>
+<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-03-10T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-19T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
+<cal:byhour>10</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Unteres Belvedere</vcard:fn>
+     <vcard:street-address>Rennweg 6A/
+</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/795 57-0</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Unteres Belvedere</vcard:fn>
+     <vcard:street-address>Rennweg 6A/
+</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/795 57-0</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/</vcard:url>
+</cal:organizer>
+<vcard:email>public@belvedere.at</vcard:email>
+<georss:point>3588.32 339834.24</georss:point>
+<dcterms:created>2016-01-07T10:03:00</dcterms:created>
+<dc:title>Unteres Belvedere | Unteres Belvedere­http://www.belvedere.at/</dc:title>
+<dc:date>2016-03-10T10:00:00+00:00</dc:date>
+<dc:relation>2016-06-19T18:00:00 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422251</dc:description>
+<dcterms:modified>2016-01-07T10:45:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Der ewige Kaiser - Franz Joseph I. 1830 - 1916</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422245&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422245&amp;return=</guid>
+<description>
+<![CDATA[<p>11.03.2016 bis 30.10.2016<br />
+10:00<br />
+Österreichische Nationalbibliothek - Prunksaal<br />http://www.onb.ac.at/</p>­<p>2016 jährt sich zum 100. Mal der Todestag von Franz Joseph I. Anhand einer Vielzahl von bislang unveröffentlichten Originaldokumenten aus der Privatbibliothek des Kaisers zeichnet diese Ausstellung sein privates und öffentliches Leben in Bildern nach. Öffnungszeiten Di-So 10.00-18.00 Uhr, Do 10.00-21.00 Uhr, Juni, Juli, August und September auch Mo 10.00-18.00 Uhr geöffnet.</p>
+<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-03-11T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-10-30T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Di, Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
+<cal:byhour>10</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Österreichische Nationalbibliothek - Prunksaal</vcard:fn>
+     <vcard:street-address>Josefsplatz 1/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/534 10-394</vcard:tel>
+     <vcard:fax>0043-1/534 10-257</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.onb.ac.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Österreichische Nationalbibliothek</vcard:fn>
+     <vcard:street-address>Josefsplatz 1/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/534 10-0</vcard:tel>
+     <vcard:fax>0043-1/534 10/257</vcard:fax>
+     <vcard:email>irina.kubadionw@onb.ac.at</vcard:email>
+     <vcard:url>http://www.onb.ac.at</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>2618.55 340847.97</georss:point>
+<dcterms:created>2016-01-07T09:29:00</dcterms:created>
+<dc:title>Österreichische Nationalbibliothek - Prunksaal | Österreichische Nationalbibliothek­http://www.onb.ac.at</dc:title>
+<dc:date>2016-03-11T10:00:00+00:00</dc:date>
+<dc:relation>2016-10-30 | Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422245</dc:description>
+<dcterms:modified>2016-01-07T10:47:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
 <title>Franz Joseph (1830-1916)</title>
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=417807&amp;return=</link>
 <guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=417807&amp;return=</guid>
@@ -730,6 +1463,160 @@ Im Zuge dessen wird eine Sonderausstellung zu sehen sein, die sich kritisch mit 
 <dc:relation>2016-11-27T18:00:00 | Di, Mi, Do, Fr, Sa, So</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=417807</dc:description>
 <dcterms:modified>2015-10-16T11:54:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Anselm Kiefer. Holzschnitte</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422237&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422237&amp;return=</guid>
+<description>
+<![CDATA[<p>18.03.2016 bis 19.06.2016<br />
+10:00<br />
+Albertina<br />http://www.albertina.at/</p>­<p>Anselm Kiefer ist einer der bedeutendsten Künstler unserer Zeit. In einer ersten umfassenden Retrospektive zeigt die Albertina über 30 monumentale Hauptwerke seiner berühmten Holzschnitte. Eine individuelle Collage-Technik, malerische Überarbeitungen und experimentelle Materialien machen jeden Druck zu einem für sich stehenden Unikat. Kiefers faszinierende Werke zeugen von seiner intensiven Auseinandersetzung mit der deutschen (Kultur-)Geschichte und Mythologien.</p>
+<p>Die verschiedenen Preiskategorien entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-03-18T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-19T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
+<cal:byhour>10</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Albertina</vcard:fn>
+     <vcard:street-address>Albertinaplatz 1</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/534 83-0</vcard:tel>
+     <vcard:fax>0043-1/534 83-430</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.albertina.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Albertina</vcard:fn>
+     <vcard:street-address>Albertinaplatz 1</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/534 83-0</vcard:tel>
+     <vcard:fax>0043-1/534 83-430</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.albertina.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>2737.92 340684.82</georss:point>
+<dcterms:created>2016-01-07T07:54:00</dcterms:created>
+<dc:title>Albertina | Albertina­http://www.albertina.at/</dc:title>
+<dc:date>2016-03-18T10:00:00+00:00</dc:date>
+<dc:relation>2016-06-19 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422237</dc:description>
+<dcterms:modified>2016-01-07T08:06:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Fürstenglanz - Europäische Barockgalerien und die Kunst der Ordnung</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422264&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422264&amp;return=</guid>
+<description>
+<![CDATA[<p>18.03.2016 bis 26.06.2016<br />
+10:00 bis 18:00<br />
+Winterpalais des Prinzen Eugen von Savoyen<br />http://www.belvedere.at/de/schloss-und-museum/winterpalais</p>­<p>Die Ausstellung thematisiert barocke Sammellust und nimmt die Umwandlung des Winterpalais von Prinz Eugen in ein modernes Museum zum Anlass für einen historischen Rückblick zum Thema Fürstenglanz, barocke Galerien und die Kunst der Ordnung. Den Kern der Ausstellung bilden die fürstlichen Sammlungskataloge der großen europäischen Barockgalerien, welche vom Fürstenruhm ihrer Schöpfer kündeten und sich zugleich zum Ursprung der modernen Kunst- und Ausstellungskataloge entwickelten.</p>
+<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-03-18T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-26T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
+<cal:byhour>10</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Winterpalais des Prinzen Eugen von Savoyen</vcard:fn>
+     <vcard:street-address>Himmelpfortgasse 6-8/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/795 57 134</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/de/schloss-und-museum/winterpalais</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Winterpalais des Prinzen Eugen von Savoyen</vcard:fn>
+     <vcard:street-address>Himmelpfortgasse 6-8/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/795 57 134</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/de/schloss-und-museum/winterpalais</vcard:url>
+</cal:organizer>
+<vcard:email>public@belvedere.at</vcard:email>
+<georss:point>3002.53 340803.01</georss:point>
+<dcterms:created>2016-01-07T10:37:00</dcterms:created>
+<dc:title>Winterpalais des Prinzen Eugen von Savoyen | Winterpalais des Prinzen Eugen von Savoyen­http://www.belvedere.at/de/schloss-und-museum/winterpalais</dc:title>
+<dc:date>2016-03-18T10:00:00+00:00</dc:date>
+<dc:relation>2016-06-26T18:00:00 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422264</dc:description>
+<dcterms:modified>2016-01-07T10:47:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Rück &#150; Blick: Kinetika 1967</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422262&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422262&amp;return=</guid>
+<description>
+<![CDATA[<p>07.04.2016 bis 30.06.2016<br />
+11:00<br />
+21er Haus Museum des 20. Jahrhunderts<br />http://www.belvedere.at/house21/de</p>­<p>Zeitgleich zu Abstract Loop Austria werden Aspekte der einflussreichen Ausstellung Kinetika von 1967 rekonstruiert. Vor fast fünfzig Jahren fand im 20er Haus im Schweizergarten initiiert von Direktor Werner Hofmann die Ausstellung Kinetika statt. Internationale Künstler zeigten in Wien ihre Werke, die damals allgemein als Op-Art bzw. als kinetische Kunst bezeichnet wurden. Es war die Zeit der künstlerischen Auseinandersetzung mit wissenschaftlichen Fragestellungen zu den Themen menschliche Wahrnehmung, Bewegung und transmediale Eigenschaften von Kunst. Öffnungszeiten Mi+Do 11.00-21.00 Uhr, Fr-So+Ftg. 11.00-18.00 Uhr.</p>
+<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-04-07T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-30T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
+<cal:byhour>11</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>21er Haus Museum des 20. Jahrhunderts</vcard:fn>
+     <vcard:street-address>Arsenalstraße 1/
+</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/795 57-707</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/house21/de</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>21er Haus Museum des 20. Jahrhunderts</vcard:fn>
+     <vcard:street-address>Arsenalstraße 1/
+</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/795 57-707</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/house21/de</vcard:url>
+</cal:organizer>
+<vcard:email>public@21erhaus.at</vcard:email>
+<georss:point>3837.87 338598.95</georss:point>
+<dcterms:created>2016-01-07T10:20:00</dcterms:created>
+<dc:title>21er Haus Museum des 20. Jahrhunderts | 21er Haus Museum des 20. Jahrhunderts­http://www.belvedere.at/house21/de</dc:title>
+<dc:date>2016-04-07T11:00:00+00:00</dc:date>
+<dc:relation>2016-06-30 | Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422262</dc:description>
+<dcterms:modified>2016-01-07T10:47:00</dcterms:modified>
 <dc:language>de-AT</dc:language>
 <dc:rightsHolder>Stadt Wien</dc:rightsHolder>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
@@ -790,58 +1677,52 @@ Mit Ursula Durstmüller.</p>
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
-<title>Yoga für Mütter und Babys</title>
-<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421394&amp;return=</link>
-<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421394&amp;return=</guid>
+<title>Max Kurzweil - Meisterwerke im Fokus</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422252&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422252&amp;return=</guid>
 <description>
-<![CDATA[<p>03.05.2016 bis 14.06.2016<br />
-10:15 bis 11:15<br />
-SDS Gesundheitszentrum am St. Josef Krankenhaus<br />http://www.sjk-wien.at/gz</p>­<p>Die Übungspraxis unterstützt die Rückbildungsprozesse nach der Geburt.
-Der Bauch- und Beckenbereich wird sanft tonisiert und gekräftigt, Rücken und Schultern werden gestärkt und entlastet.
-
-Die Babys entspannen sich durch behutsame Übungen und werden in ihrer ganzheitlichen Entwicklung gefördert.
-
-Eine Yogastunde mit Baby bringt neue Kraft, Entspannung und den Austausch mit anderen Müttern.
-Mit Ursula Durstmüller.</p>
-<p> 72,00</p>
+<![CDATA[<p>11.05.2016 bis 04.09.2016<br />
+10:00 bis 18:00<br />
+Oberes Belvedere<br />http://www.belvedere.at/</p>­<p>Im Juni 2016 widmet sich das Belvedere dem Schaffen eines außergewöhnlichen Künstlers der Wiener Secession. Maximilian Kurzweil wurde 1867 im mährischen Bisenz (Bzenec) in eine Industriellenfamilie geboren, was ihm ein finanziell sorgloses Künstlerdasein ermöglichte. Nach Studien in Wien und Paris lernte er 1894 in der bretonischen Hafenstadt Concarneau, wo er von da an gewöhnlich die Sommermonate verbrachte, seine spätere Frau kennen. Neben Genrebildern des bretonischen Landlebens entstanden bald auch seine bekannten impressionistischen Hafen- und Landschaftsbilder.</p>
+<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
 <category/>
 <dc:subject/>
-<cal:dtstart>2016-05-03T00:00:00+01:00</cal:dtstart>
-<cal:dtend>2016-06-14T00:00:00+01:00</cal:dtend>
+<cal:dtstart>2016-05-11T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-09-04T00:00:00+01:00</cal:dtend>
 
-<cal:byday>Di</cal:byday>
+<cal:byday>Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
 <cal:byhour>10</cal:byhour>
-<cal:byminute>15</cal:byminute> 
+<cal:byminute>00</cal:byminute> 
 <cal:location>
-     <vcard:fn>SDS Gesundheitszentrum am St. Josef Krankenhaus</vcard:fn>
-     <vcard:street-address>Auhofstraße 185/
+     <vcard:fn>Oberes Belvedere</vcard:fn>
+     <vcard:street-address>Prinz-Eugen-Straße 27/
 </vcard:street-address>	
-     <vcard:postal-code>1130</vcard:postal-code>
-     <vcard:tel>0043-1/878 44-5170</vcard:tel>
-     <vcard:fax>0043-1/878 44-5173</vcard:fax>
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/795 57-0</vcard:tel>
+     <vcard:fax/>
      <vcard:email/>
-     <vcard:url>http://www.sjk-wien.at/gz</vcard:url>
+     <vcard:url>http://www.belvedere.at/</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>SDS Gesundheitszentrum am St. Josef Krankenhaus</vcard:fn>
-     <vcard:street-address>Auhofstraße 185/
+     <vcard:fn>Oberes Belvedere</vcard:fn>
+     <vcard:street-address>Prinz-Eugen-Straße 27/
 </vcard:street-address>	
-     <vcard:postal-code>1130</vcard:postal-code>
-     <vcard:tel>0043-1/878 44-5170</vcard:tel>
-     <vcard:fax>0043-1/878 44-5173</vcard:fax>
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/795 57-0</vcard:tel>
+     <vcard:fax/>
      <vcard:email/>
-     <vcard:url>http://www.sjk-wien.at/gz</vcard:url>
+     <vcard:url>http://www.belvedere.at/</vcard:url>
 </cal:organizer>
-<vcard:email/>
-<georss:point>-5086.32 339526.54</georss:point>
-<dcterms:created>2015-12-14T07:18:00</dcterms:created>
-<dc:title>SDS Gesundheitszentrum am St. Josef Krankenhaus | SDS Gesundheitszentrum am St. Josef Krankenhaus­http://www.sjk-wien.at/gz</dc:title>
-<dc:date>2016-05-03T10:15:00+00:00</dc:date>
-<dc:relation>2016-06-14T11:15:00 | Di</dc:relation>
-<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=421394</dc:description>
-<dcterms:modified>2015-12-14T11:08:00</dcterms:modified>
+<vcard:email>public@belvedere.at</vcard:email>
+<georss:point>3544.54 339206.70</georss:point>
+<dcterms:created>2016-01-07T10:05:00</dcterms:created>
+<dc:title>Oberes Belvedere | Oberes Belvedere­http://www.belvedere.at/</dc:title>
+<dc:date>2016-05-11T10:00:00+00:00</dc:date>
+<dc:relation>2016-09-04T18:00:00 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422252</dc:description>
+<dcterms:modified>2016-01-07T10:48:00</dcterms:modified>
 <dc:language>de-AT</dc:language>
 <dc:rightsHolder>Stadt Wien</dc:rightsHolder>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
@@ -1063,6 +1944,56 @@ Wien<br /></p>­<p>Von 1.  23. Juni 2016 geht das WIR SIND WIEN.FESTIVAL berei
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
+<title>Außer Kontrolle - Komödie von Ray Cooney</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422178&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422178&amp;return=</guid>
+<description>
+<![CDATA[<p>02.06.2016 bis 25.06.2016<br />
+20:00<br />
+Theater Center Forum<br />http://www.theatercenterforum.com/</p>­<p>Forum II. Der Staatsminister, Angehöriger der konservativen Regierungspartei, verbringt anstelle einer Nachtsitzung im Reichstag ein Schäferstündchen mit der Sekretärin des Oppositionsführers in einem nahegelegenen Luxushotel. Als sie in ihrer Hotelsuite plötzlich eine Leiche entdecken, wird sein Sekretär, der Mann für alle Fälle, bestellt, um die Affäre im Sinne der Regierung zu regeln. Doch die Verwicklungen eskalieren, da einige unerwartete Gäste auftauchen: der eifersüchtige Ehemann, ein geldgieriger Kellner, eine resolute Krankenpflegerin mit Liebeswallungen, der sehr auf Ordnung bedachte Manager des Hotels, ein orientierungsloser Privatdetektiv und nicht zuletzt die Ehefrau des Ministers. Als auch noch die Leiche Auferstehungstendenzen hat, gerät die Situation zunehmend außer Kontrolle.</p>
+<p>entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category>Theater und Schauspiel</category>
+<dc:subject>Theater und Schauspiel</dc:subject>
+<cal:dtstart>2016-06-02T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-25T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Di, Mi, Do, Fr, Sa</cal:byday>
+<cal:byhour>20</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Theater Center Forum</vcard:fn>
+     <vcard:street-address>Porzellangasse 50</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-1/310 46 46</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.theatercenterforum.com/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Theater Center Forum</vcard:fn>
+     <vcard:street-address>Porzellangasse 50</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-1/310 46 46</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.theatercenterforum.com/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>2202.18 342826.96</georss:point>
+<dcterms:created>2016-01-05T08:14:00</dcterms:created>
+<dc:title>Theater Center Forum | Theater Center Forum­http://www.theatercenterforum.com/</dc:title>
+<dc:date>2016-06-02T20:00:00+00:00</dc:date>
+<dc:relation>2016-06-25 | Di, Mi, Do, Fr, Sa</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422178</dc:description>
+<dcterms:modified>2016-01-05T10:42:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
 <title>Babyschwimmen</title>
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=412435&amp;return=</link>
 <guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=412435&amp;return=</guid>
@@ -1107,6 +2038,130 @@ Badehaus Sargfabrik<br />http://www.sargfabrik.at/</p>­<p>Für Babys ab etwa 8 
 <dc:relation>2016-06-27 | Mo, Di, Mi, Do, Fr</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=412435</dc:description>
 <dcterms:modified>2015-08-11T11:32:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Führung durch das Hauptgebäude der Universität Wien</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422272&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422272&amp;return=</guid>
+<description>
+<![CDATA[<p>02.06.2016 bis 30.06.2016<br />
+18:00<br />
+Universität Wien<br />http://www.univie.ac.at</p>­<p>1365 von Herzog Rudolf IV. Stifter gegründet, zog sie 1884 nach feierlicher Eröffnung durch Kaiser Franz Joseph I. in das nach Plänen des Architekten Heinrich von Ferstel erbaute Ringstraßengebäude.
+
+Die Führungen in deutscher und englischer Sprache vermitteln einen Einblick ins Innere der ältesten Universität im deutschen Sprach- und Kulturraum.
+
+Der Rundgang umfasst architektonische Höhepunkte wie die Aula, den Arkadenhof, den Großen Lesesaal der Universitätsbibliothek und, nach Verfügbarkeit, den Großen Festsaal mit Reproduktionen der zerstörten Deckengemälde von Gustav Klimt.
+
+Eine Anmeldung ist nicht erforderlich. Dauer: Ca. 60 Minuten
+
+Karten sind vor Ort in der Aula (Portiersloge) erhältlich.
+
+</p>
+<p> 5,00</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-02T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-30T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Do</cal:byday>
+<cal:byhour>18</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Universität Wien</vcard:fn>
+     <vcard:street-address>Universitätsring 1/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/42 770</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.univie.ac.at</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Veranstaltungsmanagement Universität Wien</vcard:fn>
+     <vcard:street-address>Universitätsring 1/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/4277-176 76</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://event.univie.ac.at/fuehrungen/fuehrungen/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>2134.91 341624.80</georss:point>
+<dcterms:created>2016-01-07T11:54:00</dcterms:created>
+<dc:title>Universität Wien | Veranstaltungsmanagement Universität Wien­http://event.univie.ac.at/fuehrungen/fuehrungen/</dc:title>
+<dc:date>2016-06-02T18:00:00+00:00</dc:date>
+<dc:relation>2016-06-30 | Do</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422272</dc:description>
+<dcterms:modified>2016-01-07T12:24:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Führung durch das Hauptgebäude der Universität Wien</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422275&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422275&amp;return=</guid>
+<description>
+<![CDATA[<p>04.06.2016 bis 25.06.2016<br />
+10:30<br />
+Universität Wien<br />http://www.univie.ac.at</p>­<p>1365 von Herzog Rudolf IV. Stifter gegründet, zog sie 1884 nach feierlicher Eröffnung durch Kaiser Franz Joseph I. in das nach Plänen des Architekten Heinrich von Ferstel erbaute Ringstraßengebäude.
+
+Die Führungen in deutscher und englischer Sprache vermitteln einen Einblick ins Innere der ältesten Universität im deutschen Sprach- und Kulturraum.
+
+Der Rundgang umfasst architektonische Höhepunkte wie die Aula, den Arkadenhof, den Großen Lesesaal der Universitätsbibliothek und, nach Verfügbarkeit, den Großen Festsaal mit Reproduktionen der zerstörten Deckengemälde von Gustav Klimt.
+
+Eine Anmeldung ist nicht erforderlich. Dauer: Ca. 60 Minuten
+
+Karten sind vor Ort in der Aula (Portiersloge) erhältlich.
+
+</p>
+<p> 5,00</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-04T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-25T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Sa</cal:byday>
+<cal:byhour>10</cal:byhour>
+<cal:byminute>30</cal:byminute> 
+<cal:location>
+     <vcard:fn>Universität Wien</vcard:fn>
+     <vcard:street-address>Universitätsring 1/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/42 770</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.univie.ac.at</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Veranstaltungsmanagement Universität Wien</vcard:fn>
+     <vcard:street-address>Universitätsring 1/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/4277-176 76</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://event.univie.ac.at/fuehrungen/fuehrungen/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>2134.91 341624.80</georss:point>
+<dcterms:created>2016-01-07T11:55:00</dcterms:created>
+<dc:title>Universität Wien | Veranstaltungsmanagement Universität Wien­http://event.univie.ac.at/fuehrungen/fuehrungen/</dc:title>
+<dc:date>2016-06-04T10:30:00+00:00</dc:date>
+<dc:relation>2016-06-25 | Sa</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422275</dc:description>
+<dcterms:modified>2016-01-07T12:24:00</dcterms:modified>
 <dc:language>de-AT</dc:language>
 <dc:rightsHolder>Stadt Wien</dc:rightsHolder>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
@@ -1165,6 +2220,70 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein 
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
+<title>The University of Vienna invites all interested parties to guided tours through the Main Building</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422288&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422288&amp;return=</guid>
+<description>
+<![CDATA[<p>04.06.2016 bis 25.06.2016<br />
+11:30<br />
+Universität Wien<br />http://www.univie.ac.at</p>­<p>In 1884, Emperor Franz Joseph I inaugurated the new Main Building on the Ringstrasse erected by the architect Heinrich von Ferstel.
+
+Guided tours are available both in German and English and provide an insight into the oldest university in the German-speaking world. Highlights of the tour are the Arcade Court in the shape of a "campo santo", the Main Ceremonial Chamber (whenever available) decorated with copies of the paintings by Gustav Klimt and Franz Matsch and the Large Reading Room of the University Library.
+
+Approximately 92,500 students are currently enrolled at the University of Vienna. With a staff of about 9,500  more than 6,700 of whom are academics  the University of Vienna is Austrias largest teaching and research institution. Except for public holidays.
+
+No registration necessary.
+
+Duration: Approx. 60 minutes.
+
+
+
+</p>
+<p> 5,00</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-04T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-25T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Sa</cal:byday>
+<cal:byhour>11</cal:byhour>
+<cal:byminute>30</cal:byminute> 
+<cal:location>
+     <vcard:fn>Universität Wien</vcard:fn>
+     <vcard:street-address>Universitätsring 1/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/42 770</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.univie.ac.at</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Veranstaltungsmanagement Universität Wien</vcard:fn>
+     <vcard:street-address>Universitätsring 1/
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/4277-176 76</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://event.univie.ac.at/fuehrungen/fuehrungen/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>2134.91 341624.80</georss:point>
+<dcterms:created>2016-01-07T12:03:00</dcterms:created>
+<dc:title>Universität Wien | Veranstaltungsmanagement Universität Wien­http://event.univie.ac.at/fuehrungen/fuehrungen/</dc:title>
+<dc:date>2016-06-04T11:30:00+00:00</dc:date>
+<dc:relation>2016-06-25 | Sa</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422288</dc:description>
+<dcterms:modified>2016-01-07T12:24:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
 <title>Ich war noch niemals in New York </title>
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=419863&amp;return=</link>
 <guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=419863&amp;return=</guid>
@@ -1216,52 +2335,52 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein 
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
-<title>Evita</title>
-<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=410672&amp;return=</link>
-<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=410672&amp;return=</guid>
+<title>Maria Lassnig - Die Zukunft wird mit Fragmenten der Vergangenheit erfunden</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422261&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422261&amp;return=</guid>
 <description>
-<![CDATA[<p>14.06.2016<br />
-18:30<br />
-Ronacher<br />http://www.musicalvienna.at</p>­<p>Das Musical basiert auf der Biografie von Eva Perón, vom Volk liebevoll Evita genannt. Die Geschichte handelt von ihrem gesellschaftlichen und politischen Aufstieg, vor dem Hintergrund der historischen Ereignisse in Argentinien zwischen 1934 und 1952. Che, ein junger Mann, führt als Erzähler und Kommentator durch die Geschichte. Die selbst aus einfachen Verhältnissen stammende Evita, bereits zu Lebzeiten von den Descamisados, den Hemdlosen, wie eine Heilige verehrt, wird von den Bürgerlichen und Intellektuellen verachtet. Ihren Weg nach ganz oben säumen etliche Liebhaber bis sie schließlich auf den Militärattaché Perón trifft. Sie unterstützt ihn tatkräftig bei seinen Aufstiegsplänen zum Präsidenten und wird selbst zur First Lady.
-
-</p>
-<p>entnehmen Sie der Veranstaltungshomepage</p>
+<![CDATA[<p>10.06.2016 bis 26.10.2016<br />
+11:00<br />
+21er Haus Museum des 20. Jahrhunderts<br />http://www.belvedere.at/house21/de</p>­<p>Im Fokus der Ausstellung stehen Arbeiten von Maria Lassnig, die sich mit der Mythologie der klassischen Antike auseinandersetzen und zum großen Teil bisher noch nie öffentlich zu sehen waren. Hans Ulrich Obrist, ein langjähriger Kenner und wesentlicher Biograf der Künstlerin, zeichnet als Kurator für diese Präsentation verantwortlich, die in enger Zusammenarbeit mit der Maria Lassnig Stiftung in Wien und zahlreichen öffentlichen wie privaten Leihgebern entsteht. Öffnungszeiten Mi+Do 11.00-21.00 Uhr, Fr-So+Ftg. 11.00-18.00 Uhr.</p>
+<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
 ]]></description>
 
-<category>Musical</category>
-<dc:subject>Musical</dc:subject>
-<cal:dtstart>2016-06-14T00:00:00+01:00</cal:dtstart>
-<cal:dtend>T00:00:00+01:00</cal:dtend>
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-10T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-10-26T00:00:00+01:00</cal:dtend>
 
-<cal:byday>Di</cal:byday>
-<cal:byhour>18</cal:byhour>
-<cal:byminute>30</cal:byminute> 
+<cal:byday>Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
+<cal:byhour>11</cal:byhour>
+<cal:byminute>00</cal:byminute> 
 <cal:location>
-     <vcard:fn>Ronacher</vcard:fn>
-     <vcard:street-address>Himmelpfortgasse 25</vcard:street-address>	
-     <vcard:postal-code>1010</vcard:postal-code>
-     <vcard:tel>0043-1/514 110</vcard:tel>
-     <vcard:fax>0043-1/514 11-511</vcard:fax>
+     <vcard:fn>21er Haus Museum des 20. Jahrhunderts</vcard:fn>
+     <vcard:street-address>Arsenalstraße 1/
+</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/795 57-707</vcard:tel>
+     <vcard:fax/>
      <vcard:email/>
-     <vcard:url>http://www.musicalvienna.at</vcard:url>
+     <vcard:url>http://www.belvedere.at/house21/de</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>Vereinigte Bühnen Wien Ges.m.b.H. - Musicals</vcard:fn>
-     <vcard:street-address>Linke Wienzeile 6</vcard:street-address>	
-     <vcard:postal-code>1060</vcard:postal-code>
-     <vcard:tel>0043-1/588 30-200</vcard:tel>
-     <vcard:fax>0043-1/588 30-33</vcard:fax>
+     <vcard:fn>21er Haus Museum des 20. Jahrhunderts</vcard:fn>
+     <vcard:street-address>Arsenalstraße 1/
+</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/795 57-707</vcard:tel>
+     <vcard:fax/>
      <vcard:email/>
-     <vcard:url>http://www.musicalvienna.at/</vcard:url>
+     <vcard:url>http://www.belvedere.at/house21/de</vcard:url>
 </cal:organizer>
-<vcard:email/>
-<georss:point>3198.89 340724.80</georss:point>
-<dcterms:created>2015-07-17T08:53:00</dcterms:created>
-<dc:title>Ronacher | Vereinigte Bühnen Wien Ges.m.b.H. - Musicals­http://www.musicalvienna.at/</dc:title>
-<dc:date>2016-06-14T18:30:00+00:00</dc:date>
-<dc:relation> | Di</dc:relation>
-<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=410672</dc:description>
-<dcterms:modified>2015-07-17T09:15:00</dcterms:modified>
+<vcard:email>public@21erhaus.at</vcard:email>
+<georss:point>3837.87 338598.95</georss:point>
+<dcterms:created>2016-01-07T10:20:00</dcterms:created>
+<dc:title>21er Haus Museum des 20. Jahrhunderts | 21er Haus Museum des 20. Jahrhunderts­http://www.belvedere.at/house21/de</dc:title>
+<dc:date>2016-06-10T11:00:00+00:00</dc:date>
+<dc:relation>2016-10-26 | Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422261</dc:description>
+<dcterms:modified>2016-01-07T10:48:00</dcterms:modified>
 <dc:language>de-AT</dc:language>
 <dc:rightsHolder>Stadt Wien</dc:rightsHolder>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
@@ -1320,6 +2439,59 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein 
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
+<title>Echt krank! - Medizinkabarett von und mit Peter + Tekal</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422179&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422179&amp;return=</guid>
+<description>
+<![CDATA[<p>15.06.2016 bis 18.06.2016<br />
+19:30<br />
+Theater Center Forum<br />http://www.theatercenterforum.com/</p>­<p>Forum I. Wir glauben, unseren Körper in- und auswendig zu kennen. Schließlich verbringen wir einen Großteil unseres Lebens in ihm, ausgenommen die Zeiten transzendentaler außerkörperlicher Erfahrungen durch Meditation und Vollräusche. Und dennoch wissen wir so wenig über seine Funktionen:
+ 
+Wächst uns tatsächlich ein Baum im Magen, wenn wir Apfelkerne verschlucken? Und legt der Umstand, dass wir nur über ein Gehirn, jedoch zwei Nieren verfügen, nahe, dass wir doppelt so viel pinkeln, als denken sollten?
+</p>
+<p>entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category>Kabarett, Comedy und Kleinkunst</category>
+<dc:subject>Kabarett, Comedy und Kleinkunst</dc:subject>
+<cal:dtstart>2016-06-15T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-06-18T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Di, Mi, Do, Fr, Sa</cal:byday>
+<cal:byhour>19</cal:byhour>
+<cal:byminute>30</cal:byminute> 
+<cal:location>
+     <vcard:fn>Theater Center Forum</vcard:fn>
+     <vcard:street-address>Porzellangasse 50</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-1/310 46 46</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.theatercenterforum.com/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Theater Center Forum</vcard:fn>
+     <vcard:street-address>Porzellangasse 50</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-1/310 46 46</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.theatercenterforum.com/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>2202.18 342826.96</georss:point>
+<dcterms:created>2016-01-05T08:16:00</dcterms:created>
+<dc:title>Theater Center Forum | Theater Center Forum­http://www.theatercenterforum.com/</dc:title>
+<dc:date>2016-06-15T19:30:00+00:00</dc:date>
+<dc:relation>2016-06-18 | Di, Mi, Do, Fr, Sa</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422179</dc:description>
+<dcterms:modified>2016-01-05T10:44:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
 <title>Evita</title>
 <link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=410707&amp;return=</link>
 <guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=410707&amp;return=</guid>
@@ -1372,50 +2544,58 @@ Ronacher<br />http://www.musicalvienna.at</p>­<p>Das Musical basiert auf der Bi
 <dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
 </item>
 <item>
-<title>Concordia Ball 2016 - Viva la Vida!</title>
-<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=420371&amp;return=</link>
-<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=420371&amp;return=</guid>
+<title>Führungskräfteseminar - Mitarbeitergespräche erfolgreich führen + Ressourcen entdecken</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421909&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=421909&amp;return=</guid>
 <description>
-<![CDATA[<p>16.06.2016<br />
-22:00<br />
-Wiener Rathaus - Seiteneingang Lichtenfelsgasse<br /></p>­<p>Der Concordia Ball 2016 vereint traditionelle Wiener Ballkultur auf höchstem Niveau mit kubanischem Flair und heißen Salsa-Rhythmen. Lateinamerikanische Tänze wie Rueda de Casino sorgen in der 'Havanna Lounge' für ein Feuerwerk an Lebensfreude.</p>
-<p>entnehmen Sie der Veranstaltungshomepage</p>
+<![CDATA[<p>16.06.2016 bis 17.06.2016<br />
+09:30 bis 17:00<br />
+LYDIA WEBER Training &amp; Coaching im PALAIS PALFFY<br />http://www.lydiaweber.at/</p>­<p>Inhalte im Überblick: - Analyse interner Strukturen
+- Kommunikationstypen eruieren
+- Rollenthematik im Team
+- Leitfaden zum Führen unterschiedlicher Gespräche
+- Mitarbeitergespräche
+- Feedbackregeln und Ausführung. 
+</p>
+<p> 1.320,00</p>
 ]]></description>
 
 <category/>
 <dc:subject/>
 <cal:dtstart>2016-06-16T00:00:00+01:00</cal:dtstart>
-<cal:dtend>T00:00:00+01:00</cal:dtend>
+<cal:dtend>2016-06-17T00:00:00+01:00</cal:dtend>
 
-<cal:byday>Do</cal:byday>
-<cal:byhour>22</cal:byhour>
-<cal:byminute>00</cal:byminute> 
+<cal:byday>Do, Fr</cal:byday>
+<cal:byhour>09</cal:byhour>
+<cal:byminute>30</cal:byminute> 
 <cal:location>
-     <vcard:fn>Wiener Rathaus - Seiteneingang Lichtenfelsgasse</vcard:fn>
-     <vcard:street-address>Lichtenfelsgasse 2</vcard:street-address>	
-     <vcard:postal-code>1082</vcard:postal-code>
-     <vcard:tel/>
+     <vcard:fn>LYDIA WEBER Training &amp; Coaching im PALAIS PALFFY</vcard:fn>
+     <vcard:street-address>Josefsplatz 6/3/311
+</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-(0)699/100 189 38</vcard:tel>
      <vcard:fax/>
-     <vcard:email/>
-     <vcard:url/>
+     <vcard:email>info@lydiaweber.at</vcard:email>
+     <vcard:url>http://www.lydiaweber.at/</vcard:url>
 </cal:location>
 <cal:organizer>
-     <vcard:fn>Presseclub Concordia</vcard:fn>
-     <vcard:street-address>Bankgasse 8</vcard:street-address>	
+     <vcard:fn>LYDIA WEBER Training &amp; Coaching im PALAIS PALFFY</vcard:fn>
+     <vcard:street-address>Josefsplatz 6/3/311
+</vcard:street-address>	
      <vcard:postal-code>1010</vcard:postal-code>
-     <vcard:tel>0043-1/533 85 73</vcard:tel>
-     <vcard:fax>0043-1/533 71 72-9</vcard:fax>
-     <vcard:email>ball@concordia.at</vcard:email>
-     <vcard:url>http://www.concordia.at/</vcard:url>
+     <vcard:tel>0043-(0)699/100 189 38</vcard:tel>
+     <vcard:fax/>
+     <vcard:email>info@lydiaweber.at</vcard:email>
+     <vcard:url>http://www.lydiaweber.at/</vcard:url>
 </cal:organizer>
-<vcard:email>office@concordiaball.at</vcard:email>
-<georss:point>1856.82 341309.43</georss:point>
-<dcterms:created>2015-11-25T10:24:00</dcterms:created>
-<dc:title>Wiener Rathaus - Seiteneingang Lichtenfelsgasse | Presseclub Concordia­http://www.concordia.at/</dc:title>
-<dc:date>2016-06-16T22:00:00+00:00</dc:date>
-<dc:relation> | Do</dc:relation>
-<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=420371</dc:description>
-<dcterms:modified>2015-11-25T12:45:00</dcterms:modified>
+<vcard:email>info@lydiaweber.at</vcard:email>
+<georss:point>2647.37 340876.89</georss:point>
+<dcterms:created>2015-12-28T14:45:00</dcterms:created>
+<dc:title>LYDIA WEBER Training &amp; Coaching im PALAIS PALFFY | LYDIA WEBER Training &amp; Coaching im PALAIS PALFFY­http://www.lydiaweber.at/</dc:title>
+<dc:date>2016-06-16T09:30:00+00:00</dc:date>
+<dc:relation>2016-06-17T17:00:00 | Do, Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=421909</dc:description>
+<dcterms:modified>2015-12-28T14:46:00</dcterms:modified>
 <dc:language>de-AT</dc:language>
 <dc:rightsHolder>Stadt Wien</dc:rightsHolder>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
@@ -1521,6 +2701,318 @@ Raimund Theater<br />http://www.musicalvienna.at/</p>­<p>Einmal verrückt sein 
 <dc:relation>2016-06-17 | Do, Fr</dc:relation>
 <dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=419843</dc:description>
 <dcterms:modified>2015-11-17T11:31:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Mag. Elisabeth Gruber: Schnupper-Abend für den Lehrgang &#132;LOGOPÄDAGOGIK nach VIKTOR FRANKL ZENTRUM WIEN&#147;</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422439&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422439&amp;return=</guid>
+<description>
+<![CDATA[<p>16.06.2016<br />
+19:00<br />
+Viktor Frankl Zentrum Wien<br />http://www.franklzentrum.org/</p>­<p>Während die LOGOTHERAPIE ÄrztInnen, PsychologInnen und TherapeutInnen in Ausbildung und Ausübung vorbehalten ist, soll LOGOPÄDAGOGIK nach VIKTOR FRANKL ZENTRUM WIEN jedem Interessierten zugänglich sein. Der Lehrgang will vor allem präventiv den Menschen in seinem Streben nach Sinnerfüllung ermutigen, um krankmachenden Einflüssen entgegenzuwirken und gesunderhaltende Kräfte zu stärken. Mag. Elisabeth Gruber,
+Absolventin der Wirtschaftsuniversität Wien, Vorstand VIKTOR FRANKL ZENTRUM WIEN, Logopädagogin und Lehrreferentin, Lehrbeauftragte an Pädagogischen Hochschulen, Vorstand des VIKTOR FRANKL ZENTRUM WIEN, Leitung Impuls-Abende, Vortragende des VIKTOR FRANKL ZENTRUM WIEN sowie Referentin der Impuls-Abende BASIC und der VIKTOR FRANKL ZENTRUM WIEN SchülerInnen-Workshops. 
+ Anmeldung per Email oder Tel: 0699/109 610 68.
+
+</p>
+<p>Eintritt frei </p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-16T00:00:00+01:00</cal:dtstart>
+<cal:dtend>T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Do</cal:byday>
+<cal:byhour>19</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Viktor Frankl Zentrum Wien</vcard:fn>
+     <vcard:street-address>Mariannengasse 1/15</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-(0)699/109 61 068</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.franklzentrum.org/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Viktor Frankl Zentrum Wien</vcard:fn>
+     <vcard:street-address>Mariannengasse 1/15</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-(0)699/109 61 068</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.franklzentrum.org/</vcard:url>
+</cal:organizer>
+<vcard:email>office@franklzentrum.org</vcard:email>
+<georss:point>1395.91 341919.78</georss:point>
+<dcterms:created>2016-01-11T09:18:00</dcterms:created>
+<dc:title>Viktor Frankl Zentrum Wien | Viktor Frankl Zentrum Wien­http://www.franklzentrum.org/</dc:title>
+<dc:date>2016-06-16T19:00:00+00:00</dc:date>
+<dc:relation> | Do</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422439</dc:description>
+<dcterms:modified>2016-01-11T09:34:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Concordia Ball 2016 - Viva la Vida!</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=420371&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=420371&amp;return=</guid>
+<description>
+<![CDATA[<p>17.06.2016<br />
+22:00<br />
+Wiener Rathaus - Seiteneingang Lichtenfelsgasse<br /></p>­<p>Der Concordia Ball 2016 vereint traditionelle Wiener Ballkultur auf höchstem Niveau mit kubanischem Flair und heißen Salsa-Rhythmen. Lateinamerikanische Tänze wie Rueda de Casino sorgen in der 'Havanna Lounge' für ein Feuerwerk an Lebensfreude.</p>
+<p>entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-17T00:00:00+01:00</cal:dtstart>
+<cal:dtend>T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Fr</cal:byday>
+<cal:byhour>22</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Wiener Rathaus - Seiteneingang Lichtenfelsgasse</vcard:fn>
+     <vcard:street-address>Lichtenfelsgasse 2</vcard:street-address>	
+     <vcard:postal-code>1082</vcard:postal-code>
+     <vcard:tel/>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url/>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Presseclub Concordia</vcard:fn>
+     <vcard:street-address>Bankgasse 8</vcard:street-address>	
+     <vcard:postal-code>1010</vcard:postal-code>
+     <vcard:tel>0043-1/533 85 73</vcard:tel>
+     <vcard:fax>0043-1/533 71 72-9</vcard:fax>
+     <vcard:email>ball@concordia.at</vcard:email>
+     <vcard:url>http://www.concordia.at/</vcard:url>
+</cal:organizer>
+<vcard:email>office@concordiaball.at</vcard:email>
+<georss:point>1856.82 341309.43</georss:point>
+<dcterms:created>2015-11-25T10:24:00</dcterms:created>
+<dc:title>Wiener Rathaus - Seiteneingang Lichtenfelsgasse | Presseclub Concordia­http://www.concordia.at/</dc:title>
+<dc:date>2016-06-17T22:00:00+00:00</dc:date>
+<dc:relation> | Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=420371</dc:description>
+<dcterms:modified>2016-01-04T12:47:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Der Zauberer von Oz von Harold Arlen</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=410053&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=410053&amp;return=</guid>
+<description>
+<![CDATA[<p>17.06.2016<br />
+18:30<br />
+Volksoper<br />http://www.volksoper.at/</p>­<p>The Wonderful Wizard of Oz von L. Frank Baum ist Amerikas wohl berühmteste Märchenerzählung, die durch die Verfilmung mit der jungen Judy Garland (1939) weltweit Kultstatus erhielt. Das bekannteste Lied daraus, Over the Rainbow von Harold Arlen und Yip Harburg, wurde 1940 mit dem Oscar ausgezeichnet. Erstmals ist nun an der Volksoper die 1987 für die Royal Shakespeare Company erstellte Bühnenfassung des Meisterwerkes zu erleben.</p>
+<p>entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category>Kinder und Jugendliche allgemein</category>
+<dc:subject>Kinder und Jugendliche allgemein, Familie, Musical, Theater, Oper und Musical für Kinder</dc:subject>
+<cal:dtstart>2016-06-17T00:00:00+01:00</cal:dtstart>
+<cal:dtend>T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Fr</cal:byday>
+<cal:byhour>18</cal:byhour>
+<cal:byminute>30</cal:byminute> 
+<cal:location>
+     <vcard:fn>Volksoper</vcard:fn>
+     <vcard:street-address>Währinger Straße 78/
+</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-1/514 440</vcard:tel>
+     <vcard:fax>0043-1/514 44/3215</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.volksoper.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Volksoper</vcard:fn>
+     <vcard:street-address>Währinger Straße 78/
+</vcard:street-address>	
+     <vcard:postal-code>1090</vcard:postal-code>
+     <vcard:tel>0043-1/514 440</vcard:tel>
+     <vcard:fax>0043-1/514 44/3215</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.volksoper.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>1334.80 342896.97</georss:point>
+<dcterms:created>2015-07-13T10:26:00</dcterms:created>
+<dc:title>Volksoper | Volksoper­http://www.volksoper.at/</dc:title>
+<dc:date>2016-06-17T18:30:00+00:00</dc:date>
+<dc:relation> | Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=410053</dc:description>
+<dcterms:modified>2015-07-13T11:17:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Flohmarkt - Stöbern für einen guten Zweck! im Nachbarschaftszentrum 17</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422300&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422300&amp;return=</guid>
+<description>
+<![CDATA[<p>17.06.2016<br />
+09:00 bis 16:00<br />
+Nachbarschaftszentrum 17 des Wiener Hilfswerks (17., 18. Bezirk)<br />http://www.nachbarschaftszentren.at/</p>­<p>Zu sehr günstigen Preisen gibt es eine Vielfalt an Büchern, Kleidung, Haushaltswaren, Spielsachen und anderen Kleinigkeiten zu erstehen. Der Erlös kommt sozialen Aktivitäten des Nachbarschaftszentrums 17 zu Gute.</p>
+<p>Eintritt frei</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-17T00:00:00+01:00</cal:dtstart>
+<cal:dtend>T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Fr</cal:byday>
+<cal:byhour>09</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Nachbarschaftszentrum 17 des Wiener Hilfswerks (17., 18. Bezirk)</vcard:fn>
+     <vcard:street-address>Hernalser Hauptstraße 53/
+</vcard:street-address>	
+     <vcard:postal-code>1170</vcard:postal-code>
+     <vcard:tel>0043-1/403 94 33</vcard:tel>
+     <vcard:fax>0043-1/403 94 33-18</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.nachbarschaftszentren.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Nachbarschaftszentrum 17 des Wiener Hilfswerks (17., 18. Bezirk)</vcard:fn>
+     <vcard:street-address>Hernalser Hauptstraße 53/
+</vcard:street-address>	
+     <vcard:postal-code>1170</vcard:postal-code>
+     <vcard:tel>0043-1/403 94 33</vcard:tel>
+     <vcard:fax>0043-1/403 94 33-18</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.nachbarschaftszentren.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>175.07 342117.38</georss:point>
+<dcterms:created>2016-01-07T12:18:00</dcterms:created>
+<dc:title>Nachbarschaftszentrum 17 des Wiener Hilfswerks (17., 18. Bezirk) | Nachbarschaftszentrum 17 des Wiener Hilfswerks (17., 18. Bezirk)­http://www.nachbarschaftszentren.at/</dc:title>
+<dc:date>2016-06-17T09:00:00+00:00</dc:date>
+<dc:relation>T16:00:00 | Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422300</dc:description>
+<dcterms:modified>2016-01-07T12:24:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Safari Dinner</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422062&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422062&amp;return=</guid>
+<description>
+<![CDATA[<p>17.06.2016<br />
+18:45<br />
+Tiergarten Schönbrunn<br />http://www.zoovienna.at/</p>­<p>Mindestalter: 10 Jahre. Afrikas Tierwelt in der Abenddämmerung erleben und ein exotisches Gourmetmenü genießen: Das Safari Dinner beginnt mit einem Begrüßungscocktail im Elefantenhaus mit Blick auf die Afrikanische Elefantenherde des Tiergartens. Bei der anschließenden Abendführung durch den Zoo erleben Sie die Fütterung der Löwen und weitere afrikanische Tiere wie Strauße, Geparde und Zebras. Gespeist wird anschließend im Kaiserpavillon, bei Schönwetter auf der Terrasse mit Blick auf die afrikanische Tierwelt. Bitte beachten Sie, dass eine zeitgerechte Anmeldung für alle Veranstaltungen erforderlich ist. Absagen von gebuchten Veranstaltungen müssen spätestens 3 Werktage vor dem Termin erfolgen, da sonst eine Stornogebühr verrechnet wird.</p>
+<p>entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-17T00:00:00+01:00</cal:dtstart>
+<cal:dtend>T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Fr</cal:byday>
+<cal:byhour>18</cal:byhour>
+<cal:byminute>45</cal:byminute> 
+<cal:location>
+     <vcard:fn>Tiergarten Schönbrunn</vcard:fn>
+     <vcard:street-address>Maxingstraße 13B/
+</vcard:street-address>	
+     <vcard:postal-code>1130</vcard:postal-code>
+     <vcard:tel>0043-1/877 92 94</vcard:tel>
+     <vcard:fax>0043-1/877 96 14</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.zoovienna.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Tiergarten Schönbrunn</vcard:fn>
+     <vcard:street-address>Maxingstraße 13B/
+</vcard:street-address>	
+     <vcard:postal-code>1130</vcard:postal-code>
+     <vcard:tel>0043-1/877 92 94</vcard:tel>
+     <vcard:fax>0043-1/877 96 14</vcard:fax>
+     <vcard:email/>
+     <vcard:url>http://www.zoovienna.at/</vcard:url>
+</cal:organizer>
+<vcard:email/>
+<georss:point>-2375.06 338325.41</georss:point>
+<dcterms:created>2015-12-30T16:43:00</dcterms:created>
+<dc:title>Tiergarten Schönbrunn | Tiergarten Schönbrunn­http://www.zoovienna.at/</dc:title>
+<dc:date>2016-06-17T18:45:00+00:00</dc:date>
+<dc:relation> | Fr</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422062</dc:description>
+<dcterms:modified>2015-12-31T07:18:00</dcterms:modified>
+<dc:language>de-AT</dc:language>
+<dc:rightsHolder>Stadt Wien</dc:rightsHolder>
+<dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
+<dc:creator>Redaktion Veranstaltungsdatenbank (Magistratsabteilung 55)</dc:creator> 
+</item>
+<item>
+<title>Wer hat Angst vor Fotografie? Der Umgang mit dem neuen Medium von Makart bis Klimt</title>
+<link>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422255&amp;return=</link>
+<guid isPermaLink="false">https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=VAErgebnis_neu&amp;Type=K&amp;ID=422255&amp;return=</guid>
+<description>
+<![CDATA[<p>17.06.2016 bis 30.10.2016<br />
+10:00<br />
+Unteres Belvedere Orangerie<br />http://www.belvedere.at/</p>­<p>Die Erfindung der Fotografie 1839 löste bei Künstlern Faszination und Schrecken zugleich aus: Hatten beispielsweise Porträtmaler zu Recht Angst vor einem drastischen Rückgang ihres Geschäfts, entdeckten andere rasch die zahlreichen Möglichkeiten, die ihnen das neue Medium eröffnete. Sie benutzten es, um ihre Werke in billigen Reproduktionen unter die Leute zu bringen und auf demselben Weg Kenntnis von den neuesten Trends im internationalen Kunstgeschehen zu erlangen. Doch auch als Erinnerungsstützen oder direkte Vorlagen wurden Fotografien bald unentbehrlich. Viele Maler lernten, selbst mit der Kamera umzugehen, oder beschäftigten Berufsfotografen, die hier eine spezielle Marktnische vorfanden. Öffnungszeiten 10.00-18.00 Uhr, Mi 10.00-21.00 Uhr.</p>
+<p>Die verschiedenen Preiskategorien und Ermäßigungen entnehmen Sie der Veranstaltungshomepage</p>
+]]></description>
+
+<category/>
+<dc:subject/>
+<cal:dtstart>2016-06-17T00:00:00+01:00</cal:dtstart>
+<cal:dtend>2016-10-30T00:00:00+01:00</cal:dtend>
+
+<cal:byday>Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</cal:byday>
+<cal:byhour>10</cal:byhour>
+<cal:byminute>00</cal:byminute> 
+<cal:location>
+     <vcard:fn>Unteres Belvedere Orangerie</vcard:fn>
+     <vcard:street-address>Rennweg 6A/
+</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/79 557-134</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/</vcard:url>
+</cal:location>
+<cal:organizer>
+     <vcard:fn>Unteres Belvedere</vcard:fn>
+     <vcard:street-address>Rennweg 6A/
+</vcard:street-address>	
+     <vcard:postal-code>1030</vcard:postal-code>
+     <vcard:tel>0043-1/795 57-0</vcard:tel>
+     <vcard:fax/>
+     <vcard:email/>
+     <vcard:url>http://www.belvedere.at/</vcard:url>
+</cal:organizer>
+<vcard:email>public@belvedere.at</vcard:email>
+<georss:point>3588.32 339834.24</georss:point>
+<dcterms:created>2016-01-07T10:08:00</dcterms:created>
+<dc:title>Unteres Belvedere Orangerie | Unteres Belvedere­http://www.belvedere.at/</dc:title>
+<dc:date>2016-06-17T10:00:00+00:00</dc:date>
+<dc:relation>2016-10-30 | Mo, Di, Mi, Do, Fr, Sa, So, Feiertag</dc:relation>
+<dc:description>https://www.wien.gv.at/vadb/internet/AdvPrSrv.asp?Layout=ical-vadb&amp;Type=K&amp;ID=422255</dc:description>
+<dcterms:modified>2016-01-07T10:49:00</dcterms:modified>
 <dc:language>de-AT</dc:language>
 <dc:rightsHolder>Stadt Wien</dc:rightsHolder>
 <dc:license>https://data.wien.gv.at/nutzungsbedingungen</dc:license>
