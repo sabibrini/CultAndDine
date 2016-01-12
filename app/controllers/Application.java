@@ -154,6 +154,7 @@ public class Application extends Controller {
 
         Read_xmlRest.readLongLat(rest);
         String src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDVGIonPsFY9X03uVDndvXKmg0xOEuSyHk &q="+rest.getAdress()+",1060+Wien";
+
         return  ok(restaurant.render(rest));
     }
 
@@ -295,6 +296,9 @@ public class Application extends Controller {
         }
         String src1="https://www.google.com/maps/embed/v1/place?key=AIzaSyDVGIonPsFY9X03uVDndvXKmg0xOEuSyHk &q="+e.getStreet()+",1060+Wien";
         System.out.println(src1);
+        if(e.getStreet().contains("/")){
+            e.setStreet(e.getStreet().replace("/","+"));
+        }
         return  ok(event.render(e,Events.EventRestDistance));
     }
 

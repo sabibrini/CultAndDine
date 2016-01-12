@@ -53,6 +53,10 @@
 		this.link = link;
 	}
 
+	 public void setStreet(String street) {
+		 this.Street = street;
+	 }
+
 	public String getOrganizer() {
 		return Organizer;
 
