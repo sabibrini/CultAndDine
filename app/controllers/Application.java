@@ -294,13 +294,18 @@ public class Application extends Controller {
                 System.out.println(m.r.getName() + " " + m.getDistance());
             }
         }
+        if(e.getStreet().contains("/")){
+        	String fullStreet = e.getStreet();
+        	String [] add = fullStreet.split("/");
+        	String newStreet = add[0];
+        	e.setStreet(newStreet);
+        }        
+        System.out.println("<" + e.getStreet() + ">");
         String src1="https://www.google.com/maps/embed/v1/place?key=AIzaSyDVGIonPsFY9X03uVDndvXKmg0xOEuSyHk &q="+e.getStreet()+",1060+Wien";
         System.out.println(src1);
-        if(e.getStreet().contains("/")){
-            e.setStreet(e.getStreet().replace("/","+"));
-        }
         return  ok(event.render(e,Events.EventRestDistance));
     }
+
 
 /*
 From Dropdown
@@ -317,5 +322,4 @@ From Dropdown
         	return option;
         }
     }
-        
-}
+}  
