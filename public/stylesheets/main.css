@@ -2,6 +2,7 @@
     padding-top: 30px;
     padding-left:20px;
     background-image: url("champagne_bubbles_macro_by_evanduril-d632zpptransparent.png");
+    background-size: 100% auto;
     background-repeat: repeat -x;
     background-color: #F3E1C3;
 	font-family:Calibri;
@@ -29,6 +30,7 @@
 
 #restaurant {
 	top: 450px;
+	height: 300px;
 	width: 500px;
 	left: 750px;
 	position: absolute;

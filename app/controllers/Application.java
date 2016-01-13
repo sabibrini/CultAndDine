@@ -95,16 +95,12 @@ public class Application extends Controller {
     Userinput= Dropdownbox. Defaultvalue Mariahilf
      This methode render the selected Restaurants with the Restaurant list as parameter
      */
-    public play.mvc.Result filterQuatDatabase(){
+    public play.mvc.Result filterQuatDatabase(String quarter){
     	//form request returns null
     	Form<Options> form = Form.form(Options.class).bindFromRequest();
-        if (form.hasErrors()) {
-
-        }
-    	String userinput = form.field("name").value();
-    	System.out.println(userinput);
+    	System.out.println(quarter);
     	//Mariahilf is the default value
-        List<Restaurants> r=FilterRestaurant.filterQuarter("Mariahilf");
+        List<Restaurants> r=FilterRestaurant.filterQuarter(quarter);
         return ok(selectedRestaurants.render(r));
     }
     /*
@@ -153,7 +149,15 @@ public class Application extends Controller {
         xform.transform(domSource, new StreamResult(myOutput));
 
         Read_xmlRest.readLongLat(rest);
-        String src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDVGIonPsFY9X03uVDndvXKmg0xOEuSyHk &q="+rest.getAdress()+",1060+Wien";
+        
+        if(rest.getAdress().contains("/")) {
+        	String fullAddress = rest.getAdress();
+        	String [] splitAddress = fullAddress.split("/");
+        	String newAddress = splitAddress[0];
+        	rest.setAdress(newAddress);
+        }
+        System.out.println("restaurant address: " + rest.getAdress());
+        
 
         return  ok(restaurant.render(rest));
     }

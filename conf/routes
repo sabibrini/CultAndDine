@@ -5,8 +5,8 @@
 # Home pagen.g
 GET     /                           controllers.Application.start()
 GET     /events                     controllers.Application.events()
-GET     /restaurants                controllers.Application.filterQuatDatabase()
-POST    /restaurants                controllers.Application.filterQuatDatabase()
+GET     /restaurants                controllers.Application.filterQuatDatabase(quarter:String)
+POST    /restaurants                controllers.Application.filterQuatDatabase(quarter:String)
 GET     /filterC                    controllers.Application.filterCategor()
 GET		/home						controllers.Application.goHome()
 GET		/thisRestaurant			    controllers.Application.calcLongLad(name:String)
