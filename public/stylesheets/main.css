@@ -1,12 +1,14 @@
  body {
     padding-top: 30px;
     padding-left:20px;
-    background-image: url("Hintergrund.png");
+    background-image: url("champagne_bubbles_macro_by_evanduril-d632zpptransparent.png");
     background-size: 100% auto;
+    background-attachment: fixed;
     background-repeat: repeat -x;
     background-color: #F3E1C3;
 	font-family:Calibri;
 	font-size: 14pt;
+	z-index: 1;
 }
 
 .btn-xl {
@@ -19,6 +21,7 @@
 	top: 300px;
 	position: absolute;
 	right: 20px;
+	z-index:5;
 }
 
 #event {
@@ -26,6 +29,7 @@
 	width: 500px;
 	left: 250px;
 	position: absolute;
+	z-index:5;
 }
 
 #restaurant {
@@ -34,6 +38,7 @@
 	width: 500px;
 	left: 750px;
 	position: absolute;
+	z-index:5;
 }
 
  a:link { 
@@ -63,4 +68,5 @@ a:hover {
 	position: absolute;
 	overflow:auto;
 	float:right;
+	z-index:5;
  }
