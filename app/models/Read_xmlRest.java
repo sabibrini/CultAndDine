@@ -60,6 +60,8 @@ public class Read_xmlRest {
             e.printStackTrace();
         }
         for(Geographics x:geo){
+            r.setLat(x.getLat());
+            r.setLng(x.getLnd());
             System.out.println(x.getLat()+" "+x.getLnd());
         }
     }

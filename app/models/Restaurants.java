@@ -18,6 +18,8 @@ public class Restaurants extends Model {
     public String adress;
     public String phonenumber;
     public String quater;
+    public float lng;
+    public float lat;
     public static ArrayList<Match> restEventDistance=new ArrayList<Match>();
 
 
@@ -47,6 +49,13 @@ public class Restaurants extends Model {
         this.adress = adress;
     }
 
+    public void setLng(float lng){
+        this.lng=lng;
+    }
+
+    public void setLat(float lat){
+        this.lat=lat;
+    }
 
     public Long getId () {
         return id;
@@ -72,6 +81,10 @@ public class Restaurants extends Model {
         return adress;
     }
 
-
-
+    public float getLng(){
+        return lng;
+    }
+    public float getLat(){
+        return lat;
+    }
 }

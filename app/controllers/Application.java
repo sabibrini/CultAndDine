@@ -149,7 +149,7 @@ public class Application extends Controller {
         xform.transform(domSource, new StreamResult(myOutput));
 
         Read_xmlRest.readLongLat(rest);
-        
+
         if(rest.getAdress().contains("/")) {
         	String fullAddress = rest.getAdress();
         	String [] splitAddress = fullAddress.split("/");
@@ -157,7 +157,7 @@ public class Application extends Controller {
         	rest.setAdress(newAddress);
         }
         System.out.println("restaurant address: " + rest.getAdress());
-        
+
 
         return  ok(restaurant.render(rest));
     }
@@ -303,7 +303,7 @@ public class Application extends Controller {
         	String [] add = fullStreet.split("/");
         	String newStreet = add[0];
         	e.setStreet(newStreet);
-        }        
+        }
         System.out.println("<" + e.getStreet() + ">");
         String src1="https://www.google.com/maps/embed/v1/place?key=AIzaSyDVGIonPsFY9X03uVDndvXKmg0xOEuSyHk &q="+e.getStreet()+",1060+Wien";
         System.out.println("embedded googlemap URL: " + src1);
@@ -326,4 +326,4 @@ From Dropdown
         	return option;
         }
     }
-}  
+}
