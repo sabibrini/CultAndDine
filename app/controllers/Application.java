@@ -98,7 +98,7 @@ public class Application extends Controller {
     public play.mvc.Result filterQuatDatabase(String quarter){
     	//form request returns null
     	Form<Options> form = Form.form(Options.class).bindFromRequest();
-    	System.out.println(quarter);
+    	System.out.println("selected quarter: " + quarter);
     	//Mariahilf is the default value
         List<Restaurants> r=FilterRestaurant.filterQuarter(quarter);
         return ok(selectedRestaurants.render(r));
@@ -128,7 +128,7 @@ public class Application extends Controller {
         if(adress.contains(" ")){
             adress=adress.replace(" ","+");
         }
-        System.out.println(adress);
+        System.out.println("restaurant address: " + adress);
         String site="https://maps.googleapis.com/maps/api/geocode/xml?address="+adress;
 
         URL url = new URL(site);
@@ -214,7 +214,7 @@ public class Application extends Controller {
 
             String site2 = "https://maps.googleapis.com/maps/api/distancematrix/xml?origins="+add+"&destinations="+st+"&mode=walking&language=en-EN";
 
-            System.out.println(site2);
+            System.out.println("distancematrix: " + site2);
             URL url1 = new URL(site2);
             URLConnection conn1 = url1.openConnection();
 
@@ -239,7 +239,7 @@ public class Application extends Controller {
 
         }
         for(Match m :  Restaurants.restEventDistance){
-            System.out.println(m.e.getTitle()+" "+m.getDistance());
+            System.out.println("distance restaurant event: " + m.e.getTitle()+" "+m.getDistance());
         }
         return  ok(finalRestaurant.render(rest,Restaurants.restEventDistance));
     }
@@ -271,7 +271,7 @@ public class Application extends Controller {
                 //System.out.println("ADRESSE "+add);
                 String site2 = "https://maps.googleapis.com/maps/api/distancematrix/xml?origins=" +str+ "&destinations="+add+"&mode=walking&language=en-EN";
 
-                System.out.println(site2);
+                System.out.println("distancematrix: " + site2);
                 URL url1 = new URL(site2);
                 URLConnection conn1 = url1.openConnection();
 
@@ -295,7 +295,7 @@ public class Application extends Controller {
                 }
             }
             for (Match m : Events.EventRestDistance) {
-                System.out.println(m.r.getName() + " " + m.getDistance());
+                System.out.println("distance event restaurant: " + m.r.getName() + " " + m.getDistance());
             }
         }
         if(e.getStreet().contains("/")){
@@ -306,7 +306,7 @@ public class Application extends Controller {
         }        
         System.out.println("<" + e.getStreet() + ">");
         String src1="https://www.google.com/maps/embed/v1/place?key=AIzaSyDVGIonPsFY9X03uVDndvXKmg0xOEuSyHk &q="+e.getStreet()+",1060+Wien";
-        System.out.println(src1);
+        System.out.println("embedded googlemap URL: " + src1);
         return  ok(event.render(e,Events.EventRestDistance));
     }
 
