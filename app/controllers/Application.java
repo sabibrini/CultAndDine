@@ -42,7 +42,7 @@ public class Application extends Controller {
     }
 
     /*
-    Home application for Events
+    Home application for Event
     Endpoint Connection to wien.gv.at with date input from the user
     Saving the data in events.xml and with the call readEvents we save the events from the xml in an ArrayList
     This methode renders the selected Event site
