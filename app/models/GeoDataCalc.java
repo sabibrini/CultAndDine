@@ -37,7 +37,7 @@ public class GeoDataCalc {
             System.out.println(e.getStreet());
             StringBuilder urlBuilder = new StringBuilder(GEOCODE_REQUEST_URL);
             if (StringUtils.isNotBlank(e.getStreet())) {
-                urlBuilder.append("&address=").append(URLEncoder.encode(e.getStreet(), "UTF-8"));
+                urlBuilder.append("&address=").append(URLEncoder.encode(e.getStreet()+"1060+Wien", "UTF-8"));
             }
 
             final GetMethod getMethod = new GetMethod(urlBuilder.toString());
