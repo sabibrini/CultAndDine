@@ -3,6 +3,8 @@ package models;
 import play.db.ebean.Model;
 import javax.persistence.*;
 import play.data.validation.Constraints;
+
+import java.lang.reflect.Array;
 import java.util.*;
 
 
@@ -18,9 +20,10 @@ public class Restaurants extends Model {
     public String adress;
     public String phonenumber;
     public String quater;
-    public float lng;
-    public float lat;
+    public String lng;
+    public String lat;
     public static ArrayList<Match> restEventDistance=new ArrayList<Match>();
+    public ArrayList<String> addressOfEvents=new ArrayList<String>();
 
 
     public static Finder<Long, Restaurants> find = new Finder<>(Restaurants.class);
@@ -49,11 +52,11 @@ public class Restaurants extends Model {
         this.adress = adress;
     }
 
-    public void setLng(float lng){
+    public void setLng(String lng){
         this.lng=lng;
     }
 
-    public void setLat(float lat){
+    public void setLat(String lat){
         this.lat=lat;
     }
 
@@ -81,10 +84,10 @@ public class Restaurants extends Model {
         return adress;
     }
 
-    public float getLng(){
+    public String getLng(){
         return lng;
     }
-    public float getLat(){
+    public String getLat(){
         return lat;
     }
 }

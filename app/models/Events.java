@@ -5,18 +5,21 @@
 
  public class Events{
 
-    private String Title;
+    public String name;
     private String link;
     private String Category;
 
     private String Organizer;
 	private String Coordinates;
-	private String Street;
+	public String Street;
+	 public String lng;
+	 public String lat;
+
 	public static ArrayList<Match>EventRestDistance=new ArrayList<Match>();// very Events has its matching Array with Restaurants
 
     public Events(String Title,String link,String Category, String Organizer,String Coordinates,String Street){
 
-        this.Title=Title;
+        this.name=Title;
         this.link=link;
         this.Category=Category;
 		this.Street=Street;
@@ -30,11 +33,11 @@
 
     }
      public String getTitle() {
-		return Title;
+		return name;
 	}
 
 	public void setTitle(String title) {
-		Title = title;
+		name = title;
 	}
 
 	public String getStreet(){
@@ -74,4 +77,16 @@
 		Category = category;
 	}
 
+	 public void setLng(String lng){
+		 lng=lng;
+	 }
+	 public void setLat(String lat){
+		 lat=lat;
+	 }
+	public String getLng(){
+		return lng;
+	}
+	 public String getLat(){
+		 return lat;
+	 }
 }
