@@ -138,7 +138,7 @@ public class GeoDataCalc {
 
     public static void getGeoData(Events ev, List<Match> matchingArray){
         for(Match x: matchingArray) {
-            calcGeoData(x.e);
+            calcGeoData(x.r);
         }
         try {
             System.out.println(ev.getStreet());
@@ -181,6 +181,50 @@ public class GeoDataCalc {
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+    public static void calcGeoData(Restaurants r){
+        try {
+            System.out.println(r.getAdress());
+            StringBuilder urlBuilder = new StringBuilder(GEOCODE_REQUEST_URL);
+            if (StringUtils.isNotBlank(r.getAdress())) {
+                urlBuilder.append("&address=").append(URLEncoder.encode(r.getAdress()+"1060+Wien", "UTF-8"));
+            }
+
+            final GetMethod getMethod = new GetMethod(urlBuilder.toString());
+            try {
+                httpClient.executeMethod(getMethod);
+                Reader reader = new InputStreamReader(getMethod.getResponseBodyAsStream(), getMethod.getResponseCharSet());
+
+                int data = reader.read();
+                char[] buffer = new char[1024];
+                Writer writer = new StringWriter();
+                while ((data = reader.read(buffer)) != -1) {
+                    writer.write(buffer, 0, data);
+                }
+
+                String result = writer.toString();
+                System.out.println(result.toString());
+
+                DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+                DocumentBuilder db = dbf.newDocumentBuilder();
+                InputSource is = new InputSource();
+                is.setCharacterStream(new StringReader("<"+writer.toString().trim()));
+                Document doc = db.parse(is);
+
+                r.lat= getXpathValue(doc, "//GeocodeResponse/result/geometry/location/lat/text()");
+                System.out.println("Latitude:" + r.lat);
+
+                r.lng = getXpathValue(doc,"//GeocodeResponse/result/geometry/location/lng/text()");
+                System.out.println("Longitude:" + r.lng);
+
+
+            } finally {
+                getMethod.releaseConnection();
+            }
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+
     }
 
 }
