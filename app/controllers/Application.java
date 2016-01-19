@@ -129,7 +129,8 @@ public class Application extends Controller {
             adress=adress.replace(" ","+");
         }
         System.out.println("restaurant address: " + adress);
-        String site="https://maps.googleapis.com/maps/api/geocode/xml?address="+adress;
+        // irrelevant da map mit iframe !!!!!!
+        /*String site="https://maps.googleapis.com/maps/api/geocode/xml?address="+adress;
 
         URL url = new URL(site);
         URLConnection conn = url.openConnection();
@@ -148,7 +149,7 @@ public class Application extends Controller {
         xform.setOutputProperty(OutputKeys.ENCODING, "UTF-8");
         xform.transform(domSource, new StreamResult(myOutput));
 
-        Read_xmlRest.readLongLat(rest);
+        Read_xmlRest.readLongLat(rest);*/
 
         if(rest.getAdress().contains("/")) {
         	String fullAddress = rest.getAdress();
@@ -240,7 +241,9 @@ public class Application extends Controller {
         }
         for(Match m :  Restaurants.restEventDistance){
             System.out.println("distance restaurant event: " + m.e.getTitle()+" "+m.getDistance());
+            rest.addressOfEvents.add(m.e.getStreet());
         }
+        models.GeoDataCalc.getGeoData(rest,Restaurants.restEventDistance);
         return  ok(finalRestaurant.render(rest,Restaurants.restEventDistance));
     }
 

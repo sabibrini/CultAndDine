@@ -4,20 +4,20 @@ package models;
 Every Restaurant has it own geographics add for Events !!!
  */
 public class Geographics{
-    private Float lat;
-    private Float lnd;
+    private String lat;
+    private String lnd;
     private Restaurants rest;
 
     public Geographics(String la,String ln, Restaurants rest) {
-        this.lat=new Float(la);
-        this.lnd=new Float(ln);
+        this.lat=la;
+        this.lnd=ln;
         this.rest=rest;
 
     }
-    public Float getLat(){
+    public String getLat(){
         return this.lat;
     }
-    public Float getLnd(){
+    public String getLnd(){
         return this.lnd;
     }
     public Restaurants getRestaurant() {
