@@ -26,7 +26,7 @@
         this.Organizer = Organizer;
 		if(Coordinates.contains(" ")){					// syntax for google maps
 			this.Coordinates=Coordinates.replace(" ",",");
-			
+
 
 		}
 

@@ -239,6 +239,8 @@ public class Application extends Controller {
             }
 
         }
+        System.out.println();
+        System.out.println("Here comes the matches");
         for(Match m :  Restaurants.restEventDistance){
             System.out.println("distance restaurant event: " + m.e.getTitle()+" "+m.getDistance());
             rest.addressOfEvents.add(m.e.getStreet());
@@ -308,8 +310,8 @@ public class Application extends Controller {
         	e.setStreet(newStreet);
         }
         System.out.println("<" + e.getStreet() + ">");
-        String src1="https://www.google.com/maps/embed/v1/place?key=AIzaSyDVGIonPsFY9X03uVDndvXKmg0xOEuSyHk &q="+e.getStreet()+",1060+Wien";
-        System.out.println("embedded googlemap URL: " + src1);
+
+        models.GeoDataCalc.getGeoData(e,Events.EventRestDistance);
         return  ok(event.render(e,Events.EventRestDistance));
     }
 

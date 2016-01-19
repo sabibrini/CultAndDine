@@ -84,7 +84,7 @@ public class GeoDataCalc {
             System.out.println(res.getAdress());
             StringBuilder urlBuilder = new StringBuilder(GEOCODE_REQUEST_URL);
             if (StringUtils.isNotBlank(res.getAdress())) {
-                urlBuilder.append("&address=").append(URLEncoder.encode(res.getAdress(), "UTF-8"));
+                urlBuilder.append("&address=").append(URLEncoder.encode(res.getAdress()+"1060+Wien", "UTF-8"));
             }
 
             final GetMethod getMethod = new GetMethod(urlBuilder.toString());
@@ -134,6 +134,53 @@ public class GeoDataCalc {
         return resultData;
 
 
+    }
+
+    public static void getGeoData(Events ev, List<Match> matchingArray){
+        for(Match x: matchingArray) {
+            calcGeoData(x.e);
+        }
+        try {
+            System.out.println(ev.getStreet());
+            StringBuilder urlBuilder = new StringBuilder(GEOCODE_REQUEST_URL);
+            if (StringUtils.isNotBlank(ev.getStreet())) {
+                urlBuilder.append("&address=").append(URLEncoder.encode(ev.getStreet()+"1060+Wien", "UTF-8"));
+            }
+
+            final GetMethod getMethod = new GetMethod(urlBuilder.toString());
+            try {
+                httpClient.executeMethod(getMethod);
+                Reader reader = new InputStreamReader(getMethod.getResponseBodyAsStream(), getMethod.getResponseCharSet());
+
+                int data = reader.read();
+                char[] buffer = new char[1024];
+                Writer writer = new StringWriter();
+                while ((data = reader.read(buffer)) != -1) {
+                    writer.write(buffer, 0, data);
+                }
+
+                String result = writer.toString();
+                //System.out.println(result.toString());
+
+                DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+                DocumentBuilder db = dbf.newDocumentBuilder();
+                InputSource is = new InputSource();
+                is.setCharacterStream(new StringReader("<"+writer.toString().trim()));
+                Document doc = db.parse(is);
+
+                ev.lat= getXpathValue(doc, "//GeocodeResponse/result/geometry/location/lat/text()");
+                System.out.println("Latitude:" + ev.lat);
+
+                ev.lng = getXpathValue(doc,"//GeocodeResponse/result/geometry/location/lng/text()");
+                System.out.println("Longitude:" + ev.lng);
+
+
+            } finally {
+                getMethod.releaseConnection();
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
 }
