@@ -21,10 +21,11 @@
 <script type="text/javascript">
 		var lat = [@event.lat];
 		var lng = [@event.lng];
-		var name = [];
+		var nameOf = ['@event.name'];
 		@for(matchE:Match <-matchEv){
 			lat.push(@matchE.r.lat);
 			lng.push(@matchE.r.lng);
+			nameOf.push('@matchE.r.name');
 		}
 
 
@@ -46,7 +47,7 @@ alert(lat.length);alert(lng.length);
 alert(i);
 		   google.maps.event.addListener(marker, 'click', (function(marker, i) {
 			return function() {
-			  infowindow.setContent(name[i]);
+			  infowindow.setContent(nameOf[i]);
 			  infowindow.open(map, marker);
 			}
 		  })(marker, i));

@@ -18,10 +18,11 @@
 	<script type="text/javascript">
 		var lat = [@res.lat];
 		var lng = [@res.lng];
-		var name = [];
+		var names = ['@res.name'];
 		@for(matchR:Match <-matchRest){
 			lat.push(@matchR.e.lat);
 			lng.push(@matchR.e.lng);
+			names.push('@matchR.e.name');
 		}
 
 
@@ -33,21 +34,21 @@
 
 		var infowindow = new google.maps.InfoWindow();
 
-		var marker;
+		var marker,i;
 alert(lat.length);alert(lng.length);
-		for (var i = 0; i < lat.length; i++) {
+		for (i = 0; i < lat.length; i++) {
 		  marker = new google.maps.Marker({
 			position: new google.maps.LatLng(lat[i], lng[i]),
 			map: map
 		  });
 alert(i);
 		   google.maps.event.addListener(marker, 'click', (function(marker, i) {
-			return function() {
-			  infowindow.setContent(name[i]);
-			  infowindow.open(map, marker);
-			}
-		  })(marker, i));
-		}
+        return function() {
+          infowindow.setContent(names[i]);
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+    }
 
 	</script>
 </body>
